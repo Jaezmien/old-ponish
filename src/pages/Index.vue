@@ -57,8 +57,8 @@ export default {
 						   class="underline">"How To Speak Old
 							Ponish"</a>)</figcaption>
 				</div>
-				<br>
-				<p class="opacity-40">(TODO: More stuff if needed)</p>
+				<!--<br>
+				<p class="opacity-40">(TODO: More stuff if needed)</p>-->
 			</section>
 		</div>
 
