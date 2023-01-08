@@ -1,5 +1,5 @@
 <script>
-import Navbar from "@/components/Navbar.vue"
+import Navbar from "@/components/Navbar.vue";
 export default {
 	components: {
 		Navbar
@@ -51,13 +51,13 @@ export default {
 						<g-link to="/contact/"
 								class="px-4 py-1 border rounded hover:(bg-white text-dark-200) transition-colors duration-200">
 							Contact</g-link>
-						<g-link to="/suggestion/"
+						<!--<g-link to="/suggestion/"
 								class="px-4 py-1 border rounded hover:(bg-white text-dark-200) transition-colors duration-200">
-							Suggestions</g-link>
+							Suggestions</g-link>-->
 						<a href="https://discord.gg/NxerkEy"
 						   target="_blank"
 						   rel="noopener"
-						   class="px-4 py-1 border border-[#5865F2] text-[#5865F2] hover:(bg-[#5865F2] text-white) transition-colors duration-200 rounded">
+						   class="px-4 py-1 bg-[#5865F2] text-white hover:(bg-[#3D41D8] text-white) transition-colors duration-200 rounded">
 							Discord</a>
 					</div>
 				</div>
