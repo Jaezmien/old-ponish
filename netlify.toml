@@ -5,3 +5,4 @@
 [[redirects]]
 	from = "/discord"
 	to = "https://discord.gg/NxerkEy"
+	force = true

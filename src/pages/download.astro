@@ -1,0 +1,52 @@
+---
+import '@fontsource/roboto-serif/700.css';
+import Download from '../components/DownloadButton.astro';
+import Layout from '../layouts/BaseLayout.astro';
+---
+
+<Layout title="Download">
+	<main class="divide-y divide-gray-400 p-12">
+		<h1 class="font-bold text-4xl md:text-5xl text-center font-roboto-serif mb-8">Downloads</h1>
+
+		<section class="p-4">
+			<div class="flex flex-row gap-4 flex-wrap w-full justify-center mt-8 mb-4">
+				<Download href="/dl/Dictionary.pdf">Old Ponish Dictionary</Download>
+				<Download href="/dl/Grammar.pdf">Quick Grammar Guide</Download>
+				<Download href="/dl/Changelog.xlsx">1.15 Changelog</Download>
+			</div>
+			<p class="text-center italic mb-4">Current Release: 1.15</p>
+		</section>
+
+		<section class="p-8">
+			<h2 class="font-roboto-serif font-bold text-xl">Miscellaneous</h2>
+
+			<ul class="list-disc list-inside mt-8 mx-auto max-w-xl">
+				<li>
+					<a
+						href="https://mega.nz/file/VTJR0D5Y#k90dS8dCz8dBmOJFHQTdw55UyNS78UcOWs-AKhK0TOE"
+						class="font-bold underline"
+					>
+						OP Translation
+					</a>- Archive of the original Old Ponish Translation
+				</li>
+				<li>
+					<a
+						href="https://mega.nz/file/lDhlTIbJ#WB_-k1fS2grvGmjiI6FfKleXfL5cbdRKvPUQPm_SnXs"
+						class="font-bold underline"
+					>
+						hackd's Vocabulary Etymology
+					</a> - Origins/Etymologies of a large batch of the first words, all from hackd
+				</li>
+			</ul>
+
+			<p class="italic text-right mt-12">
+				Needing an older version? You can find those <a
+					href="https://mega.nz/folder/hPxX2YZA#I-VcqYhxCRFIoBFYiDue7w"
+					class="underline text-ponish-900"
+				>
+					here!
+				</a>
+			</p>
+		</section>
+	</main>
+</Layout>

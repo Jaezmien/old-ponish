@@ -1,0 +1,16 @@
+---
+import '@fontsource/roboto-serif/600.css';
+
+export interface Props {
+	href: string;
+}
+
+const { href } = Astro.props;
+---
+
+<a
+	href={href}
+	class="p-4 border rounded-lg border-gray-800 font-semibold font-roboto-serif transition-colors duration-200 hover:bg-gray-800 hover:text-white"
+>
+	<slot />
+</a>

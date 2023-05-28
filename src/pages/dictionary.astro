@@ -1,6 +1,12 @@
 ---
+import Dictionary from '../components/Dictionary.vue';
+import Layout from '../layouts/BaseLayout.astro';
 ---
 
-<div>
-	<p>temp</p>
-</div>
+<Layout title="Dictionary">
+	<main class="p-12">
+		<h1 class="font-bold text-4xl md:text-5xl text-center font-roboto-serif">Dictionary</h1>
+		<hr class="border-gray-400 my-8" />
+		<Dictionary client:idle />
+	</main>
+</Layout>

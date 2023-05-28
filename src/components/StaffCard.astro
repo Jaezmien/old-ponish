@@ -1,0 +1,16 @@
+---
+import '@fontsource/roboto-serif/700.css';
+export interface Props {
+	name: string;
+	discord?: string;
+	role: string;
+}
+
+const { name, discord, role } = Astro.props;
+---
+
+<div class="w-full md:w-[20rem] p-5 border border-light-800 bg-white rounded shadow-md">
+	<h1 class="text-2xl font-roboto-serif font-bold">{name}</h1>
+	{discord && <h4 class="text-sm opacity-80 -mt-1">{discord}</h4>}
+	<p class="mt-2">{role}</p>
+</div>

@@ -1,0 +1,390 @@
+---
+import Particles from 'astro-particles';
+import type { ISourceOptions } from 'tsparticles-engine';
+
+const options: ISourceOptions = {
+	background: {
+		color: '#fcfaea',
+	},
+	fullScreen: {
+		zIndex: 0,
+		enable: false,
+	},
+	particles: {
+		bounce: {
+			horizontal: {
+				random: {
+					enable: false,
+					minimumValue: 0.1,
+				},
+				value: 1,
+			},
+			vertical: {
+				random: {
+					enable: false,
+					minimumValue: 0.1,
+				},
+				value: 1,
+			},
+		},
+		collisions: {
+			absorb: {
+				speed: 2,
+			},
+			bounce: {
+				horizontal: {
+					random: {
+						enable: false,
+						minimumValue: 0.1,
+					},
+					value: 1,
+				},
+				vertical: {
+					random: {
+						enable: false,
+						minimumValue: 0.1,
+					},
+					value: 1,
+				},
+			},
+			enable: false,
+			mode: 'bounce',
+			overlap: {
+				enable: true,
+				retries: 0,
+			},
+		},
+		groups: {},
+		move: {
+			angle: {
+				offset: 0,
+				value: 90,
+			},
+			attract: {
+				distance: 200,
+				enable: false,
+				rotate: {
+					x: 600,
+					y: 1200,
+				},
+			},
+			center: {
+				x: 50,
+				y: 50,
+				// @ts-ignore
+				mode: 'percent',
+				radius: 64,
+			},
+			decay: 0,
+			distance: {},
+			direction: 'none',
+			drift: 0,
+			enable: true,
+			gravity: {
+				acceleration: 9.81,
+				enable: false,
+				inverse: false,
+				maxSpeed: 50,
+			},
+			path: {
+				clamp: true,
+				delay: {
+					random: {
+						enable: false,
+						minimumValue: 0,
+					},
+					value: 0,
+				},
+				enable: false,
+				options: {},
+			},
+			outModes: {
+				default: 'out',
+				bottom: 'out',
+				left: 'out',
+				right: 'out',
+				top: 'out',
+			},
+			random: false,
+			size: false,
+			speed: 3,
+			spin: {
+				acceleration: 0,
+				enable: false,
+			},
+			straight: false,
+			trail: {
+				enable: false,
+				length: 10,
+				fill: {},
+			},
+			vibrate: false,
+			warp: false,
+		},
+		number: {
+			density: {
+				enable: true,
+				width: 1920,
+				height: 1080,
+			},
+			limit: 200,
+			value: 150,
+		},
+		opacity: {
+			random: {
+				enable: true,
+				minimumValue: 0.1,
+			},
+			value: 0.3,
+			animation: {
+				count: 0,
+				enable: false,
+				speed: 1,
+				decay: 0,
+				sync: false,
+				destroy: 'none',
+				startValue: 'random',
+				minimumValue: 0.1,
+			},
+		},
+		reduceDuplicates: false,
+		shape: {
+			type: 'image',
+			images: [
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/a.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/b.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/d.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/e.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/f.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/g.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/h.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/i.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/j.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/k.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/l.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/m.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/n.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/o.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/p.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/q.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/r.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/s.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/t.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/u.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/v.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/w.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/y.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/z.png',
+					replaceColor: false,
+				},
+				{
+					width: 64,
+					height: 64,
+					src: '/letters/sc.png',
+					replaceColor: false,
+				},
+				{
+					width: 37,
+					height: 64,
+					src: '/letters/th1.png',
+					replaceColor: false,
+				},
+				{
+					width: 64,
+					height: 64,
+					src: '/letters/th2.png',
+					replaceColor: false,
+				},
+			],
+		},
+		size: {
+			value: {
+				min: 5,
+				max: 15,
+			},
+			animation: {
+				count: 0,
+				enable: false,
+				speed: 40,
+				decay: 0,
+				sync: false,
+				destroy: 'none',
+				startValue: 'random',
+				minimumValue: 0.1,
+			},
+		},
+		links: {
+			blink: false,
+			color: {
+				value: '#000',
+			},
+			consent: false,
+			distance: 150,
+			enable: true,
+			frequency: 1,
+			opacity: 0.2,
+			shadow: {
+				blur: 5,
+				color: {
+					value: '#000',
+				},
+				enable: false,
+			},
+			triangles: {
+				enable: false,
+				frequency: 1,
+			},
+			width: 4,
+			warp: false,
+		},
+	},
+};
+---
+
+<script>
+	import { loadFull } from 'tsparticles';
+	import { tsParticles } from 'tsparticles-engine';
+
+	(async () => {
+		await loadFull(tsParticles);
+
+		tsParticles.addEventListener('containerStarted', () => {
+			const tsp = document.querySelector('#tsparticles');
+			if (tsp) {
+				tsp.classList.add('show');
+			}
+		});
+	})();
+</script>
+
+<Particles id="tsparticles" options={options} />
+
+<style lang="scss" is:global>
+	astro-particles {
+		@apply hidden;
+	}
+	#tsparticles {
+		@apply opacity-0 transition-opacity duration-1000;
+	}
+	#tsparticles.show {
+		@apply opacity-100;
+	}
+</style>
