@@ -361,10 +361,13 @@ const options: ISourceOptions = {
 		await loadFull(tsParticles);
 
 		tsParticles.addEventListener('containerStarted', () => {
-			const tsp = document.querySelector('#tsparticles');
-			if (tsp) {
-				tsp.classList.add('show');
-			}
+			console.log('TSP - Started!');
+			requestIdleCallback(() => {
+				const tsp = document.querySelector('#tsparticles');
+				if (tsp) {
+					tsp.classList.add('show');
+				}
+			});
 		});
 	})();
 </script>
