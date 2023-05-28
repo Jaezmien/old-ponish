@@ -360,14 +360,11 @@ const options: ISourceOptions = {
 	(async () => {
 		await loadFull(tsParticles);
 
-		tsParticles.addEventListener('containerStarted', () => {
-			console.log('TSP - Started!');
-			requestIdleCallback(() => {
-				const tsp = document.querySelector('#tsparticles');
-				if (tsp) {
-					tsp.classList.add('show');
-				}
-			});
+		requestIdleCallback(() => {
+			const tsp = document.querySelector('#tsparticles');
+			if (tsp) {
+				tsp.classList.add('show');
+			}
 		});
 	})();
 </script>
