@@ -99,7 +99,7 @@
 			</section>
 		</div>
 		<div v-else>
-			<p>Loading the dictionary...</p>
+			<p class="italic text-center">Loading the dictionary...</p>
 		</div>
 	</div>
 </template>
