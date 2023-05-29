@@ -1,0 +1,9561 @@
+{
+	"-(s)i": {
+		"definition": "make noun plural, si is used when word ends in a vowel otherwise i",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-aft": {
+		"definition": "\"possessing the traits of\"; -ship, -ness, -hood",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-al": {
+		"definition": "indicating repetition or continuation of a verb",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-an": {
+		"definition": "gives a word an -ly ending",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-dael": {
+		"definition": "part, e.g. bodypart",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-er": {
+		"definition": "\"something or one who does\" verb. -an/-en verbs drop -an/-en, vowel-ending just add -r",
+		"speech": [
+			"suffix"
+		],
+		"similar": [
+			"-r"
+		]
+	},
+	"-fald": {
+		"definition": "consisting of so many parts, attached to numbers; (idiomatically unfald=simple)",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-fum": {
+		"definition": "\"place\"; the 'place' where something is done or occurs",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-ian": {
+		"definition": "verb from noun/adjective in the sense of \"to be X\", to noun-en",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-im": {
+		"definition": "form nouns from verbs",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-ira": {
+		"definition": "diminutive; added to indicate small size, young age, affection, or cuteness",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-koun": {
+		"definition": "English equivalent 'able' from 'kounen', denotes attached word is possible",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-kraft": {
+		"definition": "the craft, skill, or trade of the affixed",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-lefa": {
+		"definition": "\"-ism\", belief or philosophy of",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-lefar": {
+		"definition": "agent suffix, believer in some kind of system",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-les": {
+		"definition": "-less, adj. comparative (rathles = less red); false, fakse, psuedo",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-let": {
+		"definition": "a baby version of",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-lig": {
+		"definition": "-like, -esque",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-lorna": {
+		"definition": "-ology, \"study of\"",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-luvji": {
+		"definition": "sexual or romantic lover of",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-mar": {
+		"definition": "-more, adjective comparative (rath = red, rathmar = redder)",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-mest": {
+		"definition": "-most; adjective superlative (goth = good, gothmest = best)",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-min": {
+		"definition": "-least; adjective superlative (goth = good, gothmin = least good)",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-om": {
+		"definition": "group, organization, or (abstractly) fighting force, militia",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-r": {
+		"definition": "\"something or one who does\" verb. -an/-en verbs drop -an/-en, vowel-ending just add -r",
+		"speech": [
+			"suffix"
+		],
+		"similar": [
+			"-er"
+		]
+	},
+	"-rom": {
+		"definition": "room,booth, or small enclosure where something occurs",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-sal": {
+		"definition": "seller of -",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-the": {
+		"definition": "turns a noun into an adjective and numbers into ordinal numbers",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-ung": {
+		"definition": "\"-tion\"; \"-ment\"; noun meaning result of word happening or carried out (e.g. discovery, establishment, admonition)",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-vul": {
+		"definition": "\"-ful\", full of, tending to, adjective possessing a quality related to the noun",
+		"speech": [
+			"suffix"
+		]
+	},
+	"-ward": {
+		"definition": "-ward, motion (to)ward",
+		"speech": [
+			"suffix"
+		]
+	},
+	"a": {
+		"definition": "of, expressing other forms*",
+		"note": "*those which se or ulf do not express",
+		"speech": [
+			"preposition"
+		]
+	},
+	"ab": {
+		"definition": "but, however",
+		"note": "*merge of Ponish aber and Pegasan ab",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"aedesan": {
+		"definition": "harmony",
+		"speech": [
+			"noun"
+		]
+	},
+	"aege": {
+		"definition": "eye, eyeball",
+		"speech": [
+			"noun"
+		]
+	},
+	"aegepen": {
+		"definition": "eyelash",
+		"note": "*Literally \"eye feather\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"aegetol": {
+		"definition": "eye socket",
+		"note": "*Literally \"eye hole\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"aeglen": {
+		"definition": "eagle, roc",
+		"speech": [
+			"noun"
+		]
+	},
+	"aeglenleon": {
+		"definition": "griffon",
+		"speech": [
+			"noun"
+		]
+	},
+	"ael": {
+		"definition": "ale, beer, mead, stout, lager",
+		"speech": [
+			"noun"
+		]
+	},
+	"aeldr": {
+		"definition": "parent",
+		"speech": [
+			"noun"
+		]
+	},
+	"aen": {
+		"definition": "own (implying ownership, as in \"my own\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"aenaft": {
+		"definition": "property, owned, posessed, ownership",
+		"speech": [
+			"noun"
+		]
+	},
+	"aeppala": {
+		"definition": "apple",
+		"speech": [
+			"noun"
+		]
+	},
+	"Aeppala Bloum": {
+		"character": {},
+		"definition": "Apple Bloom",
+		"speech": [
+			"character"
+		]
+	},
+	"aeppalael": {
+		"definition": "cider (alchoholic or non)",
+		"speech": [
+			"noun"
+		]
+	},
+	"Aeppalael": {
+		"character": {
+			"justification": "\"Applejack\" a type of alcoholic drink, hence \"apple ale\"."
+		},
+		"definition": "Applejack",
+		"speech": [
+			"character"
+		]
+	},
+	"aeppalmasc": {
+		"definition": "apple sauce",
+		"note": "*literally \"apple mash\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"aera": {
+		"definition": "egg",
+		"speech": [
+			"noun"
+		]
+	},
+	"aestro": {
+		"nsfw": {
+			"in_universe": "from Pegasan oistros, same meaning.",
+			"out_universe": "from estrus, the Latin/English term for such a period."
+		},
+		"definition": "heat; sexual receptiveness in females",
+		"speech": [
+			"noun"
+		]
+	},
+	"af-": {
+		"definition": "the general derivational affix for the concept of “off”",
+		"speech": [
+			"prefix"
+		]
+	},
+	"afeden": {
+		"definition": "to sustain, to maintain",
+		"speech": [
+			"verb"
+		]
+	},
+	"aff": {
+		"definition": "off, in the direction away; non-functioning",
+		"speech": [
+			"preposition",
+			"adverb"
+		]
+	},
+	"afhakk": {
+		"definition": "paragraph; passage in text; a series of sentences",
+		"speech": [
+			"noun"
+		]
+	},
+	"aftreffa": {
+		"definition": "repetition, echo; reflected sound",
+		"speech": [
+			"noun"
+		]
+	},
+	"aftreffen": {
+		"definition": "to echo; to reflect off of a surface and return",
+		"speech": [
+			"verb"
+		]
+	},
+	"agaes": {
+		"definition": "against",
+		"speech": [
+			"preposition"
+		]
+	},
+	"agaesfira": {
+		"definition": "reluctance, hesitance",
+		"speech": [
+			"noun"
+		]
+	},
+	"ager": {
+		"definition": "negative, bad, unpleasant, misbehaving",
+		"speech": [
+			"adjective",
+			"adverb"
+		]
+	},
+	"agna": {
+		"definition": "long",
+		"speech": [
+			"adjective"
+		]
+	},
+	"agnafaelen": {
+		"definition": "to be bored, to feel uninterested, tiresome",
+		"speech": [
+			"verb"
+		]
+	},
+	"agnafaelung": {
+		"definition": "boredom, the state or result of being bored",
+		"speech": [
+			"noun"
+		]
+	},
+	"agnaft": {
+		"definition": "longevity, duration, lasting a long time",
+		"speech": [
+			"noun"
+		]
+	},
+	"agnakarmegyl": {
+		"definition": "rectangle",
+		"speech": [
+			"noun"
+		]
+	},
+	"agnaring": {
+		"definition": "oval/ellipse",
+		"speech": [
+			"noun"
+		]
+	},
+	"agnoro": {
+		"definition": "rabbit, hare",
+		"note": "*literally \"long ear\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"agswaer": {
+		"definition": "to answer, to reply, to respond",
+		"speech": [
+			"verb"
+		]
+	},
+	"ahmegyl": {
+		"definition": "octagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"alegfum": {
+		"definition": "camp, a lying place",
+		"speech": [
+			"noun"
+		]
+	},
+	"alegga": {
+		"definition": "to lie, to rest",
+		"speech": [
+			"verb"
+		]
+	},
+	"alegponi": {
+		"definition": "lying pony, lazy pony",
+		"speech": [
+			"noun"
+		]
+	},
+	"alegthe": {
+		"definition": "lazy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"alf": {
+		"definition": "elf (mythical being)",
+		"speech": [
+			"noun"
+		]
+	},
+	"alfen": {
+		"definition": "to help, to assist",
+		"speech": [
+			"verb"
+		]
+	},
+	"alfenung": {
+		"definition": "assistance, aid, relief",
+		"speech": [
+			"noun"
+		]
+	},
+	"alikeran": {
+		"definition": "alicorn",
+		"speech": [
+			"noun"
+		]
+	},
+	"alikeriks": {
+		"definition": "alicorn rule, duarchy",
+		"speech": [
+			"noun"
+		]
+	},
+	"allobaed": {
+		"definition": "alphabet",
+		"speech": [
+			"noun"
+		]
+	},
+	"alnon": {
+		"definition": "alone",
+		"note": "*also an adverb",
+		"speech": [
+			"adjective"
+		]
+	},
+	"als": {
+		"definition": "as, during, while",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"alsoa": {
+		"definition": "also, likewise",
+		"speech": [
+			"adverb"
+		]
+	},
+	"alt": {
+		"definition": "age",
+		"speech": [
+			"noun"
+		]
+	},
+	"am": {
+		"definition": "to be (am/are/is)",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"ar",
+			"es"
+		]
+	},
+	"ama": {
+		"definition": "to be (infinitive form)",
+		"note": "*inifnitive form of am/ar/es",
+		"speech": [
+			"verb"
+		]
+	},
+	"angire": {
+		"definition": "anger, frustration; (loosely) hatred",
+		"speech": [
+			"noun"
+		]
+	},
+	"anythra": {
+		"definition": "to lower, to conceal beneath",
+		"speech": [
+			"verb"
+		]
+	},
+	"ap": {
+		"definition": "up, direction away from ground",
+		"speech": [
+			"preposition"
+		]
+	},
+	"ar": {
+		"definition": "to be (am/are/is)",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"am",
+			"es"
+		]
+	},
+	"arme": {
+		"definition": "military, army, standing force",
+		"note": "*From Pegasan arma",
+		"speech": [
+			"noun"
+		]
+	},
+	"arsca": {
+		"nsfw": {
+			"in_universe": "see plotta"
+		},
+		"definition": "ass, often in the sense of \"dumbass, idiot\"; rarely, \"butt\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"arscdundra": {
+		"nsfw": {
+			"in_universe": "literally \"ass thunder\"."
+		},
+		"definition": "flatulence; a fart, whether wet or dry",
+		"speech": [
+			"noun"
+		]
+	},
+	"arschoran": {
+		"nsfw": {
+			"in_universe": "literally \"ass horn\", as in \"Get your horn out of my ass!\""
+		},
+		"definition": "an intrusive, nosy person; (rarely) one who eavesdrops",
+		"speech": [
+			"noun"
+		]
+	},
+	"arsctol": {
+		"nsfw": {
+			"in_universe": "literally \"asshole\""
+		},
+		"definition": "\"asshole\"; the anus",
+		"speech": [
+			"noun"
+		]
+	},
+	"arysa": {
+		"definition": "to rise, to elevate, to lift",
+		"speech": [
+			"verb"
+		]
+	},
+	"asc": {
+		"definition": "ash",
+		"speech": [
+			"noun"
+		]
+	},
+	"asiet": {
+		"definition": "plate, fancy eating item",
+		"speech": [
+			"noun"
+		]
+	},
+	"asken": {
+		"definition": "to ask, to inquire",
+		"speech": [
+			"verb"
+		]
+	},
+	"aslaep": {
+		"definition": "asleep",
+		"speech": [
+			"adjective"
+		]
+	},
+	"astandan": {
+		"definition": "to continue",
+		"speech": [
+			"verb"
+		]
+	},
+	"aven": {
+		"definition": "oven, a chamber for baking or heating",
+		"speech": [
+			"noun"
+		]
+	},
+	"awk": {
+		"definition": "awkward, weird, strange",
+		"speech": [
+			"adjective"
+		]
+	},
+	"awk-": {
+		"definition": "to reverse, to undo, or to make unfamiliar or strange",
+		"speech": [
+			"prefix"
+		]
+	},
+	"bael": {
+		"definition": "bale (of hay, straw)",
+		"speech": [
+			"noun"
+		]
+	},
+	"baeri": {
+		"definition": "berry; small fruit growing in the wild",
+		"speech": [
+			"noun"
+		]
+	},
+	"baken": {
+		"definition": "to bake, to cook in an oven, to dry by heat",
+		"speech": [
+			"verb"
+		]
+	},
+	"baksen": {
+		"definition": "to become, to turn into, to become an age",
+		"speech": [
+			"verb"
+		]
+	},
+	"bal": {
+		"definition": "ball, spherical mass",
+		"speech": [
+			"noun"
+		]
+	},
+	"bar-": {
+		"definition": "mid",
+		"speech": [
+			"prefix"
+		]
+	},
+	"bardag": {
+		"definition": "midday, noon",
+		"speech": [
+			"noun"
+		]
+	},
+	"barden": {
+		"definition": "armor",
+		"speech": [
+			"noun"
+		]
+	},
+	"barl": {
+		"definition": "middle, central",
+		"speech": [
+			"adjective"
+		]
+	},
+	"barnokta": {
+		"definition": "midnight",
+		"speech": [
+			"noun"
+		]
+	},
+	"batr": {
+		"definition": "batter, mix; thin dough used for cooking",
+		"note": "*From Old Unicornish bateure, meaning \"to beat\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"bed": {
+		"definition": "best",
+		"speech": [
+			"adjective"
+		]
+	},
+	"bek": {
+		"definition": "back, back of (something)",
+		"speech": [
+			"adverb"
+		]
+	},
+	"beld": {
+		"definition": "soon, in a short time, quickly",
+		"speech": [
+			"adverb"
+		]
+	},
+	"belg": {
+		"definition": "belly",
+		"speech": [
+			"noun"
+		]
+	},
+	"belgrafen": {
+		"definition": "belly rub",
+		"speech": [
+			"noun"
+		]
+	},
+	"belgtol": {
+		"definition": "navel/belly button",
+		"note": "*Literally \"belly hole\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"berzen": {
+		"definition": "to begin",
+		"speech": [
+			"verb"
+		]
+	},
+	"berzung": {
+		"definition": "introduction, beginning",
+		"speech": [
+			"noun"
+		]
+	},
+	"bidde": {
+		"definition": "please, often used endearingly",
+		"speech": [
+			"adverb"
+		]
+	},
+	"bidden": {
+		"definition": "to plea, beg, beseech, entreat",
+		"speech": [
+			"verb"
+		]
+	},
+	"bigh": {
+		"definition": "by, at, near, adjacent to",
+		"note": "*also see med, vyr",
+		"speech": [
+			"preposition"
+		]
+	},
+	"bilth": {
+		"definition": "image, photo, depiction, picture, painting",
+		"speech": [
+			"noun"
+		]
+	},
+	"biltha": {
+		"definition": "to imagine, conceptualize, picture in one's head",
+		"speech": [
+			"verb"
+		]
+	},
+	"bilthung": {
+		"definition": "imagination, conceptualization, picturing",
+		"speech": [
+			"noun"
+		]
+	},
+	"bita": {
+		"definition": "to exchange, to swap",
+		"speech": [
+			"verb"
+		]
+	},
+	"bitahoufen": {
+		"definition": "to barter, to trade",
+		"speech": [
+			"verb"
+		]
+	},
+	"bithan": {
+		"definition": "to wait, to remain",
+		"speech": [
+			"verb"
+		]
+	},
+	"bjor": {
+		"definition": "bear",
+		"speech": [
+			"noun"
+		]
+	},
+	"blief": {
+		"definition": "stay, relic, remainder",
+		"speech": [
+			"noun"
+		]
+	},
+	"blieven": {
+		"definition": "to stay, to remain",
+		"speech": [
+			"verb"
+		]
+	},
+	"blind": {
+		"definition": "blind, to not see, to not understand, to blind someone",
+		"speech": [
+			"adjective",
+			"verb"
+		]
+	},
+	"bloth": {
+		"definition": "blood",
+		"speech": [
+			"noun"
+		]
+	},
+	"blou": {
+		"definition": "blue",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"bloum": {
+		"definition": "flower; bloom, blossom",
+		"speech": [
+			"noun"
+		]
+	},
+	"Bloummond": {
+		"definition": "May (5th month)",
+		"note": "*Literally \"flower month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"blourath": {
+		"definition": "purple",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"blys": {
+		"definition": "bliss, euphoria, ecstasy ",
+		"speech": [
+			"noun"
+		]
+	},
+	"bod": {
+		"definition": "message, proclamation, a command",
+		"speech": [
+			"noun"
+		]
+	},
+	"boda": {
+		"definition": "to message, proclaim, give command",
+		"speech": [
+			"verb"
+		]
+	},
+	"bodar": {
+		"definition": "messenger",
+		"speech": [
+			"noun"
+		]
+	},
+	"boga": {
+		"definition": "weapon bow, curve, arc, music bow",
+		"speech": [
+			"noun"
+		]
+	},
+	"bol": {
+		"definition": "bowl, wide-brimmed mug",
+		"speech": [
+			"noun"
+		]
+	},
+	"bon": {
+		"definition": "bone",
+		"speech": [
+			"noun"
+		]
+	},
+	"bonfraem": {
+		"definition": "skeleton",
+		"speech": [
+			"noun"
+		]
+	},
+	"bonhaf": {
+		"nsfw": {},
+		"definition": "bonehead",
+		"speech": [
+			"noun"
+		]
+	},
+	"bonten": {
+		"definition": "to bind, to tie, to restrain",
+		"speech": [
+			"verb"
+		]
+	},
+	"bontenim": {
+		"definition": "bundle; that which is bound",
+		"speech": [
+			"noun"
+		]
+	},
+	"bord": {
+		"definition": "table, board, plank",
+		"speech": [
+			"noun"
+		]
+	},
+	"bordlek": {
+		"definition": "trapezoid/trapezium",
+		"speech": [
+			"noun"
+		]
+	},
+	"bores": {
+		"definition": "northern wind",
+		"note": "*From Pegasan boreas, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"borthen": {
+		"definition": "to bring forth, to give birth",
+		"speech": [
+			"verb"
+		]
+	},
+	"borthendag": {
+		"definition": "birthday",
+		"speech": [
+			"noun"
+		]
+	},
+	"botra": {
+		"definition": "brother",
+		"speech": [
+			"noun"
+		]
+	},
+	"botraft": {
+		"definition": "brotherhood",
+		"speech": [
+			"noun"
+		]
+	},
+	"bouen": {
+		"definition": "to dwell; to linger on as thoughts",
+		"speech": [
+			"verb"
+		]
+	},
+	"bougen": {
+		"definition": "to bend, to turn, to become curved; change direction",
+		"speech": [
+			"verb"
+		]
+	},
+	"bouk": {
+		"definition": "book",
+		"speech": [
+			"noun"
+		]
+	},
+	"boukstabla": {
+		"definition": "library, bookhouse",
+		"speech": [
+			"noun"
+		]
+	},
+	"boup": {
+		"definition": "a playful tap on another's nose",
+		"speech": [
+			"noun"
+		]
+	},
+	"boupen": {
+		"definition": "to playfully tap or poke another's nose",
+		"speech": [
+			"verb"
+		]
+	},
+	"brad": {
+		"definition": "broad, wide, expansive",
+		"speech": [
+			"adjective"
+		]
+	},
+	"bradaft": {
+		"definition": "breadth, expanse; width",
+		"speech": [
+			"noun"
+		]
+	},
+	"braed": {
+		"definition": "bread",
+		"speech": [
+			"noun"
+		]
+	},
+	"braedkrafter": {
+		"definition": "baker",
+		"speech": [
+			"noun"
+		]
+	},
+	"branen": {
+		"definition": "to burn",
+		"speech": [
+			"verb"
+		]
+	},
+	"breidgroum": {
+		"definition": "groom, man to be married",
+		"speech": [
+			"noun"
+		],
+		"similar": [
+			"groum"
+		]
+	},
+	"breken": {
+		"definition": "to break, fracture, crack",
+		"speech": [
+			"verb"
+		]
+	},
+	"bried": {
+		"definition": "bride, woman to be married",
+		"speech": [
+			"noun"
+		]
+	},
+	"brost": {
+		"definition": "chest,thorax",
+		"speech": [
+			"noun"
+		]
+	},
+	"brun": {
+		"definition": "brown",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"brunhoran": {
+		"nsfw": {},
+		"definition": "brownhorn, brown-noser",
+		"speech": [
+			"noun"
+		]
+	},
+	"butere": {
+		"definition": "butter, margarine",
+		"note": "*This one's for you, Butterflight ;)",
+		"speech": [
+			"noun"
+		]
+	},
+	"byne": {
+		"definition": "stage; in theatre"
+	},
+	"byrden": {
+		"definition": "burden, heavy load, responsibility",
+		"speech": [
+			"noun"
+		]
+	},
+	"bytr": {
+		"definition": "bitter",
+		"speech": [
+			"adjective"
+		]
+	},
+	"bytta": {
+		"definition": "the Equestrian bit; money, any unit of currency",
+		"speech": [
+			"noun"
+		]
+	},
+	"dae": {
+		"definition": "it",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"daed": {
+		"definition": "a deed, a feat, a stunt, an exploit",
+		"note": "From OE dǣd. Thakka, Stilan!\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"dael": {
+		"definition": "part, portion, segment, etc.",
+		"speech": [
+			"noun"
+		]
+	},
+	"daemon": {
+		"definition": "angel, spirit, protective spirit, guardian",
+		"speech": [
+			"noun"
+		]
+	},
+	"daene": {
+		"definition": "then, therefore",
+		"speech": [
+			"adverb"
+		]
+	},
+	"daer": {
+		"definition": "there",
+		"speech": [
+			"adverb",
+			"pronoun"
+		]
+	},
+	"daese": {
+		"definition": "itself",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"dag": {
+		"definition": "day",
+		"speech": [
+			"noun"
+		]
+	},
+	"dagaege": {
+		"definition": "daisy (plant)",
+		"note": "*literally \"day's eye\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"dagbouk": {
+		"definition": "journal, diary, daily record",
+		"speech": [
+			"noun"
+		]
+	},
+	"damt": {
+		"nsfw": {
+			"out_universe": "from German verdammt"
+		},
+		"definition": "to damn, to punish; interjection, \"damn it\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"dazen": {
+		"definition": "to confuse, stun; to dazzle, blind with light",
+		"speech": [
+			"verb"
+		]
+	},
+	"de-": {
+		"definition": "makes a verb future tense",
+		"speech": [
+			"prefix"
+		]
+	},
+	"death": {
+		"definition": "it, its ",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"del": {
+		"definition": "the (used rarely)",
+		"speech": [
+			"article"
+		]
+	},
+	"demegyl": {
+		"definition": "decagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"denalt": {
+		"definition": "teenager",
+		"note": "*den+alt, \"den\" as a suffix \"ten more than\", as in fourteen.",
+		"speech": [
+			"noun"
+		]
+	},
+	"denne": {
+		"definition": "thin, slender, slim, skinny, one layer",
+		"speech": [
+			"adjective"
+		]
+	},
+	"der": {
+		"definition": "precious emotionally, socially",
+		"note": "Germanic",
+		"speech": [
+			"adjective"
+		]
+	},
+	"desaevo": {
+		"definition": "to deceive, to fool, to trick, to cheat",
+		"note": "*From Old Unicornish deceivre, same meaning",
+		"speech": [
+			"verb"
+		]
+	},
+	"desten": {
+		"definition": "to please",
+		"speech": [
+			"verb"
+		]
+	},
+	"dinga": {
+		"definition": "thing, object (in general sense)",
+		"speech": [
+			"noun"
+		]
+	},
+	"Diskord": {
+		"character": {
+			"justification": "Adaptation; also, Old Unicornish Discour, name for Discord and word for divisiveness or strife."
+		},
+		"definition": "Discord",
+		"speech": [
+			"character"
+		]
+	},
+	"dok": {
+		"definition": "the fleshy root of an animal's tail (the dock)",
+		"speech": [
+			"noun"
+		]
+	},
+	"don": {
+		"definition": "dingy brown, dark-colored",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"donrath": {
+		"definition": "chestnut-colored, russet, copper brown",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"dork": {
+		"definition": "any kind of proturberance, alteration, or change in something",
+		"speech": [
+			"noun"
+		]
+	},
+	"dorpe": {
+		"definition": "\"derpy\"; foolish, stupid, or silly* ",
+		"note": "*Strictly used in an endearing way",
+		"speech": [
+			"adjective"
+		]
+	},
+	"Dorpe Houfi": {
+		"character": {},
+		"definition": "Derpy Hooves",
+		"speech": [
+			"character"
+		]
+	},
+	"dotfougyl": {
+		"definition": "vulture; condor; carrion bird",
+		"note": "*Literally \"death bird\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"dotta": {
+		"definition": "death",
+		"speech": [
+			"noun"
+		]
+	},
+	"dout": {
+		"definition": "brave, valiant",
+		"speech": [
+			"adjective"
+		]
+	},
+	"dova": {
+		"definition": "to perform a rapid dive (in air or water)",
+		"speech": [
+			"verb"
+		]
+	},
+	"drae": {
+		"definition": "dry, arid, not wet",
+		"speech": [
+			"adjective"
+		]
+	},
+	"dragen": {
+		"definition": "to draw, to drag, to wear",
+		"speech": [
+			"verb"
+		]
+	},
+	"drako": {
+		"definition": "dragon",
+		"speech": [
+			"noun"
+		]
+	},
+	"drakonekwes": {
+		"definition": "draconequus",
+		"note": "*from Pegasan draconequus",
+		"speech": [
+			"noun"
+		]
+	},
+	"dram": {
+		"definition": "music, celebration",
+		"speech": [
+			"noun"
+		]
+	},
+	"dramen": {
+		"definition": "to play music, to celebrate",
+		"speech": [
+			"verb"
+		]
+	},
+	"dramtoul": {
+		"definition": "(musical) instrument",
+		"speech": [
+			"noun"
+		]
+	},
+	"draome": {
+		"definition": "to dream",
+		"speech": [
+			"verb"
+		]
+	},
+	"draomim": {
+		"definition": "dream",
+		"speech": [
+			"noun"
+		]
+	},
+	"drawan": {
+		"definition": "to throw, to hurl, to yeet",
+		"speech": [
+			"verb"
+		]
+	},
+	"drawanhwiet": {
+		"definition": "to cast light, to illuminate",
+		"speech": [
+			"verb"
+		]
+	},
+	"dreori": {
+		"definition": "sad, weary; (of weather) dreary, overcast",
+		"speech": [
+			"adjective"
+		]
+	},
+	"driepa": {
+		"definition": "line, stripe, band",
+		"speech": [
+			"noun"
+		]
+	},
+	"drieponi": {
+		"definition": "zebra, quagga",
+		"note": "*Literally \"stripe pony\" ",
+		"speech": [
+			"noun"
+		]
+	},
+	"drifan": {
+		"definition": "to influence, to push, to operate/direct a vehicle",
+		"speech": [
+			"verb"
+		]
+	},
+	"drimegyl": {
+		"definition": "triangle",
+		"speech": [
+			"noun"
+		]
+	},
+	"droama": {
+		"definition": "to swallow up, to engulf",
+		"speech": [
+			"verb"
+		]
+	},
+	"droug": {
+		"definition": "medicine, drug, narcotic",
+		"speech": [
+			"noun"
+		]
+	},
+	"dundra": {
+		"definition": "to thunder, explode, yell, roar",
+		"speech": [
+			"verb"
+		]
+	},
+	"dundrastoarm": {
+		"definition": "thunderstorm",
+		"speech": [
+			"noun"
+		]
+	},
+	"dundravaht": {
+		"definition": "argument",
+		"speech": [
+			"noun"
+		]
+	},
+	"dune": {
+		"definition": "downwards, away from, reduced; lower, lowly, facing down",
+		"speech": [
+			"adverb",
+			"preposition",
+			"adjective"
+		]
+	},
+	"dunen": {
+		"definition": "do, to do",
+		"speech": [
+			"verb"
+		]
+	},
+	"dunetref": {
+		"definition": "stomp",
+		"speech": [
+			"noun"
+		]
+	},
+	"dunung": {
+		"definition": "fact, something done, something objective",
+		"speech": [
+			"noun"
+		]
+	},
+	"dust": {
+		"definition": "dust, fine dry particle",
+		"speech": [
+			"noun"
+		]
+	},
+	"dyp": {
+		"definition": "deep, thick, complex",
+		"speech": [
+			"adverb",
+			"adjective"
+		]
+	},
+	"dyp-": {
+		"definition": "profound, thick, specific",
+		"speech": [
+			"prefix"
+		]
+	},
+	"dypwitter": {
+		"definition": "specialist, expert",
+		"speech": [
+			"noun"
+		]
+	},
+	"ebbenung": {
+		"definition": "dusk, evening, sunset",
+		"speech": [
+			"noun"
+		]
+	},
+	"eben": {
+		"definition": "to even out; to level/flat; to explain",
+		"speech": [
+			"verb"
+		]
+	},
+	"ebros": {
+		"definition": "eastern wind",
+		"note": "*From Pegasan evros, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"eftar": {
+		"definition": "after",
+		"note": "*also adjective, adverb",
+		"speech": [
+			"preposition"
+		]
+	},
+	"eftarbar": {
+		"definition": "afternoon, time after midday",
+		"note": "*shortened from eftarbardag",
+		"speech": [
+			"noun"
+		]
+	},
+	"eftardag": {
+		"definition": "tomorrow",
+		"speech": [
+			"noun",
+			"adverb"
+		]
+	},
+	"ekke": {
+		"definition": "oak (tree/wood); made of oak (adjective)",
+		"note": "*Also an adjective",
+		"speech": [
+			"noun"
+		]
+	},
+	"ekkemous": {
+		"definition": "squirrel, chipmunk",
+		"note": "*Literally \"oak mouse\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ekkezaed": {
+		"definition": "acorn",
+		"note": "*Literally \"oak seed\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ekta": {
+		"definition": "to act, to take action",
+		"note": "*From Pegasan actum, same meaning",
+		"speech": [
+			"verb"
+		]
+	},
+	"ektawurd": {
+		"definition": "verb, action word",
+		"speech": [
+			"noun"
+		]
+	},
+	"Ekwostria": {
+		"definition": "Equestria",
+		"speech": [
+			"noun"
+		]
+	},
+	"elehem": {
+		"definition": "element",
+		"speech": [
+			"noun"
+		]
+	},
+	"Elehemi se Aedesan": {
+		"definition": "Elements of Harmony",
+		"speech": [
+			"noun"
+		]
+	},
+	"elten": {
+		"definition": "to receive",
+		"speech": [
+			"verb"
+		]
+	},
+	"em": {
+		"definition": "on, on top of",
+		"speech": [
+			"preposition"
+		]
+	},
+	"em scyfto tryn": {
+		"definition": "'by the way', indicate change of subject",
+		"speech": [
+			"adverb"
+		]
+	},
+	"em-": {
+		"definition": "makes a verb or noun with functional characteristics",
+		"speech": [
+			"prefix"
+		]
+	},
+	"emagnafaelen": {
+		"definition": "to make bored",
+		"note": "*em+agnafaelen",
+		"speech": [
+			"verb"
+		]
+	},
+	"emfarfaelen": {
+		"definition": "to make sensitive, make one feel intensely",
+		"speech": [
+			"verb"
+		]
+	},
+	"emluzen": {
+		"definition": "at a glance, in observation, conjecture",
+		"note": "*Literally \"on look\"",
+		"speech": [
+			"adverb"
+		]
+	},
+	"emluzer": {
+		"definition": "onlooker, spectator, bystander",
+		"note": "*Literally \"on looker\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"emmetha": {
+		"definition": "encounter; unplanned or hostile meeting",
+		"speech": [
+			"noun"
+		]
+	},
+	"emmethen": {
+		"definition": "to encounter, to cross paths, to meet unexpectedly",
+		"speech": [
+			"verb"
+		]
+	},
+	"ende": {
+		"definition": "end",
+		"speech": [
+			"noun"
+		]
+	},
+	"enden": {
+		"definition": "to end, to complete, to finish, to finalize",
+		"speech": [
+			"verb"
+		]
+	},
+	"endenung": {
+		"definition": "conclusion, finale, end point",
+		"speech": [
+			"noun"
+		]
+	},
+	"enkluden": {
+		"definition": "to include, to involve, to accept (into a group)",
+		"speech": [
+			"verb"
+		]
+	},
+	"eptur": {
+		"definition": "again, another time, once more",
+		"speech": [
+			"adverb"
+		]
+	},
+	"erta": {
+		"definition": "dirt, soil, earth",
+		"speech": [
+			"noun"
+		]
+	},
+	"Ertamond": {
+		"definition": "March (3rd month)",
+		"note": "*Literally \"earth month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ertascakk": {
+		"definition": "earthshake",
+		"speech": [
+			"noun"
+		]
+	},
+	"ertathe": {
+		"definition": "unclean, dirty, grimey",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ertha": {
+		"definition": "Earth, land",
+		"speech": [
+			"noun"
+		]
+	},
+	"erthaeppal": {
+		"definition": "potato",
+		"note": "*Literally \"earth apple\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Erthamatra": {
+		"definition": "Mother Earth, nature",
+		"speech": [
+			"noun"
+		]
+	},
+	"erthbilth": {
+		"definition": "map, visual representation of area",
+		"note": "*lit. 'land image'",
+		"speech": [
+			"noun"
+		]
+	},
+	"erthmetung": {
+		"definition": "geometry, study of how shapes work",
+		"speech": [
+			"noun"
+		]
+	},
+	"es": {
+		"definition": "to be (am/are/is)",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"am",
+			"ar"
+		]
+	},
+	"eskritar": {
+		"definition": "writing desk",
+		"note": "*from Old Unicornish escritoire, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"essens": {
+		"definition": "immaterial essence, inherent nature,  significant feature",
+		"speech": [
+			"noun"
+		]
+	},
+	"establa": {
+		"definition": "house, home; stable, manger",
+		"note": "*From Old Unicornish estable, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"estr": {
+		"definition": "east",
+		"speech": [
+			"noun"
+		]
+	},
+	"estra": {
+		"definition": "sister",
+		"speech": [
+			"noun"
+		]
+	},
+	"estraft": {
+		"definition": "sisterhood",
+		"speech": [
+			"noun"
+		]
+	},
+	"ett": {
+		"definition": "real, right, true, factual",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ettan": {
+		"definition": "really, actually, factually",
+		"speech": [
+			"adverb"
+		]
+	},
+	"eveg": {
+		"definition": "away, away from, in a different direction",
+		"speech": [
+			"adverb"
+		]
+	},
+	"evegdrawan": {
+		"definition": "to refuse, to reject",
+		"speech": [
+			"verb"
+		]
+	},
+	"evegibten": {
+		"definition": "to give away; to give up, forfeit",
+		"speech": [
+			"verb"
+		]
+	},
+	"eveglaedan": {
+		"definition": "to lead away, to distract, to divert one's attention",
+		"speech": [
+			"verb"
+		]
+	},
+	"fae": {
+		"definition": "fairy (mythical being)",
+		"speech": [
+			"noun"
+		]
+	},
+	"faelen": {
+		"definition": "to feel, touch, sense, perceive",
+		"speech": [
+			"verb"
+		]
+	},
+	"faer": {
+		"definition": "beautiful",
+		"speech": [
+			"adjective"
+		]
+	},
+	"faerben": {
+		"definition": "to tint, to shade, to color, to beautify",
+		"speech": [
+			"verb"
+		]
+	},
+	"Faertak": {
+		"definition": "Cutie Mark",
+		"speech": [
+			"noun"
+		]
+	},
+	"fakka": {
+		"nsfw": {},
+		"definition": "insulting term for procreation; to fuck; interjection of anger",
+		"speech": [
+			"verb"
+		]
+	},
+	"fakkr": {
+		"nsfw": {
+			"in_universe": "derived from 'fakka'"
+		},
+		"definition": "fucker (insult)",
+		"speech": [
+			"noun"
+		]
+	},
+	"fakne": {
+		"definition": "fake, fraudulent, insincere",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fal": {
+		"definition": "case, circumstance",
+		"speech": [
+			"noun"
+		]
+	},
+	"faloa": {
+		"definition": "fallow, pale/brownish yellow, color of fire ",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fang": {
+		"definition": "to catch, grab object thrown",
+		"speech": [
+			"verb"
+		]
+	},
+	"far-": {
+		"definition": "intensifier; typically denotes finality",
+		"speech": [
+			"prefix"
+		]
+	},
+	"fara": {
+		"definition": "danger, chance of harm or peril",
+		"speech": [
+			"noun"
+		]
+	},
+	"farbannen": {
+		"definition": "to banish",
+		"speech": [
+			"verb"
+		]
+	},
+	"fardamt": {
+		"nsfw": {
+			"out_universe": "from German verdammt"
+		},
+		"definition": "\"damn it\" as used in a request: \"Selestia ferdamt!\"",
+		"speech": [
+			"interjection"
+		]
+	},
+	"fardrifan": {
+		"definition": "to force, coerce, compel, control, harness",
+		"speech": [
+			"verb"
+		]
+	},
+	"faren": {
+		"definition": "to travel, to journey",
+		"speech": [
+			"verb"
+		]
+	},
+	"farer": {
+		"definition": "traveler, journeyer",
+		"speech": [
+			"noun"
+		]
+	},
+	"farfaelen": {
+		"definition": "to be sensitive, to feel intensely",
+		"speech": [
+			"verb"
+		]
+	},
+	"fargibten": {
+		"definition": "to forgive",
+		"speech": [
+			"verb"
+		]
+	},
+	"farn": {
+		"definition": "fern",
+		"speech": [
+			"noun"
+		]
+	},
+	"farvalen": {
+		"definition": "to decide; choose, to resolve, to make judgement",
+		"speech": [
+			"verb"
+		]
+	},
+	"farvalung": {
+		"definition": "decision, choosing, result of making a decision",
+		"speech": [
+			"noun"
+		]
+	},
+	"fel": {
+		"definition": "hair; the short fur covering an animal's body",
+		"speech": [
+			"noun"
+		]
+	},
+	"feo": {
+		"definition": "few, a small amount (of something)",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fer": {
+		"definition": "far, distant",
+		"speech": [
+			"adjective"
+		]
+	},
+	"feraft": {
+		"definition": "farness, distance between objects",
+		"speech": [
+			"noun"
+		]
+	},
+	"fers": {
+		"definition": "fearsome, fierce, viscious",
+		"note": "*from Pegasan fers",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fest": {
+		"definition": "fast, not slow",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fijand": {
+		"definition": "enemy, foe",
+		"speech": [
+			"noun"
+		]
+	},
+	"filli": {
+		"definition": "filly, daughter, female child",
+		"note": "*See also foala",
+		"speech": [
+			"noun"
+		]
+	},
+	"findan": {
+		"definition": "to find, to discover",
+		"speech": [
+			"verb"
+		]
+	},
+	"findung": {
+		"definition": "discovery, act or result of discovering",
+		"speech": [
+			"noun"
+		]
+	},
+	"fira": {
+		"definition": "want; desire, tendency; inclination",
+		"speech": [
+			"noun"
+		]
+	},
+	"firaluvji": {
+		"definition": "sexual or romantic orientation, the love you want from someone",
+		"speech": [
+			"noun"
+		]
+	},
+	"firasuma": {
+		"definition": "wantsome, needy, poor",
+		"speech": [
+			"adjective"
+		]
+	},
+	"firen": {
+		"definition": "to want, to desire",
+		"speech": [
+			"verb"
+		]
+	},
+	"firgendork": {
+		"definition": "mountain",
+		"speech": [
+			"noun"
+		]
+	},
+	"fjul": {
+		"definition": "fool, dope (not as insulting as idiot)",
+		"speech": [
+			"noun"
+		]
+	},
+	"flaesc": {
+		"definition": "flesh, meat, skin, muscle",
+		"speech": [
+			"noun"
+		]
+	},
+	"flaescgrazer": {
+		"definition": "carnivore; a meat-eater",
+		"speech": [
+			"noun"
+		]
+	},
+	"flaesctak": {
+		"definition": "scar, tattoo",
+		"speech": [
+			"noun"
+		]
+	},
+	"flaescvarger": {
+		"definition": "butcher; one who prepares meat*",
+		"note": "*Especially for consumption by griffons, dragons, dogs, etc.",
+		"speech": [
+			"noun"
+		]
+	},
+	"flaga": {
+		"definition": "flag; cloth ensign",
+		"speech": [
+			"noun"
+		]
+	},
+	"flen": {
+		"definition": "to flee, to escape, to run away",
+		"speech": [
+			"verb"
+		]
+	},
+	"flija": {
+		"definition": "to fly",
+		"speech": [
+			"verb"
+		]
+	},
+	"flijamous": {
+		"definition": "bat",
+		"note": "*Literally \"flying mouse\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"floryk": {
+		"definition": "to relish, to enjoy",
+		"speech": [
+			"verb"
+		]
+	},
+	"floten": {
+		"definition": "to float (water), to hover, to fly low to the ground",
+		"note": "*Irregular form flotr used occasionally",
+		"speech": [
+			"verb"
+		]
+	},
+	"Flotrscie": {
+		"character": {
+			"justification": "flotr, irregular form of floten \"to float\" + scie \"shy\""
+		},
+		"definition": "Fluttershy",
+		"speech": [
+			"character"
+		]
+	},
+	"flou": {
+		"definition": "flow",
+		"speech": [
+			"noun"
+		]
+	},
+	"flouen": {
+		"definition": "to flow",
+		"speech": [
+			"verb"
+		]
+	},
+	"flout": {
+		"definition": "river",
+		"speech": [
+			"noun"
+		]
+	},
+	"foala": {
+		"definition": "foal, filly, colt, child",
+		"speech": [
+			"noun"
+		]
+	},
+	"folk": {
+		"definition": "people of a nation, land or culture",
+		"note": "*for species or individual see gekynd",
+		"speech": [
+			"noun"
+		]
+	},
+	"folkom": {
+		"definition": "army, attacking force; (loosely) angry mob",
+		"speech": [
+			"noun"
+		]
+	},
+	"folkriks": {
+		"definition": "democracy; folk rule",
+		"speech": [
+			"noun"
+		]
+	},
+	"fomegyl": {
+		"definition": "pentagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"fonda": {
+		"definition": "fun, merriment",
+		"speech": [
+			"noun"
+		]
+	},
+	"fonden": {
+		"definition": "silly, merry, goofy; (loosely) childish",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fore": {
+		"definition": "front, in front of, foremost",
+		"speech": [
+			"adjective",
+			"preposition"
+		]
+	},
+	"fore-": {
+		"definition": "pre-, prior-",
+		"speech": [
+			"prefix"
+		]
+	},
+	"forehouf": {
+		"definition": "forehoof; the hand of a bipedal creature",
+		"speech": [
+			"noun"
+		]
+	},
+	"forektim": {
+		"definition": "the past, previous actions",
+		"speech": [
+			"noun"
+		]
+	},
+	"forelimme": {
+		"definition": "foreleg; the arm of a bipedal creature",
+		"speech": [
+			"noun"
+		]
+	},
+	"foreluz": {
+		"definition": "face, appearance, form, countenance",
+		"speech": [
+			"noun"
+		]
+	},
+	"foreluzen": {
+		"definition": "to face, confront, deal with; to have in front of",
+		"speech": [
+			"verb"
+		]
+	},
+	"foresetten": {
+		"definition": "to require, pre-set, setup in advance, to do before",
+		"note": "*see also naed",
+		"speech": [
+			"verb"
+		]
+	},
+	"formaene": {
+		"definition": "bangs, forelock",
+		"speech": [
+			"noun"
+		]
+	},
+	"fors": {
+		"definition": "fork (for eating)",
+		"note": "*from Old Unicornish forche, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"fougael": {
+		"definition": "birdsong",
+		"speech": [
+			"noun"
+		]
+	},
+	"fougyl": {
+		"definition": "bird, fowl, flying thing",
+		"speech": [
+			"noun"
+		]
+	},
+	"fougylet": {
+		"definition": "young bird, chick, hatchling",
+		"speech": [
+			"noun"
+		]
+	},
+	"foul": {
+		"definition": "full, not empty",
+		"speech": [
+			"adjective"
+		]
+	},
+	"foulfraemed": {
+		"definition": "perfect, flawless",
+		"speech": [
+			"adjective"
+		]
+	},
+	"fraem": {
+		"definition": "structure, pattern, mounting device",
+		"speech": [
+			"noun"
+		]
+	},
+	"frieken": {
+		"definition": "to dance wildly, stomp, thrash",
+		"speech": [
+			"verb"
+		]
+	},
+	"frig": {
+		"definition": "question",
+		"note": "*also a verb",
+		"speech": [
+			"noun"
+		]
+	},
+	"frighta": {
+		"definition": "fear, dread, unease, fright",
+		"speech": [
+			"noun"
+		]
+	},
+	"frightig": {
+		"definition": "to frighten, to scare, to terrify",
+		"speech": [
+			"verb"
+		]
+	},
+	"fro": {
+		"definition": "glad, happy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"froaft": {
+		"definition": "gladness, happiness, joy",
+		"speech": [
+			"noun"
+		]
+	},
+	"froe": {
+		"definition": "early",
+		"speech": [
+			"adjective"
+		]
+	},
+	"frojan": {
+		"definition": "to obtain, to achieve",
+		"speech": [
+			"verb"
+		]
+	},
+	"froulyk": {
+		"definition": "spring (season)",
+		"speech": [
+			"noun"
+		]
+	},
+	"fum": {
+		"definition": "place",
+		"speech": [
+			"noun"
+		]
+	},
+	"fyfalder": {
+		"definition": "butterfly",
+		"speech": [
+			"noun"
+		]
+	},
+	"fyfaldrenokta": {
+		"definition": "moth ",
+		"note": "*Literally \"night butterfly\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"fysc": {
+		"definition": "fish; any aquatic creature",
+		"speech": [
+			"noun"
+		]
+	},
+	"fyscgrazer": {
+		"definition": "piscivore; a fish-eater",
+		"speech": [
+			"noun"
+		]
+	},
+	"fysclet": {
+		"definition": "guppy, young fish, tadpole",
+		"speech": [
+			"noun"
+		]
+	},
+	"fyscvarger": {
+		"definition": "fisher, angler",
+		"speech": [
+			"noun"
+		]
+	},
+	"gael": {
+		"definition": "song, tune, melody",
+		"speech": [
+			"noun"
+		]
+	},
+	"gaelen": {
+		"definition": "to sing, enchant, tell stories",
+		"speech": [
+			"verb"
+		]
+	},
+	"gaelfolkom": {
+		"definition": "choir, group of singers",
+		"speech": [
+			"noun"
+		]
+	},
+	"gaelfougyl": {
+		"definition": "songbird",
+		"note": "*Literally \"song bird\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gaerdan": {
+		"definition": "to gather, to collect",
+		"speech": [
+			"verb"
+		]
+	},
+	"gaerdung": {
+		"definition": "collection, set, group of items put together",
+		"speech": [
+			"noun"
+		]
+	},
+	"gaet": {
+		"definition": "to go",
+		"speech": [
+			"verb"
+		]
+	},
+	"gamen": {
+		"definition": "game, pasttime, (loosely) sport",
+		"speech": [
+			"noun"
+		]
+	},
+	"gang": {
+		"definition": "corridor, hallway, narrow hall or passage",
+		"speech": [
+			"noun"
+		]
+	},
+	"gat": {
+		"definition": "cat, domesticated feline",
+		"speech": [
+			"noun"
+		]
+	},
+	"gaten": {
+		"definition": "garden",
+		"speech": [
+			"noun"
+		]
+	},
+	"gatr": {
+		"definition": "gate, entrance; (loosely) door",
+		"speech": [
+			"noun"
+		]
+	},
+	"gatrmed": {
+		"definition": "next door neighbors",
+		"speech": [
+			"noun"
+		]
+	},
+	"gedra": {
+		"definition": "to annoy",
+		"speech": [
+			"verb"
+		]
+	},
+	"gekynd": {
+		"definition": "kind, sort, variety; race; species; nature, disposition",
+		"speech": [
+			"noun"
+		]
+	},
+	"gen-": {
+		"definition": "makes a verb past tense",
+		"speech": [
+			"prefix"
+		]
+	},
+	"genaeraft": {
+		"definition": "generosity",
+		"speech": [
+			"noun"
+		]
+	},
+	"genaerous": {
+		"definition": "generous, giving, selfless",
+		"note": "*From Pegasan generosa, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"genog": {
+		"definition": "enough,sufficient",
+		"speech": [
+			"noun"
+		]
+	},
+	"genti": {
+		"definition": "silver",
+		"note": "*From Pegasan argentis, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"genus": {
+		"definition": "identity",
+		"note": "*From Pegasan genus, meaning \"kind, sort, type\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"genykt": {
+		"definition": "knight, armored or ordained warrior",
+		"speech": [
+			"noun"
+		]
+	},
+	"gepren": {
+		"definition": "to understand",
+		"speech": [
+			"verb"
+		]
+	},
+	"gescyft": {
+		"definition": "creature; any living animal",
+		"speech": [
+			"noun"
+		]
+	},
+	"gescyfum": {
+		"definition": "zoo, menagerie",
+		"note": "*collapsed from expected gescyft+fum (creature+place)",
+		"speech": [
+			"noun"
+		]
+	},
+	"gestrin": {
+		"definition": "yester, before",
+		"note": "*also adjective, adverb",
+		"speech": [
+			"preposition"
+		]
+	},
+	"gestrinatim": {
+		"definition": "yesteryear, year before",
+		"speech": [
+			"noun"
+		]
+	},
+	"gestrindag": {
+		"definition": "yesterday",
+		"speech": [
+			"noun"
+		]
+	},
+	"gibten": {
+		"definition": "to give, to provide",
+		"speech": [
+			"verb"
+		]
+	},
+	"gieste": {
+		"definition": "ghost, phantom, disembodied spirit",
+		"speech": [
+			"noun"
+		]
+	},
+	"gisten": {
+		"definition": "to guess, to reckon, to suppose",
+		"speech": [
+			"verb"
+		]
+	},
+	"givythen": {
+		"definition": "to inspire",
+		"speech": [
+			"verb"
+		]
+	},
+	"glaem": {
+		"definition": "to gleam; to shine brightly with reflected light",
+		"speech": [
+			"verb"
+		]
+	},
+	"glakfrals": {
+		"definition": "likewise, you too",
+		"speech": [
+			"adverb"
+		]
+	},
+	"glaz": {
+		"definition": "glass; made of glass",
+		"note": "*Also an adjective",
+		"speech": [
+			"noun"
+		]
+	},
+	"glazkrafter": {
+		"definition": "glassblower, one who works with glass",
+		"speech": [
+			"noun"
+		]
+	},
+	"glemeren": {
+		"definition": "to glimmer; to shine faintly with wavering light",
+		"speech": [
+			"verb"
+		]
+	},
+	"glok": {
+		"definition": "to ring out, to chime, to sound",
+		"speech": [
+			"verb"
+		]
+	},
+	"glokklange": {
+		"definition": "onomatopoeia: the sound of ringing bells",
+		"speech": [
+			"noun"
+		]
+	},
+	"glokkr": {
+		"definition": "bell",
+		"speech": [
+			"noun"
+		]
+	},
+	"gloud": {
+		"definition": "glow; the state of a glowing object",
+		"speech": [
+			"noun"
+		]
+	},
+	"glouen": {
+		"definition": "to glow; to give off light from heat or to emit light as if heated",
+		"speech": [
+			"verb"
+		]
+	},
+	"glouma": {
+		"definition": "darkness, shade, obscurity",
+		"speech": [
+			"noun"
+		]
+	},
+	"gloumbloum": {
+		"definition": "nightshade; a flower used for poisoning ",
+		"note": "*Literally \"darkness flower\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"glynt": {
+		"definition": "to glint; to reflect small flashes of light",
+		"note": "*Especially metallic or gemstone; can also be a noun",
+		"speech": [
+			"verb"
+		]
+	},
+	"glysen": {
+		"definition": "to glisten; the shine of something wet or greasy",
+		"note": "*Also a noun",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"glysenal"
+		],
+		"nsfw": {
+			"definition": "lit. \"to glisten\"; insultingly implies female \"wet\" and ready for intercourse",
+			"in_universe": "also adjective instead of \"I'm wet\": \"I'm glistening\""
+		}
+	},
+	"glysenal": {
+		"nsfw": {
+			"in_universe": "also adjective instead of \"I'm wet\": \"I'm glistening\""
+		},
+		"definition": "lit. \"to glisten\"; insultingly implies female \"wet\" and ready for intercourse",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"glysen"
+		]
+	},
+	"glytra": {
+		"definition": "to glitter; to shine a flashy, reflected light",
+		"speech": [
+			"verb"
+		]
+	},
+	"goth": {
+		"definition": "good, alright, fine, nice, okay",
+		"speech": [
+			"adjective"
+		]
+	},
+	"gothkumo": {
+		"definition": "welcome, to welcome",
+		"note": "*Also a verb",
+		"speech": [
+			"noun"
+		]
+	},
+	"gothmar": {
+		"definition": "better",
+		"note": "*Literally \"more good\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"gothmint": {
+		"definition": "intelligent",
+		"speech": [
+			"adjective"
+		]
+	},
+	"gothmintaft": {
+		"definition": "intelligence, ability to think,learn,understand",
+		"note": "gothmint+aft",
+		"speech": [
+			"noun"
+		]
+	},
+	"gothsmak": {
+		"definition": "tasty, delicious",
+		"note": "literally \"good flavor\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"goumi": {
+		"definition": "rubber; pliable material derived from the sap of the rubber tree",
+		"speech": [
+			"noun"
+		]
+	},
+	"grae": {
+		"definition": "grey, venerable",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"graefen": {
+		"definition": "to weep, mourn, shed tears",
+		"speech": [
+			"verb"
+		]
+	},
+	"graene": {
+		"definition": "grain (of any cereal plant)",
+		"speech": [
+			"noun"
+		]
+	},
+	"grafe": {
+		"definition": "grave, trench, ditch",
+		"speech": [
+			"noun"
+		]
+	},
+	"grafen": {
+		"definition": "to dig, scrape, to (en)grave",
+		"speech": [
+			"verb"
+		]
+	},
+	"grap": {
+		"definition": "grape",
+		"speech": [
+			"noun"
+		]
+	},
+	"grapfum": {
+		"definition": "vineyard",
+		"note": "*Literally \"grape place\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"grastram": {
+		"definition": "troposphere",
+		"note": "*From Pegasan grastrama, meaning \"green/food layer\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gratto": {
+		"definition": "glen, grotto, thicket; orchard",
+		"speech": [
+			"noun"
+		]
+	},
+	"grazen": {
+		"definition": "to eat",
+		"speech": [
+			"verb"
+		]
+	},
+	"grazer": {
+		"definition": "one who eats (something); a patron at a restaurant",
+		"speech": [
+			"noun"
+		]
+	},
+	"grenz": {
+		"definition": "border, edge of territory; frontier",
+		"speech": [
+			"noun"
+		]
+	},
+	"grett": {
+		"definition": "great, large, majestic",
+		"speech": [
+			"adjective"
+		]
+	},
+	"grett uldmatra": {
+		"definition": "great grandmother",
+		"speech": [
+			"noun"
+		]
+	},
+	"grett uldpetra": {
+		"definition": "great grandfather",
+		"speech": [
+			"noun"
+		]
+	},
+	"grettfilli": {
+		"definition": "granddaughter",
+		"speech": [
+			"noun"
+		]
+	},
+	"grettkolt": {
+		"definition": "grandson",
+		"speech": [
+			"noun"
+		]
+	},
+	"gretyk": {
+		"definition": "to greet, approach, seek out",
+		"speech": [
+			"verb"
+		]
+	},
+	"griena": {
+		"definition": "branch; woody part of a tree arising from the trunk",
+		"speech": [
+			"noun"
+		]
+	},
+	"grienen": {
+		"definition": "to branch, branch out, to deviate, to broaden one’s view",
+		"speech": [
+			"verb"
+		]
+	},
+	"grienung": {
+		"definition": "deviation, detour",
+		"speech": [
+			"noun"
+		]
+	},
+	"griffel": {
+		"definition": "stylus; tool for writing on slate, screens, or clay tablets",
+		"speech": [
+			"noun"
+		]
+	},
+	"griffla": {
+		"definition": "engraving; an engraved image",
+		"speech": [
+			"noun"
+		]
+	},
+	"grifflen": {
+		"definition": "to etch, to engrave",
+		"speech": [
+			"verb"
+		]
+	},
+	"grim": {
+		"definition": "mask, face covering",
+		"speech": [
+			"noun"
+		]
+	},
+	"grima": {
+		"definition": "green",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"Grogar": {
+		"character": {},
+		"definition": "Grogar",
+		"speech": [
+			"character"
+		]
+	},
+	"groma": {
+		"definition": "to grow plants, to farm",
+		"speech": [
+			"verb"
+		]
+	},
+	"gromafum": {
+		"definition": "farm, plantation, greenhouse",
+		"note": "*Literally \"place where plants are grown\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"groum": {
+		"definition": "groom, man to be married",
+		"speech": [
+			"noun"
+		],
+		"similar": [
+			"breidgroum"
+		]
+	},
+	"groupam": {
+		"definition": "awesome, super",
+		"speech": [
+			"adjective"
+		]
+	},
+	"grous": {
+		"definition": "grass; light meal, snack",
+		"speech": [
+			"noun"
+		]
+	},
+	"grousbradaft": {
+		"definition": "field, plain, meadow",
+		"note": "*Literally \"expanse of grass\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Grousmond": {
+		"definition": "April (4th month)",
+		"note": "*Literally \"grass month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"grymnek": {
+		"definition": "base, bottom",
+		"speech": [
+			"noun"
+		]
+	},
+	"gulve": {
+		"definition": "yellow",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"gulverath": {
+		"definition": "orange",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"gweft": {
+		"definition": "to breathe",
+		"speech": [
+			"verb"
+		]
+	},
+	"gweftgatr": {
+		"definition": "window",
+		"note": "*Literally \"wind gate\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gweftglokkr": {
+		"definition": "windchime",
+		"speech": [
+			"noun"
+		]
+	},
+	"gweftim": {
+		"definition": "air, breath, wind",
+		"speech": [
+			"noun"
+		]
+	},
+	"gweftvystyl": {
+		"definition": "whistling wind",
+		"note": "*Literally \"wind whistle\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gwend": {
+		"definition": "to gust, to blow",
+		"speech": [
+			"verb"
+		]
+	},
+	"Gwender": {
+		"character": {
+			"justification": "gwend, \"to gust, to blow\" + er \"one who does\" something"
+		},
+		"definition": "Gusty (the Great)",
+		"speech": [
+			"character"
+		]
+	},
+	"gwendponi": {
+		"definition": "Breezie",
+		"note": "*Literally \"wind pony\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gwethar": {
+		"definition": "weather",
+		"speech": [
+			"noun"
+		]
+	},
+	"gylek": {
+		"definition": "similar, alike",
+		"speech": [
+			"adjective"
+		]
+	},
+	"gylekwurd": {
+		"definition": "synonym",
+		"note": "lit. \"same word\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"gylt": {
+		"definition": "gold",
+		"speech": [
+			"noun"
+		]
+	},
+	"gylten": {
+		"definition": "to find guilty or responsible for an act",
+		"speech": [
+			"verb"
+		]
+	},
+	"gyt": {
+		"definition": "to get, to acquire ",
+		"speech": [
+			"verb"
+		]
+	},
+	"haefig": {
+		"definition": "heavy, burdensome",
+		"speech": [
+			"adjective"
+		]
+	},
+	"haefta": {
+		"definition": "should (as an obligation), need, have to, must do, ought to",
+		"speech": [
+			"verb"
+		]
+	},
+	"haeg": {
+		"definition": "hay; meal",
+		"speech": [
+			"noun"
+		]
+	},
+	"Haegmond": {
+		"definition": "July (7th month)",
+		"note": "*Literally \"hay month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"haegsprengar": {
+		"definition": "grasshopper, locusts",
+		"speech": [
+			"noun"
+		]
+	},
+	"haelen": {
+		"definition": "hall (in the sense of \"room\")",
+		"speech": [
+			"noun"
+		]
+	},
+	"haerd": {
+		"definition": "herd, group, family",
+		"speech": [
+			"noun"
+		]
+	},
+	"haerdfum": {
+		"definition": "small town, village",
+		"speech": [
+			"noun"
+		]
+	},
+	"haerdhugge": {
+		"definition": "group hug",
+		"speech": [
+			"noun"
+		]
+	},
+	"haerdtreo": {
+		"definition": "family tree, lineage, bloodline",
+		"speech": [
+			"noun"
+		]
+	},
+	"haeren": {
+		"definition": "to hear",
+		"speech": [
+			"verb"
+		]
+	},
+	"haervest": {
+		"definition": "autumn",
+		"speech": [
+			"noun"
+		]
+	},
+	"Haervestmond": {
+		"definition": "August (8th month)",
+		"note": "*Literally \"harvest month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"haet": {
+		"definition": "hat, covering for head",
+		"speech": [
+			"noun"
+		]
+	},
+	"haf": {
+		"definition": "head (of an animal)",
+		"speech": [
+			"noun"
+		]
+	},
+	"hafhud": {
+		"definition": "head cover, bandana",
+		"speech": [
+			"noun"
+		]
+	},
+	"hafor": {
+		"definition": "lord, master of servants",
+		"speech": [
+			"noun"
+		]
+	},
+	"hafsaer": {
+		"definition": "headache",
+		"note": "*Literally \"head pain\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"hafward": {
+		"definition": "vertical",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hakka": {
+		"definition": "to cut, break, chop",
+		"speech": [
+			"verb"
+		]
+	},
+	"halen": {
+		"definition": "to heal, to make better",
+		"speech": [
+			"verb"
+		]
+	},
+	"haler": {
+		"definition": "healer, (colq.) doctor",
+		"speech": [
+			"noun"
+		]
+	},
+	"halla": {
+		"definition": "hello, greetings",
+		"speech": [
+			"interjection"
+		]
+	},
+	"halta": {
+		"definition": "to hold, to contain, to take care of",
+		"speech": [
+			"verb"
+		]
+	},
+	"haltal": {
+		"definition": "to keep, to hold for an indefinite amount of time",
+		"speech": [
+			"verb"
+		]
+	},
+	"haltaler": {
+		"definition": "keeper, one holding or taking care of something",
+		"speech": [
+			"noun"
+		]
+	},
+	"hammen": {
+		"definition": "to hum, to buzz, to drone",
+		"speech": [
+			"verb"
+		]
+	},
+	"hammenfougyl": {
+		"definition": "hummingbird",
+		"speech": [
+			"noun"
+		]
+	},
+	"hart": {
+		"definition": "deer",
+		"speech": [
+			"noun"
+		]
+	},
+	"harth": {
+		"definition": "hard,difficult, unbreakable",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hatan": {
+		"definition": "to hate, to have contempt for, to not like",
+		"speech": [
+			"verb"
+		]
+	},
+	"hathen": {
+		"definition": "to have",
+		"speech": [
+			"verb"
+		]
+	},
+	"havok": {
+		"definition": "chaos, havoc, unruliness",
+		"note": "*From Old Unicornish crier havoc, \"cry havoc\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Hefen": {
+		"definition": "heaven, the afterlife",
+		"speech": [
+			"noun"
+		]
+	},
+	"hek": {
+		"definition": "high, tall, elevated",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hemse": {
+		"definition": "himself",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"hemth": {
+		"definition": "shirt, clothing worn on the upper body",
+		"speech": [
+			"noun"
+		]
+	},
+	"hert": {
+		"definition": "him, he",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"herth": {
+		"definition": "hearth, fireplace, his (possessive)",
+		"speech": [
+			"noun",
+			"pronoun"
+		]
+	},
+	"het": {
+		"definition": "heat, state of being hot, very warm",
+		"speech": [
+			"noun"
+		]
+	},
+	"hetam": {
+		"definition": "the present",
+		"speech": [
+			"noun"
+		]
+	},
+	"hiel": {
+		"definition": "to cover, to conceal",
+		"speech": [
+			"verb"
+		]
+	},
+	"hiend": {
+		"definition": "behind, backmost",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hienden": {
+		"definition": "to be behind, to hinder, to slow down",
+		"speech": [
+			"verb"
+		]
+	},
+	"hiendenung": {
+		"definition": "hindrance, obstacle, problem, trouble",
+		"speech": [
+			"noun"
+		]
+	},
+	"hiendhouf": {
+		"definition": "hindhoof; the foot of a bipedal creature",
+		"speech": [
+			"noun"
+		]
+	},
+	"hiendlimme": {
+		"definition": "hindlimb; the back leg",
+		"speech": [
+			"noun"
+		]
+	},
+	"hierk": {
+		"definition": "here",
+		"speech": [
+			"adverb"
+		]
+	},
+	"highken": {
+		"definition": "to think, to imagine, to wish",
+		"speech": [
+			"verb"
+		]
+	},
+	"highkenim": {
+		"definition": "thought, non-critical thinking, passive thinking",
+		"note": "*see also mintbilth",
+		"speech": [
+			"noun"
+		]
+	},
+	"hight": {
+		"definition": "hot, warm; lively; attractive",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hin": {
+		"definition": "her, she",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"hinse": {
+		"definition": "herself",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"hir": {
+		"definition": "hero, esp. a male ",
+		"note": "*From Pegasan vir, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"hith": {
+		"definition": "her (possessive)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"hjar": {
+		"definition": "color of frost, pale, venerable",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"hjonka": {
+		"definition": "to honk, to make a goose sound",
+		"speech": [
+			"verb"
+		]
+	},
+	"hjonkkr": {
+		"definition": "goose",
+		"speech": [
+			"noun"
+		]
+	},
+	"hjort": {
+		"definition": "heart, courage, will",
+		"speech": [
+			"noun"
+		]
+	},
+	"hjortgibten": {
+		"definition": "to encourage; motivate; foster; recommend",
+		"speech": [
+			"verb"
+		]
+	},
+	"hjou": {
+		"definition": "color, complexion",
+		"speech": [
+			"noun"
+		]
+	},
+	"hjovul": {
+		"definition": "colorful, polychromatic, filled with color",
+		"speech": [
+			"adjective"
+		]
+	},
+	"hlahalen": {
+		"definition": "to laugh",
+		"speech": [
+			"verb"
+		]
+	},
+	"hlahalt": {
+		"definition": "laughter",
+		"speech": [
+			"noun"
+		]
+	},
+	"hlank": {
+		"definition": "flank, side (of anything)",
+		"speech": [
+			"noun"
+		]
+	},
+	"hlenk": {
+		"definition": "link, relation",
+		"speech": [
+			"noun"
+		]
+	},
+	"hlenka": {
+		"definition": "to link, to relate to",
+		"speech": [
+			"verb"
+		]
+	},
+	"hlenkung": {
+		"definition": "connection, relationship",
+		"speech": [
+			"noun"
+		]
+	},
+	"hlight": {
+		"definition": "reward",
+		"speech": [
+			"noun"
+		]
+	},
+	"hof": {
+		"definition": "yard, court, courtyard",
+		"note": "*from german Hof. Sidenote the word evolved to mean \"hovel\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"horan": {
+		"definition": "horn",
+		"note": " in english which is an open space, this somewhat relates to our word\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"hot": {
+		"definition": "oat (plant or grain from plant)",
+		"speech": [
+			"noun"
+		]
+	},
+	"Hotmond": {
+		"definition": "September (9th month)",
+		"speech": [
+			"noun"
+		]
+	},
+	"houf": {
+		"definition": "hoof, foot (appendage or measurement)",
+		"speech": [
+			"noun"
+		]
+	},
+	"houfen": {
+		"definition": "to handle, to touch, to feel, to deal with",
+		"speech": [
+			"verb"
+		]
+	},
+	"houfizern": {
+		"definition": "horseshoe",
+		"note": "*Literally \"hoof iron\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"houfroian": {
+		"definition": "to masturbate; to generally stimulate oneself sexually,",
+		"speech": [
+			"verb"
+		]
+	},
+	"houfsaer": {
+		"definition": "hoof pain, sore hoof",
+		"note": "*Literally \"hoof sore\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"houftak": {
+		"definition": "hoofprint, footprint, track",
+		"speech": [
+			"noun"
+		]
+	},
+	"houpa": {
+		"definition": "hope, interjection for war/victory",
+		"speech": [
+			"noun",
+			"adjective",
+			"interjection"
+		]
+	},
+	"hous": {
+		"definition": "cabin, cottage, hut, simple dwelling",
+		"note": "*old general word for house, replaced by establa",
+		"speech": [
+			"noun"
+		]
+	},
+	"housten": {
+		"definition": "to cough, to make a noise like a cough",
+		"speech": [
+			"verb"
+		]
+	},
+	"housthak": {
+		"definition": "roof (of a building)",
+		"note": "*Literally \"house cover\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"hring": {
+		"definition": "circle, ring",
+		"speech": [
+			"noun"
+		]
+	},
+	"hringtak": {
+		"definition": "target, bull's eye",
+		"speech": [
+			"noun"
+		]
+	},
+	"hros": {
+		"definition": "horse, any equine animal (pony, zebra, donkey, etc)",
+		"speech": [
+			"noun"
+		]
+	},
+	"hud": {
+		"definition": "**** noun version of huden",
+		"speech": [
+			"noun"
+		]
+	},
+	"huden": {
+		"definition": "to hide, to obscure (from view)",
+		"speech": [
+			"verb"
+		]
+	},
+	"hudenaeg": {
+		"definition": "secret, private information, something kept hidden",
+		"speech": [
+			"noun"
+		]
+	},
+	"huggal": {
+		"definition": "to cuddle, snuggle; to hug or hold continously",
+		"note": "*sometimes used as a euphemism for sex",
+		"speech": [
+			"verb"
+		]
+	},
+	"huggalhighker": {
+		"definition": "cuddlecraver",
+		"speech": [
+			"noun"
+		]
+	},
+	"hugge": {
+		"definition": "hug, embrace",
+		"speech": [
+			"noun"
+		]
+	},
+	"huggen": {
+		"definition": "to hug, to embrace",
+		"speech": [
+			"verb"
+		]
+	},
+	"huggsal": {
+		"definition": "prostitute, sex worker, (euphemism) hug seller",
+		"speech": [
+			"noun"
+		]
+	},
+	"hund": {
+		"definition": "dog, canine, hound",
+		"speech": [
+			"noun"
+		]
+	},
+	"hwael": {
+		"definition": "whale (animal)",
+		"speech": [
+			"noun"
+		]
+	},
+	"hwaelvieg": {
+		"definition": "ocean current",
+		"note": "*Literally \"whale road\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"hwiet": {
+		"definition": "white, bright, radiant",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"hwinen": {
+		"definition": "to whinny, speak up, chime in; protest, wine",
+		"speech": [
+			"verb"
+		]
+	},
+	"hyll": {
+		"definition": "hill",
+		"speech": [
+			"noun"
+		]
+	},
+	"i'southe": {
+		"definition": "indeed, \"in truth\", certainly",
+		"speech": [
+			"adverb"
+		]
+	},
+	"idit": {
+		"definition": "idiot, derogatory term for \"fool\"",
+		"note": "*From Old Unicornish ideot, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"ien": {
+		"definition": "own (implying ownership, as in \"my own\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ies": {
+		"definition": "ice, frost",
+		"speech": [
+			"noun"
+		]
+	},
+	"iesestoun": {
+		"definition": "crystal, mineral resembling ice or glass",
+		"speech": [
+			"noun"
+		]
+	},
+	"iesflaesc": {
+		"definition": "frostbite",
+		"note": "*Literally \"ice flesh\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ieskult": {
+		"definition": "ice-cold",
+		"speech": [
+			"adjective"
+		]
+	},
+	"iesmond": {
+		"definition": "November (11th month)",
+		"note": "*Literally \"ice month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ight": {
+		"definition": "I,me",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"ighth": {
+		"definition": "my,mine (possessive)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"ighth rijan": {
+		"definition": "\"Dear ...\", opening letter salutation",
+		"speech": [
+			"phrase"
+		]
+	},
+	"ijys": {
+		"definition": "heavy grey with warm overtones",
+		"note": "*From Pegasan aegis, meaning \"violent storm\"",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"in-": {
+		"definition": "in-, i- before s",
+		"speech": [
+			"prefix"
+		]
+	},
+	"infrae": {
+		"definition": "afraid, ensnared, trapped",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ingweft": {
+		"definition": "to breath (in), inhale",
+		"note": "*Literally \"in breath\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"inne": {
+		"definition": "in, within, inside",
+		"speech": [
+			"preposition"
+		]
+	},
+	"inne barl a": {
+		"definition": "between; in between, among",
+		"speech": [
+			"preposition"
+		]
+	},
+	"ith": {
+		"definition": "ease, lack of difficulty",
+		"speech": [
+			"noun"
+		]
+	},
+	"ithr": {
+		"definition": "\"the beyond\"; past where can fly; (loosely) afterlife",
+		"note": "*From Pegasan aether, meaning \"thin air\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"izern": {
+		"definition": "iron",
+		"speech": [
+			"noun"
+		]
+	},
+	"izernkrafter": {
+		"definition": "blacksmith, ironworker, ferrier",
+		"speech": [
+			"noun"
+		]
+	},
+	"jae": {
+		"definition": "yes",
+		"speech": [
+			"adverb"
+		]
+	},
+	"jaezmin": {
+		"definition": "jasmine; (loosely) incense",
+		"note": "*From Saddle Arabian yasmín, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"jak": {
+		"definition": "yak ",
+		"speech": [
+			"noun"
+		]
+	},
+	"jese": {
+		"definition": "yourselves (plural)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"jev": {
+		"definition": "if",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"jieta": {
+		"definition": "yet, till now, thus far",
+		"speech": [
+			"adverb"
+		]
+	},
+	"jietekta": {
+		"definition": "the future, that which is yet to be",
+		"speech": [
+			"noun"
+		]
+	},
+	"jifel": {
+		"definition": "evil, cruel, wicked",
+		"speech": [
+			"adjective"
+		]
+	},
+	"jifte": {
+		"definition": "gift, present",
+		"speech": [
+			"noun"
+		]
+	},
+	"jit": {
+		"definition": "you two",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"jou": {
+		"definition": "you (plural)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"jous": {
+		"definition": "fair, lawful, just",
+		"note": "*From Pegasan iux, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"jouth": {
+		"definition": "your (plural)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"junga": {
+		"definition": "young, youthful, immature",
+		"speech": [
+			"adjective"
+		]
+	},
+	"junkten": {
+		"definition": "to join, to participate in; to connect, to merge, to affix",
+		"note": "*From Pegasan iuncta, same meaning",
+		"speech": [
+			"verb"
+		]
+	},
+	"Kadenza": {
+		"character": {
+			"justification": "Pegasan cadencia, meaning \"rhythm\";  In Pegasan Mihi Amore Cadencia; In Ponish, Ight Luvji Kadenza. "
+		},
+		"definition": "Cadance",
+		"speech": [
+			"character"
+		]
+	},
+	"kalle": {
+		"definition": "healthy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kallen": {
+		"definition": "to be healthy, fine, good, positive state",
+		"speech": [
+			"verb"
+		]
+	},
+	"kalm": {
+		"definition": "peace, calm, tranquility",
+		"speech": [
+			"noun"
+		]
+	},
+	"kalypfen": {
+		"definition": "to conceal or cover with one's wings; (of a bird) to brood",
+		"note": "*From Pegasan kalipto, meaning \"to cover\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"kamor": {
+		"definition": "donkey, ass (animal)",
+		"speech": [
+			"noun"
+		]
+	},
+	"Kanterlot": {
+		"definition": "Canterlot; capital established after Luna's banishment",
+		"speech": [
+			"noun"
+		]
+	},
+	"karavan": {
+		"definition": "train of ponies/wagons carrying goods, esp. for trade",
+		"note": "*From Saddle Arabian qar-hab-an, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"karmegyl": {
+		"definition": "square/rhombus",
+		"speech": [
+			"noun"
+		]
+	},
+	"kase": {
+		"definition": "cheese (dairy)",
+		"speech": [
+			"noun"
+		]
+	},
+	"keosan": {
+		"definition": "to choose, to decide",
+		"speech": [
+			"verb"
+		]
+	},
+	"kindryd": {
+		"definition": "kind, caring, friendly, gentle",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kindrydaft": {
+		"definition": "kindness",
+		"speech": [
+			"noun"
+		]
+	},
+	"kirfa": {
+		"definition": "cinnamon",
+		"note": "*from Saddle Arabian qir'fa",
+		"speech": [
+			"noun"
+		]
+	},
+	"Kirin": {
+		"definition": "Kirin",
+		"note": "*From Kirinese qirín, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"kirus": {
+		"definition": "delicate, fluffy cloud; \"cirrus\"",
+		"note": "*From Pegasan cirrus, meaning \"curl\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"klafer": {
+		"definition": "clover (plant)",
+		"speech": [
+			"noun"
+		]
+	},
+	"klang": {
+		"definition": "ring out, chime",
+		"speech": [
+			"noun"
+		]
+	},
+	"klange": {
+		"definition": "to ring out, to chime, to sound",
+		"speech": [
+			"verb"
+		]
+	},
+	"klefen": {
+		"definition": "to cleave, to split, to efficiently solve quickly",
+		"speech": [
+			"verb"
+		]
+	},
+	"klefmint": {
+		"definition": "clever mind, mentally quick",
+		"speech": [
+			"adjective"
+		]
+	},
+	"klod": {
+		"definition": "planet, globe",
+		"speech": [
+			"noun"
+		]
+	},
+	"klopfen": {
+		"nsfw": {
+			"in_universe": "implies steadying partners while mating",
+			"out_universe": "\"clop\" refers to lewd MLP fanfiction."
+		},
+		"definition": "onomatopoeia for the sound of clopping hooves",
+		"speech": [
+			"noun"
+		],
+		"similar": [
+			"kloppa"
+		]
+	},
+	"kloppa": {
+		"nsfw": {
+			"in_universe": "implies steadying partners while mating",
+			"out_universe": "\"clop\" refers to lewd MLP fanfiction."
+		},
+		"definition": "onomatopoeia for the sound of clopping hooves",
+		"speech": [
+			"noun"
+		],
+		"similar": [
+			"klopfen"
+		]
+	},
+	"kluk": {
+		"definition": "onomatopoeia; a chicken's cluck",
+		"speech": [
+			"noun"
+		]
+	},
+	"klukkr": {
+		"definition": "chicken (any age or gender)",
+		"speech": [
+			"noun"
+		]
+	},
+	"klymakt": {
+		"nsfw": {
+			"in_universe": "from Pegasan klimactos",
+			"out_universe": "from Greek klimax"
+		},
+		"definition": "orgasm, climax",
+		"speech": [
+			"noun"
+		]
+	},
+	"knab": {
+		"definition": "knob, doorknob",
+		"speech": [
+			"noun"
+		]
+	},
+	"kneo": {
+		"definition": "knee, joint between fetlock and forearm",
+		"speech": [
+			"noun"
+		]
+	},
+	"ko-": {
+		"definition": "together",
+		"speech": [
+			"prefix"
+		]
+	},
+	"kobonten": {
+		"definition": "to combine, bring together, unite",
+		"speech": [
+			"verb"
+		]
+	},
+	"kodad": {
+		"definition": "nearly black grey with cool overtones",
+		"note": "*From Pegasan skotadi, meaning \"darkness\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kogaerdin": {
+		"definition": "together, whole",
+		"speech": [
+			"adverb"
+		]
+	},
+	"kogibten": {
+		"definition": "to share, to make even",
+		"speech": [
+			"verb"
+		]
+	},
+	"kohighenung": {
+		"definition": "agreement, state of agreeing",
+		"speech": [
+			"noun"
+		]
+	},
+	"kohighken": {
+		"definition": "to agree,  to think the same way",
+		"speech": [
+			"verb"
+		]
+	},
+	"kolt": {
+		"definition": "colt, son, male child",
+		"speech": [
+			"noun"
+		]
+	},
+	"komaenum": {
+		"definition": "community, public interest, common ownership",
+		"speech": [
+			"noun"
+		]
+	},
+	"komaenumlefa": {
+		"definition": "communism, socialism, common ownership",
+		"speech": [
+			"noun"
+		]
+	},
+	"komaenumlefar": {
+		"definition": "communist; socialist, common ownership believer",
+		"speech": [
+			"noun"
+		]
+	},
+	"komajen": {
+		"definition": "to collaborate, make together",
+		"speech": [
+			"verb"
+		]
+	},
+	"komajenung": {
+		"definition": "collaboration, result of something made together",
+		"speech": [
+			"noun"
+		]
+	},
+	"kometh": {
+		"definition": "get-together, gathering, party",
+		"speech": [
+			"noun"
+		]
+	},
+	"kompensa": {
+		"definition": "compensation",
+		"speech": [
+			"noun"
+		]
+	},
+	"kompetise": {
+		"definition": "competition, contest",
+		"speech": [
+			"noun"
+		]
+	},
+	"konkurensen": {
+		"definition": "to compete",
+		"speech": [
+			"verb"
+		]
+	},
+	"konso": {
+		"definition": "cousin",
+		"note": "*From Pegasan consobrinus, meaning \"mother's sister's son\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kopoul": {
+		"definition": "to mate; to have sex (non-vulgar)",
+		"note": "*From Pegasan copulare, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"koppr": {
+		"definition": "copper",
+		"note": "*From Pegasan krupos, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"koron": {
+		"definition": "crown, royal headdress",
+		"note": "*from Unicornish crone",
+		"speech": [
+			"noun"
+		]
+	},
+	"korrekt": {
+		"definition": "correct, right, true",
+		"note": "*From Old Unicornish correct, same meaning.",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kort": {
+		"definition": "brief, concise, of short duration",
+		"speech": [
+			"adjective",
+			"adverb"
+		]
+	},
+	"kost": {
+		"definition": "attempt, endeavor, experiment",
+		"speech": [
+			"noun"
+		]
+	},
+	"kostet": {
+		"definition": "to try, to attempt",
+		"speech": [
+			"verb"
+		]
+	},
+	"kostluzen": {
+		"definition": "to theorise, to speculate",
+		"speech": [
+			"verb"
+		]
+	},
+	"kostluzer": {
+		"definition": "speculator, theorist",
+		"speech": [
+			"verb"
+		]
+	},
+	"kostluzung": {
+		"definition": "theory, speculation, unproven conjecture",
+		"speech": [
+			"noun"
+		]
+	},
+	"kostrom": {
+		"definition": "laboratory, lab; room, experiment room",
+		"speech": [
+			"noun"
+		]
+	},
+	"kou": {
+		"definition": "cow; (loosely) any bovine",
+		"note": "*female or species in general",
+		"speech": [
+			"noun"
+		]
+	},
+	"koufen": {
+		"definition": "to accept",
+		"speech": [
+			"verb"
+		]
+	},
+	"koukel": {
+		"definition": "cake, similar baked dessert",
+		"speech": [
+			"noun"
+		]
+	},
+	"kouken": {
+		"definition": "to cook",
+		"speech": [
+			"verb"
+		]
+	},
+	"koukr": {
+		"definition": "cook, chef",
+		"speech": [
+			"noun"
+		]
+	},
+	"koukrom": {
+		"definition": "kitchen, cooking area"
+	},
+	"kounen": {
+		"definition": "can, to be able",
+		"speech": [
+			"verb"
+		]
+	},
+	"koussal": {
+		"definition": "to make out; to kiss passionately and continously ",
+		"speech": [
+			"verb"
+		]
+	},
+	"kousse": {
+		"definition": "kiss",
+		"speech": [
+			"noun"
+		]
+	},
+	"koussen": {
+		"definition": "to kiss",
+		"speech": [
+			"verb"
+		]
+	},
+	"kowegnen": {
+		"definition": "to cooperate, to participate",
+		"speech": [
+			"verb"
+		]
+	},
+	"kraban": {
+		"definition": "to crawl",
+		"speech": [
+			"verb"
+		]
+	},
+	"krafen": {
+		"definition": "crow; raven; big, black bird; birds of Corvidae",
+		"speech": [
+			"noun"
+		]
+	},
+	"kraft": {
+		"definition": "craft, skill, trade",
+		"speech": [
+			"noun"
+		]
+	},
+	"kraften": {
+		"definition": "to craft, to construct, to build",
+		"speech": [
+			"verb"
+		]
+	},
+	"kraftenung": {
+		"definition": "structure, building; (generic) something built",
+		"speech": [
+			"noun"
+		]
+	},
+	"krafter": {
+		"definition": "artisan, one who works with a material/medium",
+		"speech": [
+			"noun"
+		]
+	},
+	"kraftfum": {
+		"definition": "workshop, factory",
+		"note": "*Literally \"craft place\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kramb": {
+		"definition": "neck, crest; the comb of a rooster",
+		"speech": [
+			"noun"
+		]
+	},
+	"krammen": {
+		"definition": "food (in general)",
+		"speech": [
+			"noun"
+		]
+	},
+	"krammenbord": {
+		"definition": "dining table, table used for eating",
+		"speech": [
+			"noun"
+		]
+	},
+	"kransc": {
+		"definition": "onomatopoeia: crunch; to crunch, smash, or compress",
+		"note": "*Also a noun",
+		"speech": [
+			"verb"
+		]
+	},
+	"kriesca": {
+		"definition": "shriek; a sharp, shrill outcry or scream",
+		"note": "vulg. to waste time",
+		"speech": [
+			"noun"
+		]
+	},
+	"kriescen": {
+		"definition": "to shriek; to utter sharply and shrilly; to utter a loud, sharp, shrill sound or cry",
+		"speech": [
+			"verb"
+		]
+	},
+	"krig": {
+		"definition": "war",
+		"speech": [
+			"noun"
+		]
+	},
+	"kriostram": {
+		"definition": "mesosphere",
+		"note": "*From Pegasan kriostrama, meaning \"cold layer\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kropa": {
+		"definition": "lower back, small of the back; (clothing) crupper",
+		"speech": [
+			"noun"
+		]
+	},
+	"kropzen": {
+		"definition": "bronze",
+		"note": "kroppa+zen",
+		"speech": [
+			"noun"
+		]
+	},
+	"Krysaleis": {
+		"character": {},
+		"definition": "Chrysalis",
+		"speech": [
+			"character"
+		]
+	},
+	"kult": {
+		"definition": "cold, chilly; unfeeling, heartless",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kultura": {
+		"definition": "culture; one's culture, heritage, or traditions",
+		"note": "*From Pegasan cultura, meaning \"care; an honoring of the past\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kumo": {
+		"definition": "to arrive, to come, to land",
+		"speech": [
+			"verb"
+		]
+	},
+	"kunk": {
+		"definition": "to chop, to cut wood/tree",
+		"speech": [
+			"verb"
+		]
+	},
+	"kut": {
+		"definition": "to cut",
+		"note": "*also a noun meaning \"a cut\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"kuthe": {
+		"definition": "sharp",
+		"speech": [
+			"adjective"
+		]
+	},
+	"kuttr": {
+		"definition": "knife",
+		"speech": [
+			"noun"
+		]
+	},
+	"kwa": {
+		"definition": "what",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"kwak": {
+		"definition": "a quack, a duck sound",
+		"speech": [
+			"noun"
+		]
+	},
+	"kwaken": {
+		"definition": "to quack, to make a duck sound",
+		"speech": [
+			"verb"
+		]
+	},
+	"kwakkr": {
+		"definition": "duck (bird)",
+		"speech": [
+			"noun"
+		]
+	},
+	"kwane": {
+		"definition": "to guide",
+		"speech": [
+			"verb"
+		]
+	},
+	"kwar": {
+		"definition": "where",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"kwarvaere": {
+		"definition": "wherever",
+		"speech": [
+			"adverb",
+			"conjunction"
+		]
+	},
+	"kwek": {
+		"definition": "which",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"kweld": {
+		"definition": "royal, noble, one of noble stock",
+		"note": "*Often used in place of \"Lord\" or \"Lady\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldaft": {
+		"definition": "majesty, magnificence",
+		"note": "*Literally \"the state of being royal\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldbotra": {
+		"definition": "prince, male heir",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldekta": {
+		"definition": "courtesy, manners, good social graces",
+		"note": "*Literally \"to act like a royal\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldestab": {
+		"definition": "palace, royal dwelling, royal court",
+		"note": "*Literally \"royal house\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldestra": {
+		"definition": "princess, female heir",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldhjonkr": {
+		"definition": "swan",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldmatra": {
+		"definition": "queen, top female ruler",
+		"speech": [
+			"noun"
+		]
+	},
+	"kweldpetra": {
+		"definition": "king, top male ruler",
+		"speech": [
+			"noun"
+		]
+	},
+	"kwen": {
+		"definition": "when",
+		"speech": [
+			"adverb"
+		]
+	},
+	"kwenvaere": {
+		"definition": "whenever",
+		"speech": [
+			"conjunction",
+			"adverb"
+		]
+	},
+	"kwestar": {
+		"definition": "adventure, journey, mission",
+		"speech": [
+			"noun"
+		]
+	},
+	"kwide": {
+		"definition": "saying, aphorism, maxim",
+		"speech": [
+			"noun"
+		]
+	},
+	"kyan": {
+		"definition": "sky blue, cyan",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"kynge": {
+		"definition": "fuedal king, lord",
+		"speech": [
+			"noun"
+		]
+	},
+	"laedan": {
+		"definition": "to lead, to take charge, to conduct, to control ",
+		"speech": [
+			"verb"
+		]
+	},
+	"laef": {
+		"definition": "leaf,page",
+		"speech": [
+			"noun"
+		]
+	},
+	"laefig": {
+		"definition": "lightweight, tenuous",
+		"speech": [
+			"adjective"
+		]
+	},
+	"laeken": {
+		"definition": "(formal) to heal, to use medicine to remove pain",
+		"speech": [
+			"verb"
+		]
+	},
+	"laeker": {
+		"definition": "(formal) doctor",
+		"speech": [
+			"noun"
+		]
+	},
+	"laeol": {
+		"definition": "loyal, true to one's allegiance",
+		"note": "*From Old Unicornish loal, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"laeolaft": {
+		"definition": "loyalty",
+		"speech": [
+			"noun"
+		]
+	},
+	"laet": {
+		"definition": "light",
+		"speech": [
+			"noun"
+		]
+	},
+	"lag": {
+		"definition": "law, order",
+		"speech": [
+			"noun"
+		]
+	},
+	"lagr": {
+		"definition": "storage, a place for storage",
+		"speech": [
+			"noun"
+		]
+	},
+	"lagra": {
+		"definition": "to store, to withhold",
+		"speech": [
+			"verb"
+		]
+	},
+	"lagrung": {
+		"definition": "storage, the act of storing",
+		"speech": [
+			"noun"
+		]
+	},
+	"lan": {
+		"definition": "along, alongside, side by side, by the side, next to",
+		"speech": [
+			"adverb",
+			"preposition"
+		]
+	},
+	"laten": {
+		"definition": "to let go, to free, to allow",
+		"speech": [
+			"verb"
+		]
+	},
+	"lathen": {
+		"definition": "to invite, to ask for someone's presence or participation",
+		"speech": [
+			"verb"
+		]
+	},
+	"lathoun": {
+		"definition": "invitation",
+		"speech": [
+			"noun"
+		]
+	},
+	"lefa": {
+		"definition": "belief",
+		"speech": [
+			"noun"
+		]
+	},
+	"lefan": {
+		"definition": "to believe",
+		"speech": [
+			"verb"
+		]
+	},
+	"legga": {
+		"definition": "to lay, to place",
+		"speech": [
+			"verb"
+		]
+	},
+	"lek": {
+		"definition": "form, shape, body",
+		"speech": [
+			"noun"
+		]
+	},
+	"lekdael": {
+		"definition": "body part; (when plural) anatomy",
+		"note": "*Literally \"body part\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"leon": {
+		"definition": "lion",
+		"speech": [
+			"noun"
+		]
+	},
+	"les": {
+		"definition": "fake, psuedo, untrue",
+		"speech": [
+			"adjective"
+		]
+	},
+	"lesen": {
+		"definition": "to make less, to diminish, to reduce",
+		"speech": [
+			"verb"
+		]
+	},
+	"liema": {
+		"definition": "glue; sticky adhesive substance",
+		"speech": [
+			"noun"
+		]
+	},
+	"liemen": {
+		"definition": "to glue, to adhere, to stick",
+		"speech": [
+			"verb"
+		]
+	},
+	"lieten": {
+		"definition": "to illuminate, ignite, rouse, arouse, rile up",
+		"speech": [
+			"verb"
+		]
+	},
+	"lietenim": {
+		"definition": "lightning",
+		"note": "*that which illuminates or ignites",
+		"speech": [
+			"noun"
+		]
+	},
+	"liga": {
+		"definition": "log, wood from cut trees",
+		"speech": [
+			"noun"
+		]
+	},
+	"ligvier": {
+		"definition": "campfire, bonfire (primarly for warmth)",
+		"speech": [
+			"noun"
+		]
+	},
+	"likhen": {
+		"definition": "to like, to favor",
+		"speech": [
+			"verb"
+		]
+	},
+	"likhung": {
+		"definition": "favorite, liking",
+		"speech": [
+			"noun"
+		]
+	},
+	"limme": {
+		"definition": "leg, limb",
+		"speech": [
+			"noun"
+		]
+	},
+	"lit": {
+		"definition": "bed frame, bed (furniture)",
+		"note": "*from Old Unicornish lit same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"ljout": {
+		"definition": "loud, loud noise, noisy, sound that is intense in volume",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"loffel": {
+		"definition": "spoon",
+		"speech": [
+			"noun"
+		]
+	},
+	"lond": {
+		"definition": "owned land, territory, ground property",
+		"note": "*see ertha for general 'earth'",
+		"speech": [
+			"noun"
+		]
+	},
+	"lorna": {
+		"definition": "to learn, to study",
+		"speech": [
+			"verb"
+		]
+	},
+	"lornafum": {
+		"definition": "school, college, university",
+		"note": "*Literally \"place to learn\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"lornar": {
+		"definition": "student, learner",
+		"speech": [
+			"noun"
+		]
+	},
+	"lornavarg": {
+		"definition": "curriculum; set of courses and coursework",
+		"speech": [
+			"noun"
+		]
+	},
+	"lornmetha": {
+		"definition": "to get to know, to introduce",
+		"note": "*Literally \"to learn meet\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"losan": {
+		"definition": "to lose something; to misplace; to fail",
+		"speech": [
+			"verb"
+		]
+	},
+	"Louna": {
+		"character": {},
+		"definition": "Luna",
+		"speech": [
+			"character"
+		]
+	},
+	"Lounamond": {
+		"definition": "October (10th month)",
+		"note": "*Literally \"Luna month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"lousan": {
+		"definition": "to loosen, be unrestraint, to let loose",
+		"speech": [
+			"verb"
+		]
+	},
+	"luvji": {
+		"definition": "to love",
+		"speech": [
+			"verb"
+		]
+	},
+	"luz": {
+		"definition": "a look, a see",
+		"speech": [
+			"noun"
+		]
+	},
+	"luzen": {
+		"definition": "to see, to look, to witness",
+		"speech": [
+			"verb"
+		]
+	},
+	"luzkoun": {
+		"definition": "visible, seeable",
+		"speech": [
+			"adjective"
+		]
+	},
+	"luzkounaft": {
+		"definition": "visibility, the state or act of being visible ",
+		"speech": [
+			"noun"
+		]
+	},
+	"luzung": {
+		"definition": "vision, sight, ability to see",
+		"speech": [
+			"noun"
+		]
+	},
+	"lyft": {
+		"definition": "left, on the left side",
+		"speech": [
+			"adjective"
+		]
+	},
+	"lypken": {
+		"definition": "to drink, to lick, to lap up",
+		"speech": [
+			"verb"
+		]
+	},
+	"lysan": {
+		"definition": "to listen",
+		"speech": [
+			"verb"
+		]
+	},
+	"mae": {
+		"definition": "woman, mare",
+		"speech": [
+			"noun"
+		]
+	},
+	"mael": {
+		"nsfw": {},
+		"definition": "lesbian, mares in love, colloquial shorten of maeluvj",
+		"speech": [
+			"noun"
+		]
+	},
+	"maelto": {
+		"definition": "many, a lot",
+		"speech": [
+			"adjective"
+		]
+	},
+	"maeltofald": {
+		"definition": "complex, complicated, convoluted",
+		"note": "etymology maelto+fald",
+		"speech": [
+			"adjective"
+		]
+	},
+	"maeluvj": {
+		"definition": "mares in sex/romantic relationship, lesbian",
+		"speech": [
+			"noun"
+		]
+	},
+	"maeluvjaft": {
+		"definition": "lesbianism, the act or state of being lesbian",
+		"speech": [
+			"noun"
+		]
+	},
+	"maene": {
+		"definition": "mane, hair, fur",
+		"speech": [
+			"noun"
+		]
+	},
+	"maenvarger": {
+		"definition": "barber, haircutter, hairstylist",
+		"speech": [
+			"noun"
+		]
+	},
+	"maera": {
+		"definition": "lake, pool",
+		"speech": [
+			"noun"
+		]
+	},
+	"maespurt": {
+		"nsfw": {
+			"in_universe": "literally \"mare cum\""
+		},
+		"definition": "female ejaculatory/vaginal fluid",
+		"speech": [
+			"noun"
+		]
+	},
+	"maesuma": {
+		"definition": "mare-like, feminine",
+		"speech": [
+			"noun"
+		]
+	},
+	"maesumaft": {
+		"definition": "mareness, femininity",
+		"speech": [
+			"noun"
+		]
+	},
+	"maetol": {
+		"nsfw": {
+			"in_universe": "literally \"mare hole\""
+		},
+		"definition": "\"pussy\"; crude term for the vagina, used sexually or insultingly",
+		"speech": [
+			"noun"
+		]
+	},
+	"mag": {
+		"definition": "may, might",
+		"speech": [
+			"verb"
+		]
+	},
+	"mage": {
+		"definition": "stomach, upper digestive system",
+		"speech": [
+			"noun"
+		]
+	},
+	"magie": {
+		"definition": "magic from inherient magic power or abilities",
+		"speech": [
+			"noun"
+		]
+	},
+	"maglig": {
+		"definition": "possible, feasile, capable of being done or achieved",
+		"speech": [
+			"adjective"
+		]
+	},
+	"majen": {
+		"definition": "to make, to create, to construct",
+		"speech": [
+			"verb"
+		]
+	},
+	"majenaven": {
+		"definition": "to announce",
+		"speech": [
+			"verb"
+		]
+	},
+	"majenavung": {
+		"definition": "announcement",
+		"speech": [
+			"noun"
+		]
+	},
+	"majenden": {
+		"definition": "to delete, to eliminate, to make something cease",
+		"speech": [
+			"verb"
+		]
+	},
+	"mantyl": {
+		"definition": "cloak, mantle",
+		"speech": [
+			"noun"
+		]
+	},
+	"marmel": {
+		"definition": "marble (stone)",
+		"note": "*Also marmelstoun",
+		"speech": [
+			"noun"
+		]
+	},
+	"maro": {
+		"definition": "dawn, twilight before sunrise, first light",
+		"speech": [
+			"noun"
+		]
+	},
+	"maror": {
+		"definition": "more, greater, stronger",
+		"speech": [
+			"adjective"
+		]
+	},
+	"marung": {
+		"definition": "morning",
+		"speech": [
+			"noun"
+		]
+	},
+	"masc": {
+		"definition": "mash, pulp, thick and uneven sauce",
+		"speech": [
+			"noun"
+		]
+	},
+	"masecr": {
+		"definition": "sword, sharp weapon",
+		"speech": [
+			"noun"
+		]
+	},
+	"mathum": {
+		"definition": "treasure, precious object",
+		"speech": [
+			"noun"
+		]
+	},
+	"matra": {
+		"definition": "mother",
+		"speech": [
+			"noun"
+		]
+	},
+	"med": {
+		"definition": "with, alongside, by means of",
+		"speech": [
+			"preposition"
+		]
+	},
+	"mednavaft": {
+		"definition": "mindfulness, awareness",
+		"speech": [
+			"noun"
+		]
+	},
+	"mednavaften": {
+		"definition": "to be aware, to be mindful",
+		"speech": [
+			"verb"
+		]
+	},
+	"mefen": {
+		"definition": "to mean, intend",
+		"speech": [
+			"verb"
+		]
+	},
+	"megyl": {
+		"definition": "angle, bend, curve",
+		"speech": [
+			"noun"
+		]
+	},
+	"meltan": {
+		"definition": "to melt, to become a liquid by heat",
+		"speech": [
+			"verb"
+		]
+	},
+	"mese": {
+		"definition": "myself",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"messen": {
+		"definition": "to miss",
+		"speech": [
+			"verb"
+		]
+	},
+	"mest": {
+		"definition": "most",
+		"note": "*Also a suffix",
+		"speech": [
+			"adjective"
+		]
+	},
+	"meta": {
+		"definition": "to measure, determine quality of, to apply value to",
+		"speech": [
+			"verb"
+		]
+	},
+	"metha": {
+		"definition": "to meet, to gather",
+		"speech": [
+			"verb"
+		]
+	},
+	"metour": {
+		"definition": "adult, mature, fully grown",
+		"speech": [
+			"adjective"
+		]
+	},
+	"mette": {
+		"definition": "a mate;  a romantic or sexual partner; one half of a pair",
+		"speech": [
+			"noun"
+		]
+	},
+	"metung": {
+		"definition": "measurement, state of having been measured",
+		"speech": [
+			"noun"
+		]
+	},
+	"might": {
+		"definition": "power, might, strength",
+		"speech": [
+			"noun"
+		]
+	},
+	"min": {
+		"definition": "small, little, least",
+		"note": "*Also a suffix",
+		"speech": [
+			"adjective"
+		]
+	},
+	"min-": {
+		"definition": "little, small version of",
+		"speech": [
+			"prefix"
+		]
+	},
+	"minbod": {
+		"definition": "letter, note, written message",
+		"note": "min+boda",
+		"speech": [
+			"noun"
+		]
+	},
+	"mingrazer": {
+		"definition": "ant",
+		"speech": [
+			"noun"
+		]
+	},
+	"mini": {
+		"definition": "noodles (plural), singular 'min'",
+		"note": "*From Kirinese miàn",
+		"speech": [
+			"noun"
+		]
+	},
+	"minmaescr": {
+		"definition": "dagger, a small sword",
+		"speech": [
+			"noun"
+		]
+	},
+	"mint": {
+		"definition": "mind",
+		"speech": [
+			"noun"
+		]
+	},
+	"mintbilth": {
+		"definition": "idea, concept, critical thought, plan",
+		"note": "*see also highkenim",
+		"speech": [
+			"noun"
+		]
+	},
+	"miscan": {
+		"definition": "to mix, to blend",
+		"speech": [
+			"verb"
+		]
+	},
+	"miscel": {
+		"definition": "much",
+		"speech": [
+			"adjective"
+		]
+	},
+	"mistel": {
+		"definition": "mistle; any of several hemiparasitic evergreen plants of the order Santalales",
+		"speech": [
+			"noun"
+		]
+	},
+	"misteltien": {
+		"definition": "mistletoe; any of several hemiparasitic evergreens used as a Christmas decoration",
+		"speech": [
+			"noun"
+		]
+	},
+	"mjolk": {
+		"definition": "milk",
+		"speech": [
+			"noun"
+		]
+	},
+	"mod": {
+		"definition": "mud",
+		"speech": [
+			"noun"
+		]
+	},
+	"modponi": {
+		"definition": "(slur) mud pony",
+		"note": "*literally \"mud pony\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"moj": {
+		"definition": "clean, pretty, attractive",
+		"speech": [
+			"adjective"
+		]
+	},
+	"mond": {
+		"definition": "month",
+		"speech": [
+			"noun"
+		]
+	},
+	"monda": {
+		"definition": "moon",
+		"speech": [
+			"noun"
+		]
+	},
+	"mondalek": {
+		"definition": "crescent",
+		"speech": [
+			"noun"
+		]
+	},
+	"monumen": {
+		"definition": "important, crucial, very special",
+		"speech": [
+			"adjective"
+		]
+	},
+	"morthor": {
+		"definition": "to murder, to kill, to slay",
+		"speech": [
+			"verb"
+		]
+	},
+	"morthormar": {
+		"definition": "massacre; an excessive killing",
+		"speech": [
+			"noun"
+		]
+	},
+	"moruhoran": {
+		"definition": "carrot",
+		"speech": [
+			"noun"
+		]
+	},
+	"moruppa": {
+		"definition": "root vegetable; tuber",
+		"speech": [
+			"noun"
+		]
+	},
+	"mos": {
+		"definition": "moss (plant)",
+		"speech": [
+			"noun"
+		]
+	},
+	"mosstol": {
+		"definition": "mushroom",
+		"speech": [
+			"noun"
+		]
+	},
+	"mouar": {
+		"definition": "above, in higher place, more than, beyond, on top of",
+		"speech": [
+			"preposition",
+			"adverb"
+		]
+	},
+	"moud": {
+		"definition": "tired, exhausted",
+		"speech": [
+			"adjective"
+		]
+	},
+	"moufin": {
+		"definition": "muffin",
+		"note": "*From Old Unicornish mouffen, meaning \"soft little cake\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"mous": {
+		"definition": "mouse",
+		"note": "*From Pegasan musa, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"mouth": {
+		"definition": "mouth",
+		"speech": [
+			"noun"
+		]
+	},
+	"mug": {
+		"definition": "mug, cup (for drinking)",
+		"speech": [
+			"noun"
+		]
+	},
+	"munden": {
+		"definition": "to protect, to guard",
+		"speech": [
+			"verb"
+		]
+	},
+	"na-": {
+		"definition": "un-, to undo the verb prefixed, or to be the opposite of the noun",
+		"speech": [
+			"prefix"
+		]
+	},
+	"nae": {
+		"definition": "no",
+		"speech": [
+			"adverb"
+		]
+	},
+	"naed": {
+		"definition": "to need, to require",
+		"note": "*Also a noun, \"a need, something one requires\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"naeg": {
+		"definition": "to speak, to say; tongue, language, speech",
+		"speech": [
+			"verb",
+			"noun"
+		]
+	},
+	"naegung": {
+		"definition": "statement, proposition, way of reasoning",
+		"note": "*not to be confused with dundravaht",
+		"speech": [
+			"noun"
+		]
+	},
+	"naemar": {
+		"definition": "no more, not any more",
+		"speech": [
+			"adjective",
+			"adverb"
+		]
+	},
+	"naer": {
+		"definition": "not, do not; to not do(as a verb)",
+		"speech": [
+			"adverb"
+		]
+	},
+	"naeraft": {
+		"definition": "nothing",
+		"speech": [
+			"noun"
+		]
+	},
+	"naergylten": {
+		"definition": "to excuse, to pardon, find innocent",
+		"speech": [
+			"verb"
+		]
+	},
+	"naertrin": {
+		"definition": "another",
+		"note": "*Literally \"not that\"",
+		"speech": [
+			"determiner"
+		]
+	},
+	"nagylek": {
+		"definition": "different, separate",
+		"note": "*literally \"not same\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nagylekung": {
+		"definition": "difference, the state or act of being different",
+		"speech": [
+			"noun"
+		]
+	},
+	"nakohighken": {
+		"definition": "to disagree with, to take issue with, not agree with",
+		"speech": [
+			"verb"
+		]
+	},
+	"naluzkoun": {
+		"definition": "invisible, unseeable",
+		"speech": [
+			"adjective"
+		]
+	},
+	"naluzkounaft": {
+		"definition": "invisibility, the state or act of being invisible ",
+		"speech": [
+			"noun"
+		]
+	},
+	"nam": {
+		"definition": "am not (copula to the speaker)",
+		"note": "contraction of naer + am",
+		"speech": [
+			"verb"
+		]
+	},
+	"nar": {
+		"definition": "are not, aren't (copula to the plural)",
+		"note": "contraction of naer + ar",
+		"speech": [
+			"verb"
+		]
+	},
+	"narijan": {
+		"definition": "enemy",
+		"note": "*literally \"not friend\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"nariskar": {
+		"definition": "anarchy, practice of anarchism, system with no authority",
+		"speech": [
+			"noun"
+		]
+	},
+	"nariskarlefa": {
+		"definition": "anarchism, political ideology of anarchy",
+		"speech": [
+			"noun"
+		]
+	},
+	"nariskarlefar": {
+		"definition": "anarchist, one who practices anarchy",
+		"speech": [
+			"noun"
+		]
+	},
+	"nasse": {
+		"definition": "to call, to refer to",
+		"speech": [
+			"verb"
+		]
+	},
+	"nassen": {
+		"definition": "to be called",
+		"speech": [
+			"verb"
+		]
+	},
+	"natil": {
+		"definition": "to resent",
+		"speech": [
+			"verb"
+		]
+	},
+	"natim": {
+		"definition": "year",
+		"speech": [
+			"noun"
+		]
+	},
+	"natimar": {
+		"definition": "yearling",
+		"speech": [
+			"noun"
+		]
+	},
+	"navaft": {
+		"definition": "knowledge",
+		"speech": [
+			"noun"
+		]
+	},
+	"naven": {
+		"definition": "to know; to be familiar with; to know someone, someplace, or something",
+		"note": "(in contrast to witten)",
+		"speech": [
+			"verb"
+		]
+	},
+	"nawi": {
+		"definition": "new, recent, different, inexperienced",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nawianborth": {
+		"definition": "newborn",
+		"note": "*Also a noun",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nawihthe": {
+		"definition": "unimportant, insignificant,trivial",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nawimajen": {
+		"definition": "to invent, to fabricate",
+		"speech": [
+			"verb"
+		]
+	},
+	"nawimajer": {
+		"definition": "inventor, creator, fabricator",
+		"speech": [
+			"noun"
+		]
+	},
+	"nefyl": {
+		"definition": "cloud",
+		"note": "*From Pegasan nefila, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"nefyldom": {
+		"definition": "cloud structure, cloud house",
+		"note": "*From Pegasan nefila domi, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"nefyle": {
+		"definition": "soft, gentle, easy to touch",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nefylhyp": {
+		"definition": "soft cloud ideal for sleeping on",
+		"note": "*From Pegasan nefila hypnos, meaning \"drowsy cloud\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"nefylmont": {
+		"definition": "very large, mountainous cloud; \"cumulonimbus\"",
+		"note": "*From Pegasan nefila montem, meaning \"mountain cloud\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"nefylstrat": {
+		"definition": "thick, sturdy cloud for building with",
+		"note": "*From Pegasan nefila stratos, meaning \"strong cloud\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Nefylvael": {
+		"definition": "Cloudsdale",
+		"speech": [
+			"noun"
+		]
+	},
+	"nemegyl": {
+		"definition": "nonagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"nepos": {
+		"definition": "nephew",
+		"note": "*From Pegasan nepos, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"neptis": {
+		"definition": "niece",
+		"note": "*From Pegasan neptia, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"nes": {
+		"definition": "is not, isn't (copula to the singular)",
+		"note": "contraction of naer + es",
+		"speech": [
+			"verb"
+		]
+	},
+	"Nirik": {
+		"definition": "Nirik; an upset, fiery Kirin",
+		"note": "*From Kirinese niríq, meaning \"anger, fury\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"nis": {
+		"definition": "sneeze",
+		"speech": [
+			"noun"
+		]
+	},
+	"nisen": {
+		"definition": "to sneeze",
+		"speech": [
+			"verb"
+		]
+	},
+	"nodos": {
+		"definition": "southern wind",
+		"note": "*From Pegasan notus, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"nokta": {
+		"definition": "night",
+		"speech": [
+			"noun"
+		]
+	},
+	"noktamae": {
+		"definition": "nightmare",
+		"speech": [
+			"noun"
+		]
+	},
+	"Noktamae Monda": {
+		"character": {},
+		"definition": "Nightmare Moon",
+		"speech": [
+			"character"
+		]
+	},
+	"noma": {
+		"definition": "name, designation, title (of a work), noun",
+		"speech": [
+			"noun"
+		]
+	},
+	"noman": {
+		"definition": "to name, to designate, to title",
+		"speech": [
+			"verb"
+		]
+	},
+	"nordr": {
+		"definition": "north",
+		"speech": [
+			"noun"
+		]
+	},
+	"nothe": {
+		"definition": "nor",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"nuha": {
+		"definition": "now, at present",
+		"speech": [
+			"adverb"
+		]
+	},
+	"nyks": {
+		"definition": "midnight blue, dark indigo",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"nyr": {
+		"definition": "near, next to",
+		"speech": [
+			"preposition"
+		]
+	},
+	"nyren": {
+		"definition": "to come near, to go near, to approach",
+		"speech": [
+			"verb"
+		]
+	},
+	"nythra": {
+		"definition": "lower, under, beneath, below",
+		"speech": [
+			"adjective",
+			"preposition"
+		]
+	},
+	"nythradrawan": {
+		"definition": "to defeat",
+		"note": "*Literally \"to throw down\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"nythramight": {
+		"definition": "meek, submissive, doormat",
+		"speech": [
+			"adjective"
+		]
+	},
+	"nythravaengen": {
+		"definition": "to \"take under one's wing\"; to protect and mentor like family",
+		"note": "*Literally \"under wing\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"oer": {
+		"definition": "was/were, past tense of 'to be'",
+		"note": "*Past tense of am/ar/es, not used with another verb",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"oum",
+			"ous"
+		]
+	},
+	"ofar": {
+		"definition": "over",
+		"speech": [
+			"preposition"
+		]
+	},
+	"ofar-": {
+		"definition": "over, beyond, intense",
+		"speech": [
+			"prefix"
+		]
+	},
+	"ofarmight": {
+		"definition": "to be dominant or authoritarian",
+		"speech": [
+			"verb"
+		]
+	},
+	"ofarstoarma": {
+		"definition": "surprise; something not expected",
+		"speech": [
+			"noun"
+		]
+	},
+	"ofarstoarmen": {
+		"definition": "to surprise; cause (someone) to feel surprise",
+		"speech": [
+			"verb"
+		]
+	},
+	"ogr": {
+		"definition": "ogre, brutish giant",
+		"speech": [
+			"noun"
+		]
+	},
+	"ollen": {
+		"definition": "to allow, to enable",
+		"speech": [
+			"verb"
+		]
+	},
+	"onbut": {
+		"definition": "about, concerning, regarding",
+		"speech": [
+			"noun"
+		]
+	},
+	"ondemegyl": {
+		"definition": "hendecagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"ondra": {
+		"definition": "wonder, sense of awe or astonishment, something causingamazement or awe",
+		"speech": [
+			"noun"
+		]
+	},
+	"ondravarg": {
+		"definition": "miracle; wonderful event attributed to supernatural powers",
+		"speech": [
+			"noun"
+		]
+	},
+	"ondravul": {
+		"definition": "wonderful, excellent, extremely impressive",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ondren": {
+		"definition": "to wonder; to ponder about something, to be surprised",
+		"speech": [
+			"verb"
+		]
+	},
+	"onescaft": {
+		"definition": "honesty, truthfulness",
+		"speech": [
+			"noun"
+		]
+	},
+	"onescte": {
+		"definition": "honest, truthful, free from fraud or deceit",
+		"note": "*From Pegasan honestum, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"oni": {
+		"definition": "(some)one, (general) you, unspecified entiti(es), passive voice particle",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"onith": {
+		"definition": "(some)one’s, (general) yours, unspecified entiti(es), passive voice particle",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"onlek": {
+		"definition": "only",
+		"speech": [
+			"adjective"
+		]
+	},
+	"onr": {
+		"definition": "honor",
+		"note": "*From Pegasan honor, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"onse": {
+		"definition": "reflexive version of oni",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"opna": {
+		"definition": "to make clear, to make accessible",
+		"speech": [
+			"verb"
+		]
+	},
+	"orizon": {
+		"definition": "horizon; where earth meets sky",
+		"note": "(used by pegasi or people in their culture)",
+		"speech": [
+			"noun"
+		]
+	},
+	"orlae": {
+		"definition": "fate, destiny",
+		"speech": [
+			"noun"
+		]
+	},
+	"oro": {
+		"definition": "ear",
+		"speech": [
+			"noun"
+		]
+	},
+	"othe": {
+		"definition": "or",
+		"note": "*e drops when before a vowel",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"oufan": {
+		"definition": "to practice, to drill, to repeat for expertise",
+		"speech": [
+			"verb"
+		]
+	},
+	"oufanung": {
+		"definition": "practice, result of practicing ",
+		"speech": [
+			"noun"
+		]
+	},
+	"oul": {
+		"definition": "wool",
+		"speech": [
+			"noun"
+		]
+	},
+	"oum": {
+		"definition": "was/were, past tense of 'to be'",
+		"note": "*Past tense of am/ar/es, not used with another verb",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"ous",
+			"oer"
+		]
+	},
+	"ous": {
+		"definition": "was/were, past tense of 'to be'",
+		"note": "*Past tense of am/ar/es, not used with another verb",
+		"speech": [
+			"verb"
+		],
+		"similar": [
+			"oum",
+			"oer"
+		]
+	},
+	"ouse": {
+		"definition": "ourselves ",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"ouser": {
+		"definition": "our",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"outemest": {
+		"definition": "utmost, farthest",
+		"speech": [
+			"noun"
+		]
+	},
+	"ovet": {
+		"definition": "fruit (general)",
+		"speech": [
+			"noun"
+		]
+	},
+	"papir": {
+		"definition": "paper",
+		"speech": [
+			"noun"
+		]
+	},
+	"parkus": {
+		"definition": "because, because of, by, resulting from",
+		"note": "*From Old Unicornish percause, same meaning",
+		"speech": [
+			"adverb"
+		]
+	},
+	"pe": {
+		"definition": "to urinate",
+		"note": "*Shortened form of more vulgar term.",
+		"speech": [
+			"verb"
+		]
+	},
+	"pen": {
+		"definition": "feather, plume, quill pen",
+		"note": "*From Pegasan penna, meaning \"feather\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"pesc": {
+		"nsfw": {
+			"in_universe": "onomatopoeia for a stream of urine.",
+			"out_universe": "from the Scottish pronunciation of piss, which I love."
+		},
+		"definition": "piss, (vulgar) urine; poor-quality alcohol; (as verb) to urinate; to arouse anger",
+		"speech": [
+			"noun"
+		]
+	},
+	"petra": {
+		"definition": "father",
+		"speech": [
+			"noun"
+		]
+	},
+	"pfalko": {
+		"definition": "falcon, kite (bird of prey)",
+		"speech": [
+			"noun"
+		]
+	},
+	"pie": {
+		"definition": "pie, fruit-filled pastry",
+		"speech": [
+			"noun"
+		]
+	},
+	"plegen": {
+		"definition": "to play; to used to (do)",
+		"speech": [
+			"verb"
+		]
+	},
+	"pleken": {
+		"definition": "to play an instrument, perform",
+		"speech": [
+			"verb"
+		]
+	},
+	"plight": {
+		"definition": "risk",
+		"speech": [
+			"noun"
+		]
+	},
+	"plotta": {
+		"definition": "plot, land planted or built on",
+		"speech": [
+			"noun"
+		],
+		"nsfw": {
+			"definition": "insulting term for one's hindquarters, esp. if female; ass",
+			"in_universe": "refers to plots of fertile land, fit for \"plowing.\"",
+			"out_universe": "use of the word \"plot\" to refer to a pony's ass."
+		}
+	},
+	"plottira": {
+		"definition": "buttock, butt (of animal)",
+		"note": "*from small space taken up when sitting",
+		"speech": [
+			"noun"
+		]
+	},
+	"po": {
+		"definition": "at, in, very near a particular place",
+		"speech": [
+			"preposition"
+		]
+	},
+	"polis": {
+		"definition": "cloud city",
+		"note": "*From Pegasan polis, meaning \"city\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Ponhenge": {
+		"definition": "Ponehenge",
+		"note": "*Pronounced \"pone-HEN-guh\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"poni": {
+		"definition": "pony; person; neutral pronoun",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponifraemed": {
+		"definition": "pony-shaped, equine",
+		"note": "*Literally \"pony-framed\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"ponifysc": {
+		"definition": "Seapony, mermare, hippocampus",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponim": {
+		"definition": "pony army",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponisoua": {
+		"definition": "Pegasus",
+		"note": "*also pronounced \"poniswa\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponisouam": {
+		"definition": "pegasus army",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponith": {
+		"definition": "their (singular neutral pronoun)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"Ponnaeg": {
+		"definition": "Ponish, this language",
+		"speech": [
+			"noun"
+		]
+	},
+	"ponse": {
+		"definition": "ponyself, themselves",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"poper": {
+		"definition": "bad, of poor quality",
+		"speech": [
+			"adjective"
+		]
+	},
+	"posk": {
+		"definition": "bush, plant, plant life, foliage",
+		"speech": [
+			"noun"
+		]
+	},
+	"poskgrazer": {
+		"definition": "herbivore; a plant-eater",
+		"speech": [
+			"noun"
+		]
+	},
+	"poskhouf": {
+		"definition": "edible plant",
+		"speech": [
+			"noun"
+		]
+	},
+	"poskoul": {
+		"definition": "cotton; cloth fiber from a plant",
+		"note": "*Literally \"plant wool\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"pot": {
+		"definition": "pot, jar, urn, bowl",
+		"speech": [
+			"noun"
+		]
+	},
+	"pranden": {
+		"definition": "to prance, to strut, to show off",
+		"speech": [
+			"verb"
+		]
+	},
+	"prescaes": {
+		"definition": "precise, exact, accurate",
+		"note": "*From Pegasan praesiscus, same meaning.",
+		"speech": [
+			"adjective"
+		]
+	},
+	"prescaesan": {
+		"definition": "precisely, exactly, accurately",
+		"speech": [
+			"adverb"
+		]
+	},
+	"presum": {
+		"definition": "to apologize",
+		"speech": [
+			"verb"
+		]
+	},
+	"prighs": {
+		"definition": "price, cost, monetary value",
+		"note": "*From Old Unicornish pris, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"prighstabla": {
+		"definition": "rent, payment to a landlord",
+		"note": "*Literally \"price (of a) house\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"prijen": {
+		"definition": "to free, to liberate, to show kindness to",
+		"speech": [
+			"verb"
+		]
+	},
+	"prijenaft": {
+		"definition": "freedom, liberty",
+		"speech": [
+			"noun"
+		]
+	},
+	"raeg": {
+		"definition": "rain, shower",
+		"note": "*also a verb used not like 'dae raeg' but 'thar raeg'",
+		"speech": [
+			"noun"
+		]
+	},
+	"raegboga": {
+		"definition": "rainbow",
+		"speech": [
+			"noun"
+		]
+	},
+	"Raegboga Rienen": {
+		"character": {},
+		"definition": "Rainbow Dash",
+		"speech": [
+			"character"
+		]
+	},
+	"raegnefyl": {
+		"definition": "raincloud",
+		"speech": [
+			"noun"
+		]
+	},
+	"raegvall": {
+		"definition": "rainfall, rainwater",
+		"speech": [
+			"noun"
+		]
+	},
+	"raeten": {
+		"definition": "to read",
+		"speech": [
+			"verb"
+		]
+	},
+	"raetenim": {
+		"definition": "text, written word",
+		"speech": [
+			"noun"
+		]
+	},
+	"raetkoun": {
+		"definition": "readable, (loosely) legible",
+		"speech": [
+			"noun"
+		]
+	},
+	"rafen": {
+		"definition": "to rub, to stroke",
+		"speech": [
+			"verb"
+		]
+	},
+	"raren": {
+		"definition": "rare, sparse, hard to find",
+		"note": "*From Pegasan rarus, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"raretas": {
+		"definition": "rarity, sparseness, infrequency",
+		"note": "*From Pegasan raritas, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"Raretas": {
+		"character": {},
+		"definition": "Rarity",
+		"speech": [
+			"character"
+		]
+	},
+	"rath": {
+		"definition": "red",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"rathwiet": {
+		"definition": "pink",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"re-": {
+		"definition": "\"re\", to do a verb again",
+		"speech": [
+			"prefix"
+		]
+	},
+	"refindan": {
+		"definition": "to recover, to find again",
+		"speech": [
+			"verb"
+		]
+	},
+	"regaelen": {
+		"definition": "to resing, to retell, to re-enchant; (poeticially) to remind",
+		"speech": [
+			"verb"
+		]
+	},
+	"rekuma": {
+		"definition": "return, the act of returning",
+		"speech": [
+			"noun"
+		]
+	},
+	"rekumo": {
+		"definition": "to return; to come or go back",
+		"speech": [
+			"verb"
+		]
+	},
+	"remie": {
+		"definition": "light grayish-blue; the color of calm clouds",
+		"note": "*From Pegasan iremia, meaning \"calm, peaceful\"",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"remostram": {
+		"definition": "stratosphere; where cloud homes are usually built",
+		"note": "*From Pegasan remostrama, meaning \"calm layer\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"resta": {
+		"definition": "to rest",
+		"speech": [
+			"verb"
+		]
+	},
+	"rienen": {
+		"definition": "to run, to dash, to move quickly",
+		"speech": [
+			"verb"
+		]
+	},
+	"right": {
+		"definition": "right, on the right side",
+		"speech": [
+			"adjective"
+		]
+	},
+	"rijan": {
+		"definition": "friend",
+		"speech": [
+			"noun"
+		]
+	},
+	"rijanaft": {
+		"definition": "friendship",
+		"speech": [
+			"noun"
+		]
+	},
+	"rijanmaj": {
+		"definition": "to befriend",
+		"speech": [
+			"verb"
+		]
+	},
+	"riksan": {
+		"definition": "to reign (over), to rule",
+		"speech": [
+			"verb"
+		]
+	},
+	"riksar": {
+		"definition": "ruler",
+		"speech": [
+			"noun"
+		]
+	},
+	"riksung": {
+		"definition": "government, (loosely) state, formal body enforcing laws",
+		"speech": [
+			"noun"
+		]
+	},
+	"rind": {
+		"definition": "bark, crust, rind",
+		"speech": [
+			"noun"
+		]
+	},
+	"ris": {
+		"definition": "giant (mythical human)",
+		"speech": [
+			"noun"
+		]
+	},
+	"riten": {
+		"definition": "to ride, to transport oneself",
+		"speech": [
+			"verb"
+		]
+	},
+	"rithr": {
+		"definition": "instead, rather",
+		"speech": [
+			"adverb"
+		]
+	},
+	"rom": {
+		"definition": "room, space, specific area of space",
+		"speech": [
+			"noun"
+		]
+	},
+	"rostan": {
+		"definition": "to roast, to cook food uncovered",
+		"speech": [
+			"verb"
+		]
+	},
+	"rostvier": {
+		"definition": "campfire (with cooking equipment)",
+		"speech": [
+			"noun"
+		]
+	},
+	"roun": {
+		"definition": "rune, letter, written character",
+		"speech": [
+			"noun"
+		]
+	},
+	"rounwurd": {
+		"definition": "acronym",
+		"speech": [
+			"noun"
+		]
+	},
+	"roup": {
+		"definition": "a shout, a sudden and loud utterance",
+		"speech": [
+			"noun"
+		]
+	},
+	"roupen": {
+		"definition": "to shout, to utter suddenly and loudly",
+		"speech": [
+			"verb"
+		]
+	},
+	"roura": {
+		"definition": "mess, disorder, disarray, confusion of things",
+		"speech": [
+			"noun"
+		]
+	},
+	"rouren": {
+		"definition": "to mess up, to make a mess, to launch into disarray",
+		"speech": [
+			"verb"
+		]
+	},
+	"rousa": {
+		"definition": "rose; rosy-colored",
+		"speech": [
+			"adjective",
+			"noun"
+		]
+	},
+	"Rousa Pie": {
+		"character": {},
+		"definition": "Pinkie Pie",
+		"speech": [
+			"character"
+		],
+		"similar": [
+			"Rusa Pie"
+		]
+	},
+	"rugos": {
+		"nsfw": {
+			"in_universe": "Pegasan raugos, \"roughness\", a rowdy mate",
+			"out_universe": "Latin rugire \"bellowing\" (origin of rut) and rugosa \"wrinkled\" (innuendo)."
+		},
+		"definition": "rut; sexual receptiveness in males",
+		"speech": [
+			"noun"
+		]
+	},
+	"Rusa Pie": {
+		"character": {},
+		"definition": "Pinkie Pie",
+		"speech": [
+			"character"
+		],
+		"similar": [
+			"Rousa Pie"
+		]
+	},
+	"ryg": {
+		"definition": "back (of animal), spine, ridge",
+		"speech": [
+			"noun"
+		]
+	},
+	"sae": {
+		"definition": "sea, ocean",
+		"speech": [
+			"noun"
+		]
+	},
+	"saek": {
+		"definition": "sick, diseased, unwell, ill",
+		"speech": [
+			"adjective"
+		]
+	},
+	"saekaft": {
+		"definition": "disease, sickness, illness",
+		"speech": [
+			"noun"
+		]
+	},
+	"saekfum": {
+		"definition": "hospital, \"sickplace\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"sael": {
+		"definition": "holy, spiritual, magical",
+		"speech": [
+			"adjective"
+		]
+	},
+	"saeldag": {
+		"definition": "holiday, day of celebration",
+		"speech": [
+			"noun"
+		]
+	},
+	"saeldrawan": {
+		"definition": "to cast magic spells, to enchant",
+		"note": "*Literally \"to throw magic\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"saeldrawar": {
+		"definition": "spellcaster, wizard, sorcerer, witch",
+		"note": "*Literally \"one who throws magic\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelfum": {
+		"definition": "holy place, temple, church",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelgescyft": {
+		"definition": "god, deity",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelgibten": {
+		"definition": "to sacrifice",
+		"speech": [
+			"verb"
+		]
+	},
+	"Saelmond": {
+		"definition": "January (1st month)",
+		"note": "*Literally \"magic month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelponi": {
+		"definition": "priest, cleric; (figuratively) saint",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelsetha": {
+		"definition": "magical kingdom, holy empire*",
+		"note": "*Nod to Holy Roman Empire ;)",
+		"speech": [
+			"noun"
+		]
+	},
+	"saeltran": {
+		"definition": "magic; sanctity",
+		"speech": [
+			"noun"
+		]
+	},
+	"saelwergar": {
+		"definition": "crusader",
+		"note": "*Literally means \"holy warrior\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"saer": {
+		"definition": "pain, ache",
+		"speech": [
+			"noun"
+		]
+	},
+	"saeren": {
+		"definition": "to hurt, to be in pain, to ache",
+		"speech": [
+			"verb"
+		]
+	},
+	"saervul": {
+		"definition": "painful",
+		"speech": [
+			"adjective"
+		]
+	},
+	"saescatha": {
+		"definition": "pirate, sea criminal",
+		"speech": [
+			"noun"
+		]
+	},
+	"saesnokkr": {
+		"definition": "sea serpent, any sea monster",
+		"speech": [
+			"noun"
+		]
+	},
+	"saeswystistoarm": {
+		"definition": "hurricane",
+		"speech": [
+			"noun"
+		]
+	},
+	"sakkr": {
+		"definition": "to suck; (of infants) to nurse from",
+		"speech": [
+			"verb"
+		]
+	},
+	"salen": {
+		"definition": "to sell",
+		"speech": [
+			"verb"
+		]
+	},
+	"salenfum": {
+		"definition": "market, marketplace",
+		"speech": [
+			"noun"
+		]
+	},
+	"salt": {
+		"definition": "salt",
+		"speech": [
+			"noun"
+		]
+	},
+	"samos": {
+		"definition": "sand",
+		"speech": [
+			"noun"
+		]
+	},
+	"samosfum": {
+		"definition": "desert, barren land",
+		"speech": [
+			"noun"
+		]
+	},
+	"samostoarm": {
+		"definition": "sandstorm, dust storm, dust devil",
+		"speech": [
+			"noun"
+		]
+	},
+	"samostoun": {
+		"definition": "sandstone",
+		"speech": [
+			"noun"
+		]
+	},
+	"sapenta": {
+		"definition": "philosophy, study of reality",
+		"speech": [
+			"noun"
+		]
+	},
+	"scakk": {
+		"definition": "shake, shaking",
+		"speech": [
+			"noun"
+		]
+	},
+	"scakka": {
+		"definition": "to shake",
+		"speech": [
+			"verb"
+		]
+	},
+	"scatha": {
+		"definition": "criminal, rogue, outlaw",
+		"speech": [
+			"noun"
+		]
+	},
+	"scathfum": {
+		"definition": "prison",
+		"speech": [
+			"noun"
+		]
+	},
+	"scer": {
+		"definition": "precious, beloved (person)",
+		"note": "*from Old Unicornish cher; (rare, poetic)",
+		"speech": [
+			"adjective"
+		]
+	},
+	"scie": {
+		"definition": "shy, bashful, introverted; (of a woman) demure",
+		"speech": [
+			"adjective"
+		]
+	},
+	"scield": {
+		"definition": "defense, a last stand",
+		"speech": [
+			"noun"
+		]
+	},
+	"scien": {
+		"definition": "to shine, to glow brightly ",
+		"speech": [
+			"verb"
+		]
+	},
+	"Scienal Barden": {
+		"character": {},
+		"definition": "Shining Armor",
+		"speech": [
+			"character"
+		]
+	},
+	"scip": {
+		"definition": "sheep (animal)",
+		"speech": [
+			"noun"
+		]
+	},
+	"scire": {
+		"definition": "gov office, office",
+		"note": "from shire",
+		"speech": [
+			"noun"
+		]
+	},
+	"scirepon": {
+		"definition": "sheriff"
+	},
+	"scivalrae": {
+		"definition": "chivalry; a personal code of ethics",
+		"note": "*From Old Unicornish chivalrie, meaning \"knighthood\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"sclakta": {
+		"definition": "one's biological sex; one's genitals",
+		"speech": [
+			"noun"
+		]
+	},
+	"scort": {
+		"definition": "short (in distance, height)",
+		"speech": [
+			"adjective",
+			"adverb"
+		]
+	},
+	"scortnoma": {
+		"definition": "pronoun (part of speech)",
+		"speech": [
+			"noun"
+		]
+	},
+	"scouta": {
+		"definition": "shout, loud burst of voice",
+		"speech": [
+			"noun"
+		]
+	},
+	"scouten": {
+		"definition": "to shout, to instigate a loud burst of voice",
+		"speech": [
+			"verb"
+		]
+	},
+	"scrieg": {
+		"definition": "scream, loud exclamation",
+		"speech": [
+			"noun"
+		]
+	},
+	"scrigen": {
+		"definition": "to scream",
+		"speech": [
+			"verb"
+		]
+	},
+	"scunian": {
+		"definition": "to be shunned, to be rejected",
+		"speech": [
+			"verb"
+		]
+	},
+	"scurn": {
+		"definition": "spear, polearm",
+		"speech": [
+			"noun"
+		],
+		"nsfw": {
+			"definition": "penis",
+			"in_universe": "it's pointed. It does the thrusting.",
+			"out_universe": "Middle/Old English and Norse words meaning \"spear\"."
+		}
+	},
+	"scyfto": {
+		"definition": "to change, to rearrange, to reshape",
+		"speech": [
+			"verb"
+		]
+	},
+	"Scyftolek": {
+		"definition": "Changeling",
+		"note": "*Literally \"form shifter\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"scymren": {
+		"definition": "to shimmer; to shine with a soft, shaky light",
+		"speech": [
+			"verb"
+		]
+	},
+	"se": {
+		"definition": "of, when part of a name or defining characteristic",
+		"speech": [
+			"preposition"
+		]
+	},
+	"searme": {
+		"definition": "navy, sea force",
+		"speech": [
+			"noun"
+		]
+	},
+	"sedur": {
+		"definition": "to allure, to seduce, to tempt",
+		"speech": [
+			"verb"
+		]
+	},
+	"sedurvul": {
+		"definition": "beautiful in a seductive way;sexy, arousing",
+		"speech": [
+			"adjective"
+		]
+	},
+	"Seirana": {
+		"definition": "Siren, one of the Dazzlings",
+		"speech": [
+			"noun"
+		]
+	},
+	"sek": {
+		"definition": "search, an attempt to find something",
+		"speech": [
+			"noun"
+		]
+	},
+	"seken": {
+		"definition": "to seek, to search for, to look for",
+		"speech": [
+			"verb"
+		]
+	},
+	"Selestia": {
+		"character": {},
+		"definition": "Celestia",
+		"speech": [
+			"character"
+		]
+	},
+	"Selestiamond": {
+		"definition": "June (6th month)",
+		"note": "*Literally \"Celestia month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"selfonda": {
+		"definition": "masturbation, erotic self-stimulation",
+		"speech": [
+			"noun"
+		]
+	},
+	"seltien": {
+		"definition": "to dance, to skip, to swing",
+		"speech": [
+			"verb"
+		]
+	},
+	"selv": {
+		"definition": "self",
+		"speech": [
+			"noun"
+		]
+	},
+	"selvysskrippung": {
+		"definition": "autobiogaphy",
+		"speech": [
+			"noun"
+		]
+	},
+	"sem": {
+		"definition": "same, indistinguishable, similar, alike",
+		"speech": [
+			"noun"
+		]
+	},
+	"semmette": {
+		"definition": "partner of same sex, a same sex romance",
+		"speech": [
+			"noun"
+		]
+	},
+	"sendan": {
+		"definition": "to send, to send a letter across",
+		"note": "OE sendan Old Saxon sendian etc",
+		"speech": [
+			"verb"
+		]
+	},
+	"senen": {
+		"definition": "to seem, to appear, to look like",
+		"speech": [
+			"verb"
+		]
+	},
+	"ser": {
+		"definition": "very",
+		"speech": [
+			"adjective"
+		]
+	},
+	"set": {
+		"definition": "set, a group of something, sentence, a complete thought spoken or written",
+		"speech": [
+			"noun"
+		]
+	},
+	"setha": {
+		"definition": "kingdom, empire, country",
+		"speech": [
+			"noun"
+		]
+	},
+	"setten": {
+		"definition": "to set, to place",
+		"speech": [
+			"verb"
+		]
+	},
+	"settung": {
+		"definition": "situation, scene, setting",
+		"speech": [
+			"noun"
+		]
+	},
+	"siboleth": {
+		"definition": "a word a foreigner can't pronounce",
+		"speech": [
+			"noun"
+		]
+	},
+	"sita": {
+		"definition": "to sit, to sit (on haunches)",
+		"speech": [
+			"verb"
+		]
+	},
+	"skawen": {
+		"definition": "to show, to display, to exhibit",
+		"speech": [
+			"verb"
+		]
+	},
+	"skie": {
+		"definition": "snow",
+		"note": "*also an irregular verb",
+		"speech": [
+			"noun"
+		]
+	},
+	"skiebjor": {
+		"definition": "polar bear",
+		"note": "*Literally \"snow bear\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Skiegieste": {
+		"definition": "Windigo",
+		"note": "*Literally \"snow ghost\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"skiehart": {
+		"definition": "reindeer/caribou",
+		"note": "*Literally \"snow deer\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"skienefyl": {
+		"definition": "snowcloud, a cloud of frost",
+		"speech": [
+			"noun"
+		]
+	},
+	"skiestoarm": {
+		"definition": "snowstorm, blizzard",
+		"speech": [
+			"noun"
+		]
+	},
+	"skievall": {
+		"definition": "snowfall, fallen snow",
+		"speech": [
+			"noun"
+		]
+	},
+	"skieworg": {
+		"definition": "Arctic wolf, white wolf",
+		"speech": [
+			"noun"
+		]
+	},
+	"skoh": {
+		"definition": "hoof covering that is easily removable",
+		"speech": [
+			"noun"
+		]
+	},
+	"Skorpan": {
+		"character": {},
+		"definition": "Scorpan",
+		"speech": [
+			"character"
+		]
+	},
+	"skoun": {
+		"definition": "cute, charming",
+		"speech": [
+			"adjective"
+		]
+	},
+	"Skoutalou": {
+		"character": {},
+		"definition": "Scootaloo",
+		"speech": [
+			"character"
+		],
+		"similar": [
+			"Skutalu"
+		]
+	},
+	"skrenken": {
+		"definition": "to happen, to take place",
+		"speech": [
+			"verb"
+		]
+	},
+	"skrenkung": {
+		"definition": "history, aggregate of past events",
+		"speech": [
+			"noun"
+		]
+	},
+	"skribouk": {
+		"definition": "notebook, book for notes",
+		"speech": [
+			"noun"
+		]
+	},
+	"skrieka": {
+		"definition": "scream, loud exclamation",
+		"speech": [
+			"noun"
+		]
+	},
+	"skrieken": {
+		"definition": "to scream, to make the sound of a scream",
+		"speech": [
+			"verb"
+		]
+	},
+	"skrippen": {
+		"definition": "to write",
+		"speech": [
+			"verb"
+		]
+	},
+	"Skutalu": {
+		"character": {},
+		"definition": "Scootaloo",
+		"speech": [
+			"character"
+		],
+		"similar": [
+			"Skoutalou"
+		]
+	},
+	"sla": {
+		"definition": "slow in speed, not fast",
+		"speech": [
+			"adjective"
+		]
+	},
+	"slaef": {
+		"definition": "sleeve; an opening in a garment",
+		"speech": [
+			"noun"
+		],
+		"nsfw": {
+			"definition": "vagina ",
+			"in_universe": "it's a sleeve, an opening.",
+			"out_universe": "from \"sleeve.\""
+		}
+	},
+	"slaeken": {
+		"definition": "to relax, to be relaxed, to become at ease",
+		"speech": [
+			"verb"
+		]
+	},
+	"slaekung": {
+		"definition": "relaxation, the state or act of being relaxed",
+		"speech": [
+			"noun"
+		]
+	},
+	"slaep": {
+		"definition": "to sleep",
+		"speech": [
+			"verb"
+		]
+	},
+	"slaepgael": {
+		"definition": "lullaby",
+		"note": "*Literally \"sleep song\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"sloen": {
+		"definition": "to hit; to give a blow",
+		"speech": [
+			"verb"
+		]
+	},
+	"slog": {
+		"definition": "hit, strike",
+		"speech": [
+			"noun"
+		]
+	},
+	"smak": {
+		"definition": "flavor, taste",
+		"speech": [
+			"noun"
+		]
+	},
+	"smighl": {
+		"definition": "smile, grin; (verb) to smile",
+		"note": "*Also a verb",
+		"speech": [
+			"noun"
+		]
+	},
+	"smokka": {
+		"definition": "smoke, (loosely) fog",
+		"speech": [
+			"noun"
+		]
+	},
+	"snikkr": {
+		"definition": "to sneak, to creep, to avoid detection",
+		"speech": [
+			"verb"
+		]
+	},
+	"snokkr": {
+		"definition": "snake, serpent",
+		"speech": [
+			"noun"
+		]
+	},
+	"snout": {
+		"definition": "nose, muzzle, snout",
+		"speech": [
+			"noun"
+		]
+	},
+	"snoutol": {
+		"definition": "nostril",
+		"note": "*Literally \"nose hole\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"soa": {
+		"definition": "so, in this way, consequently",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"sollast": {
+		"definition": "sun",
+		"note": "*also an adverb",
+		"speech": [
+			"noun"
+		]
+	},
+	"somer": {
+		"definition": "summer",
+		"speech": [
+			"noun"
+		]
+	},
+	"sorg": {
+		"definition": "to care, to feel sorrow for, to be sorry",
+		"note": "*also noun 'care, sorrow'",
+		"speech": [
+			"verb"
+		]
+	},
+	"soua": {
+		"definition": "sky",
+		"speech": [
+			"noun"
+		]
+	},
+	"souhring": {
+		"definition": "horizon; a visible horizontal line/ring in the sky",
+		"note": "(used by earth ponies)",
+		"speech": [
+			"noun"
+		]
+	},
+	"soulag": {
+		"definition": "religion",
+		"speech": [
+			"noun"
+		]
+	},
+	"soulagriks": {
+		"definition": "theocracy",
+		"speech": [
+			"noun"
+		]
+	},
+	"sour": {
+		"definition": "sour",
+		"speech": [
+			"adjective"
+		]
+	},
+	"southe": {
+		"definition": "true, truth",
+		"speech": [
+			"noun",
+			"adjective"
+		]
+	},
+	"sperk": {
+		"definition": "spark; static electricity",
+		"speech": [
+			"noun"
+		]
+	},
+	"sperkal": {
+		"definition": "sparkle, to emit sparks ",
+		"speech": [
+			"verb"
+		]
+	},
+	"spighk": {
+		"definition": "spike, point, spine, skewer, barb",
+		"speech": [
+			"noun"
+		]
+	},
+	"Spighk": {
+		"character": {},
+		"definition": "Spike",
+		"speech": [
+			"character"
+		]
+	},
+	"sprenga": {
+		"definition": "to jump, to spring, to leap",
+		"speech": [
+			"verb"
+		]
+	},
+	"sprengira": {
+		"definition": "frog",
+		"speech": [
+			"noun"
+		]
+	},
+	"spurt": {
+		"nsfw": {},
+		"definition": "ejaculate, semen, \"cum\";  equivalent substances produced by females",
+		"speech": [
+			"noun"
+		]
+	},
+	"spurten": {
+		"nsfw": {
+			"in_universe": "from \"spurt\""
+		},
+		"definition": "to ejaculate, \"to cum\"; (figuratively) to have an orgasm",
+		"speech": [
+			"verb"
+		]
+	},
+	"stad": {
+		"definition": "city, large settlement",
+		"speech": [
+			"noun"
+		]
+	},
+	"stal": {
+		"definition": "to halt, to stop",
+		"speech": [
+			"verb"
+		]
+	},
+	"stallo": {
+		"definition": "man, stallion",
+		"speech": [
+			"noun"
+		]
+	},
+	"stallomae": {
+		"definition": "gender neutral; androgynous",
+		"speech": [
+			"adjective"
+		]
+	},
+	"stallomaft": {
+		"definition": "androgyny, state or act of being gender neutral",
+		"speech": [
+			"noun"
+		]
+	},
+	"stallosuma": {
+		"definition": "stallion-like, masculine",
+		"speech": [
+			"adjective"
+		]
+	},
+	"stallosumaft": {
+		"definition": "stallion-ness, masculinity",
+		"speech": [
+			"noun"
+		]
+	},
+	"stallu": {
+		"nsfw": {},
+		"definition": "gay, stallions in love, colloquial shorten of stalluvji",
+		"speech": [
+			"noun"
+		]
+	},
+	"stalluvjaft": {
+		"definition": "gayness, the state or act of being gay",
+		"speech": [
+			"noun"
+		]
+	},
+	"stalluvji": {
+		"definition": "stallions in sex/romantic relationship, gay",
+		"speech": [
+			"noun"
+		]
+	},
+	"stampfen": {
+		"definition": "to stomp, pound, stamp w/hoof",
+		"speech": [
+			"verb"
+		]
+	},
+	"starfen": {
+		"definition": "to die, to pass away, to starve",
+		"speech": [
+			"verb"
+		]
+	},
+	"stera": {
+		"definition": "stare; persistent gaze",
+		"speech": [
+			"noun"
+		]
+	},
+	"steren": {
+		"definition": "to stare; to look fixedly",
+		"speech": [
+			"verb"
+		]
+	},
+	"stiegen": {
+		"definition": "to climb, to ascend, to go up",
+		"speech": [
+			"verb"
+		]
+	},
+	"stika": {
+		"definition": "stick (thin piece of wood)",
+		"note": "*also a verb meaning to stick (something), to stab",
+		"speech": [
+			"noun"
+		]
+	},
+	"stoarm": {
+		"definition": "to storm, to rush, to rage",
+		"speech": [
+			"verb"
+		]
+	},
+	"stoarmnefyl": {
+		"definition": "stormcloud, dark cloud",
+		"speech": [
+			"noun"
+		]
+	},
+	"stoda": {
+		"definition": "to stand",
+		"speech": [
+			"verb"
+		]
+	},
+	"stol": {
+		"definition": "chair, stool, (constructed) seat",
+		"speech": [
+			"noun"
+		]
+	},
+	"storlaet": {
+		"definition": "starlight",
+		"speech": [
+			"noun"
+		]
+	},
+	"Storlaet Glemeren": {
+		"character": {},
+		"definition": "Starlight Glimmer",
+		"speech": [
+			"character"
+		]
+	},
+	"storra": {
+		"definition": "star",
+		"speech": [
+			"noun"
+		]
+	},
+	"storralet": {
+		"definition": "starlet, asterisk symbol used to highlight words or sentences",
+		"speech": [
+			"noun"
+		]
+	},
+	"Storswysti": {
+		"character": {},
+		"definition": "Starswirl",
+		"speech": [
+			"character"
+		]
+	},
+	"stoun": {
+		"definition": "stone, rock",
+		"speech": [
+			"noun"
+		]
+	},
+	"stounfum": {
+		"definition": "mine, quarry",
+		"speech": [
+			"noun"
+		]
+	},
+	"stoungaedr": {
+		"definition": "miner, stonegatherer",
+		"speech": [
+			"noun"
+		]
+	},
+	"stoungescyft": {
+		"definition": "statue",
+		"speech": [
+			"noun"
+		]
+	},
+	"stounmint": {
+		"definition": "stubborn, headstrong, not willing to change belief",
+		"speech": [
+			"adjective"
+		]
+	},
+	"stounthe": {
+		"definition": "hard, stone-like, difficult to solve/understand",
+		"speech": [
+			"adjective"
+		]
+	},
+	"stour": {
+		"definition": "large,big,tall",
+		"speech": [
+			"adjective"
+		]
+	},
+	"stourian": {
+		"definition": "to make large, tall, or big",
+		"speech": [
+			"verb"
+		]
+	},
+	"stourligvier": {
+		"definition": "bonfire, large campfire",
+		"speech": [
+			"noun"
+		]
+	},
+	"stram": {
+		"definition": "layer, level",
+		"note": "*From Pegasan strama, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"strek": {
+		"definition": "straight; perfect direction, direct (in comm, etc)",
+		"speech": [
+			"noun"
+		]
+	},
+	"strekan": {
+		"definition": "to stretch, to make straight, to extend",
+		"speech": [
+			"verb"
+		]
+	},
+	"strekvieg": {
+		"definition": "direction, sense of purpose, vector",
+		"speech": [
+			"noun"
+		]
+	},
+	"strighten": {
+		"definition": "to strive, to struggle, to strike",
+		"speech": [
+			"verb"
+		]
+	},
+	"strogar": {
+		"definition": "strong",
+		"speech": [
+			"adjective"
+		]
+	},
+	"strull": {
+		"definition": "arrow",
+		"speech": [
+			"noun"
+		]
+	},
+	"stump": {
+		"definition": "stump, dull",
+		"speech": [
+			"noun",
+			"adjective"
+		]
+	},
+	"Suamond": {
+		"definition": "February (2nd month)",
+		"note": "*Literally \"sky month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"sudr": {
+		"definition": "south, southern, southernly",
+		"speech": [
+			"noun",
+			"adjective",
+			"adverb"
+		]
+	},
+	"suma": {
+		"definition": "some",
+		"speech": [
+			"adjective"
+		]
+	},
+	"swaeren": {
+		"definition": "to swear, to take an oath",
+		"speech": [
+			"verb"
+		]
+	},
+	"swafen": {
+		"definition": "to brush, to sweep",
+		"speech": [
+			"verb"
+		]
+	},
+	"swerth": {
+		"definition": "black, dark, shadowy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"swerven": {
+		"definition": "to swerve, to sway, to go out of a straight line; to wander from a set path",
+		"speech": [
+			"verb"
+		]
+	},
+	"swiga": {
+		"definition": "silence, quiet, soft sound",
+		"speech": [
+			"noun"
+		]
+	},
+	"swigaft": {
+		"definition": "silence, quietness",
+		"speech": [
+			"noun"
+		]
+	},
+	"swigian": {
+		"definition": "to be silent, to be quiet",
+		"speech": [
+			"verb"
+		]
+	},
+	"swin": {
+		"definition": "pig (animal)",
+		"speech": [
+			"noun"
+		]
+	},
+	"swymyl": {
+		"definition": "to swim",
+		"speech": [
+			"verb"
+		]
+	},
+	"swysti": {
+		"definition": "to whirl, to spin, to turn rapidly",
+		"speech": [
+			"verb"
+		]
+	},
+	"swystigwend": {
+		"definition": "whirlwind",
+		"speech": [
+			"noun"
+		]
+	},
+	"swystistoarm": {
+		"definition": "tornado",
+		"speech": [
+			"noun"
+		]
+	},
+	"sythan": {
+		"definition": "since",
+		"speech": [
+			"adverb"
+		]
+	},
+	"taefen": {
+		"definition": "to teach, train, instruct, demonstrate",
+		"speech": [
+			"verb"
+		]
+	},
+	"taefr": {
+		"definition": "teacher",
+		"speech": [
+			"noun"
+		]
+	},
+	"taeg": {
+		"definition": "tail; the rear part of something",
+		"speech": [
+			"noun"
+		]
+	},
+	"taegtol": {
+		"definition": "anus, rectum",
+		"speech": [
+			"noun"
+		]
+	},
+	"tael": {
+		"definition": "number",
+		"speech": [
+			"noun"
+		]
+	},
+	"taelen": {
+		"definition": "to add, to count, to number",
+		"speech": [
+			"verb"
+		]
+	},
+	"taelvarg": {
+		"definition": "mathematics",
+		"speech": [
+			"noun"
+		]
+	},
+	"taet": {
+		"definition": "teat, nipple; mammary gland",
+		"speech": [
+			"noun"
+		]
+	},
+	"tak": {
+		"definition": "mark, trace, impression",
+		"speech": [
+			"noun"
+		]
+	},
+	"talla": {
+		"definition": "story, narrative, message",
+		"speech": [
+			"noun"
+		]
+	},
+	"talo": {
+		"definition": "metal; any generic metallic substance",
+		"note": "*also used for unknown metals",
+		"speech": [
+			"noun"
+		]
+	},
+	"tantar": {
+		"definition": "aunt",
+		"note": "*From Old Unicornish tante, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"tar": {
+		"definition": "tear, teardrop",
+		"speech": [
+			"noun"
+		]
+	},
+	"Tartarosc": {
+		"definition": "Tartarus, the underworld; hell, an inferno",
+		"note": "*From Pegasan Tartaros",
+		"speech": [
+			"noun"
+		]
+	},
+	"teken": {
+		"definition": "symbol, character, glyph, representative object",
+		"speech": [
+			"noun"
+		]
+	},
+	"teth": {
+		"definition": "tooth",
+		"speech": [
+			"noun"
+		]
+	},
+	"thaft": {
+		"definition": "hair (general sense)",
+		"speech": [
+			"noun"
+		]
+	},
+	"thak": {
+		"definition": "cover, blanket, bedding, where one sleeps",
+		"speech": [
+			"noun"
+		]
+	},
+	"thakka": {
+		"definition": "thank you, thanks",
+		"note": "*th as in thank",
+		"speech": [
+			"noun"
+		]
+	},
+	"thar": {
+		"definition": "they, them",
+		"note": "*th as in that",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"that": {
+		"definition": "them two, those two",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"thath": {
+		"definition": "their (referring to two people only)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"thef": {
+		"definition": "thief, robber, burglar",
+		"speech": [
+			"noun"
+		]
+	},
+	"thefira": {
+		"definition": "ferret",
+		"note": "*literally \"little thief\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"theoh": {
+		"definition": "thigh",
+		"speech": [
+			"noun"
+		]
+	},
+	"thermostram": {
+		"definition": "thermosphere",
+		"note": "*From Pegasan thermostrama, meaning \"warm layer\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"thet": {
+		"definition": "than ",
+		"speech": [
+			"adverb"
+		]
+	},
+	"thike": {
+		"definition": "thick, dense (typically in layers)",
+		"speech": [
+			"adjective"
+		]
+	},
+	"thita": {
+		"definition": "to translate, to mean, to signify",
+		"speech": [
+			"verb"
+		]
+	},
+	"thitung": {
+		"definition": "translation, meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"thou": {
+		"definition": "you (singular)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"thouse": {
+		"definition": "yourself (singular) (reflexive)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"thouth": {
+		"definition": "yourself (possessive) (singular)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"thral": {
+		"definition": "slave, servant",
+		"speech": [
+			"noun"
+		]
+	},
+	"thrywen": {
+		"definition": "to thrive, to prosper",
+		"speech": [
+			"verb"
+		]
+	},
+	"thur": {
+		"definition": "through, via; finished with; during a time, to the end",
+		"speech": [
+			"preposition",
+			"adjective",
+			"adverb"
+		]
+	},
+	"thyrywaft": {
+		"definition": "prosperity",
+		"speech": [
+			"noun"
+		]
+	},
+	"tiegel": {
+		"definition": "brick, hardened block for building",
+		"speech": [
+			"noun"
+		]
+	},
+	"tien": {
+		"definition": "twig; a small thin branch",
+		"speech": [
+			"noun"
+		]
+	},
+	"tieth": {
+		"definition": "time, period, interval, moment",
+		"speech": [
+			"noun"
+		]
+	},
+	"tikka": {
+		"definition": "goat (any age or gender)",
+		"speech": [
+			"noun"
+		]
+	},
+	"timaeor": {
+		"definition": "timid, lacking in confidence",
+		"note": "*From Pegasan timeor, same meaning",
+		"speech": [
+			"adjective"
+		]
+	},
+	"Tirek": {
+		"character": {},
+		"definition": "Tirek",
+		"speech": [
+			"character"
+		]
+	},
+	"tol": {
+		"definition": "hole, opening, slot",
+		"speech": [
+			"noun"
+		]
+	},
+	"tomasca": {
+		"definition": "tomato",
+		"speech": [
+			"noun"
+		]
+	},
+	"tonog": {
+		"definition": "tint, slight coloring",
+		"speech": [
+			"noun"
+		]
+	},
+	"tora": {
+		"definition": "time",
+		"speech": [
+			"noun"
+		]
+	},
+	"torabouk": {
+		"definition": "calendar",
+		"speech": [
+			"noun"
+		]
+	},
+	"torahaltaler": {
+		"definition": "a timekeep, a timepiece",
+		"speech": [
+			"noun"
+		]
+	},
+	"toul": {
+		"definition": "tool, implement, instrument, utensil",
+		"speech": [
+			"noun"
+		]
+	},
+	"toume": {
+		"definition": "empty, barren",
+		"note": "from OE tōm, ON tómr.",
+		"speech": [
+			"noun"
+		]
+	},
+	"tovar": {
+		"definition": "magic from material, ingredients or components",
+		"speech": [
+			"noun"
+		]
+	},
+	"toward": {
+		"definition": "to; in the direction of",
+		"speech": [
+			"adverb"
+		]
+	},
+	"traejam": {
+		"definition": "to trap, to ensnare, to capture",
+		"speech": [
+			"verb"
+		]
+	},
+	"trampen": {
+		"definition": "to trample: to crush something by walking on it (trans.) to walk heavily & destructively (intrans.)",
+		"speech": [
+			"verb"
+		]
+	},
+	"trapa": {
+		"definition": "to dress",
+		"speech": [
+			"verb"
+		]
+	},
+	"trapim": {
+		"definition": "clothing",
+		"speech": [
+			"noun"
+		]
+	},
+	"tref": {
+		"definition": "strike, hit",
+		"speech": [
+			"noun"
+		]
+	},
+	"treffen": {
+		"definition": "to strike; to give as a blow, to deliver a quick blow or thrust",
+		"speech": [
+			"verb"
+		]
+	},
+	"trendij": {
+		"definition": "to roll, to wrap up",
+		"speech": [
+			"verb"
+		]
+	},
+	"treo": {
+		"definition": "tree",
+		"speech": [
+			"noun"
+		]
+	},
+	"treolek": {
+		"definition": "trunk",
+		"speech": [
+			"noun"
+		]
+	},
+	"treost": {
+		"definition": "trust ",
+		"speech": [
+			"noun"
+		]
+	},
+	"treosten": {
+		"definition": "to trust",
+		"speech": [
+			"verb"
+		]
+	},
+	"treostenaft": {
+		"definition": "trustworthiness",
+		"speech": [
+			"noun"
+		]
+	},
+	"tribout": {
+		"definition": "tribute, bounty",
+		"speech": [
+			"noun"
+		]
+	},
+	"trog": {
+		"definition": "narrow, having small width",
+		"speech": [
+			"adjective"
+		]
+	},
+	"trogen": {
+		"definition": "to narrow",
+		"speech": [
+			"verb"
+		]
+	},
+	"trol": {
+		"definition": "troll (supernatural being)",
+		"speech": [
+			"noun"
+		]
+	},
+	"tronos": {
+		"definition": "throne, seat of power",
+		"note": "*From Pegasan tronos, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"trotten": {
+		"definition": "to walk, to trot, to amble",
+		"speech": [
+			"verb"
+		]
+	},
+	"tryg": {
+		"definition": "safe (not in danger), secure",
+		"speech": [
+			"adjective"
+		]
+	},
+	"tryn": {
+		"definition": "that",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"tul": {
+		"definition": "to/in order to",
+		"speech": [
+			"adverb"
+		]
+	},
+	"turt": {
+		"definition": "feces, poop; turd, unpleasant person",
+		"speech": [
+			"noun"
+		]
+	},
+	"turtnaeg": {
+		"nsfw": {
+			"in_universe": "literally \"turd speak\""
+		},
+		"definition": "to \"bullshit\" a way through something; to lie through one's teeth",
+		"speech": [
+			"verb"
+		]
+	},
+	"turtrom": {
+		"definition": "bathroom, outhouse",
+		"speech": [
+			"noun"
+		]
+	},
+	"turtwoja": {
+		"nsfw": {
+			"in_universe": "literally \"turd water\""
+		},
+		"definition": "diarrhea, liquid shit, the runs",
+		"speech": [
+			"noun"
+		]
+	},
+	"twigh": {
+		"definition": "even, equal, balanced",
+		"speech": [
+			"adjective"
+		]
+	},
+	"twighaft": {
+		"definition": "equality",
+		"speech": [
+			"noun"
+		]
+	},
+	"twigharsca": {
+		"nsfw": {
+			"in_universe": "see also turtnaeg."
+		},
+		"definition": "to \"half-ass\" something",
+		"speech": [
+			"verb"
+		]
+	},
+	"twighlaet": {
+		"definition": "twilight, eventide, evening",
+		"speech": [
+			"noun"
+		]
+	},
+	"Twighlaet Sperkal": {
+		"character": {},
+		"definition": "Twilight Sparkle",
+		"speech": [
+			"character"
+		]
+	},
+	"twynklen": {
+		"definition": "to twinkle; to vary in brightness; to wink the eye",
+		"speech": [
+			"verb"
+		]
+	},
+	"tyl": {
+		"definition": "until",
+		"speech": [
+			"preposition"
+		]
+	},
+	"tymber": {
+		"definition": "wood, esp. if cut and prepared",
+		"speech": [
+			"noun"
+		]
+	},
+	"tymbervarger": {
+		"definition": "lumberjack, woodcutter",
+		"speech": [
+			"noun"
+		]
+	},
+	"tymberworg": {
+		"definition": "timberwolf",
+		"speech": [
+			"noun"
+		]
+	},
+	"uggare": {
+		"definition": "ugly, frightening, offputting",
+		"speech": [
+			"adjective"
+		]
+	},
+	"uld": {
+		"definition": "old, aged, mature",
+		"speech": [
+			"adjective"
+		]
+	},
+	"uldmatra": {
+		"definition": "grandmother",
+		"speech": [
+			"noun"
+		]
+	},
+	"uldpetra": {
+		"definition": "grandfather",
+		"speech": [
+			"noun"
+		]
+	},
+	"ulf": {
+		"definition": "of; from, expressing origin",
+		"speech": [
+			"preposition"
+		]
+	},
+	"umse": {
+		"definition": "themselves (plural)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"unfald": {
+		"definition": "simple, easy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"unfaldaft": {
+		"definition": "easiness, simplicity",
+		"speech": [
+			"noun"
+		]
+	},
+	"unikeram": {
+		"definition": "unicorn army",
+		"speech": [
+			"noun"
+		]
+	},
+	"unikeran": {
+		"definition": "unicorn",
+		"speech": [
+			"noun"
+		]
+	},
+	"unluvji": {
+		"definition": "monosexual, unisexual",
+		"speech": [
+			"noun"
+		]
+	},
+	"unt": {
+		"definition": "and, in addition to, as well as",
+		"speech": [
+			"conjunction"
+		]
+	},
+	"unthe": {
+		"definition": "first, original, earliest, basic",
+		"speech": [
+			"adjective"
+		]
+	},
+	"unthethe": {
+		"definition": "formerly, previously, once",
+		"speech": [
+			"adverb"
+		]
+	},
+	"unzer": {
+		"definition": "theirs",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"usatien": {
+		"definition": "to use",
+		"speech": [
+			"verb"
+		]
+	},
+	"ussen": {
+		"definition": "\"just, but\"; simply, merely, absolutely, etc.",
+		"speech": [
+			"adverb"
+		]
+	},
+	"ut": {
+		"definition": "out, outside",
+		"speech": [
+			"noun",
+			"preposition"
+		]
+	},
+	"ut-": {
+		"definition": "out-",
+		"note": "*na- is more just 'not' wyth- is 'against'",
+		"speech": [
+			"prefix"
+		]
+	},
+	"utgweft": {
+		"definition": "to breath out, to exhale",
+		"note": "*Literally \"out breath\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"utkluden": {
+		"definition": "to exclude, to ostracize",
+		"speech": [
+			"verb"
+		]
+	},
+	"utskrippen": {
+		"definition": "to write out, to say in detail, to describe",
+		"speech": [
+			"verb"
+		]
+	},
+	"utskrippwurd": {
+		"definition": "adjective (part of speech)",
+		"speech": [
+			"noun"
+		]
+	},
+	"utskripung": {
+		"definition": "description",
+		"speech": [
+			"noun"
+		]
+	},
+	"utstoda": {
+		"definition": "to protrude, to extend from",
+		"speech": [
+			"verb"
+		]
+	},
+	"vael": {
+		"definition": "valley, dale",
+		"speech": [
+			"noun"
+		]
+	},
+	"vaelk": {
+		"definition": "each, every, any, all",
+		"note": "*also a pronoun",
+		"speech": [
+			"adjective"
+		]
+	},
+	"vaelk-": {
+		"definition": "all-",
+		"speech": [
+			"prefix"
+		]
+	},
+	"vaelkes": {
+		"definition": "everything",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vaelkgrazer": {
+		"definition": "omnivore; creature with a mixed diet",
+		"speech": [
+			"noun"
+		]
+	},
+	"vaenghuggen": {
+		"definition": "to embrace with one's wings",
+		"note": "*Literally \"wing hug\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"vaengr": {
+		"definition": "wing, appendage used for flight",
+		"speech": [
+			"noun"
+		]
+	},
+	"vaere": {
+		"definition": "always, forever, eternally, ever",
+		"speech": [
+			"adverb"
+		]
+	},
+	"vaergrima": {
+		"definition": "pine tree; any evergreen plant",
+		"note": "*Literally \"forever green\"; also an adjective",
+		"speech": [
+			"noun"
+		]
+	},
+	"Vaerprij": {
+		"definition": "euphemism for being dead",
+		"note": "*Literally means \"Everfree\" or \"forever freed\"",
+		"speech": [
+			"adjective"
+		]
+	},
+	"vaht": {
+		"definition": "a fight",
+		"speech": [
+			"noun"
+		]
+	},
+	"vahten": {
+		"definition": "to fight, to combat, to challenge",
+		"speech": [
+			"verb"
+		]
+	},
+	"vahtfum": {
+		"definition": "battlefield, arena",
+		"speech": [
+			"noun"
+		]
+	},
+	"vajnkkwscen": {
+		"definition": "to vanquish, to conquer",
+		"speech": [
+			"verb"
+		]
+	},
+	"valan": {
+		"definition": "to choose, to select",
+		"speech": [
+			"verb"
+		]
+	},
+	"vall": {
+		"definition": "to fall, to drop, to collapse",
+		"speech": [
+			"verb"
+		]
+	},
+	"vallnythra": {
+		"definition": "to submit, to concede, to surrender",
+		"note": "*Literally \"fall under\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"varg": {
+		"definition": "to work, to function, to operate",
+		"speech": [
+			"verb"
+		]
+	},
+	"varger": {
+		"definition": "worker, employee",
+		"speech": [
+			"noun"
+		]
+	},
+	"vargfum": {
+		"definition": "workplace, a job, employment",
+		"speech": [
+			"noun"
+		]
+	},
+	"varven": {
+		"definition": "to wander; to move without purpose or destination",
+		"speech": [
+			"verb"
+		]
+	},
+	"varys": {
+		"definition": "a very large cloud; a heavy or dense raincloud",
+		"note": "*From Pegasan varis, meaning \"heavy\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vath": {
+		"definition": "both",
+		"speech": [
+			"pronoun"
+		],
+		"nsfw": {
+			"definition": "bi, shortening of bisexual, \"both\" in the sense of vathluvji"
+		}
+	},
+	"vathluv": {
+		"definition": "bisexual, pansexual, non-monosexual",
+		"speech": [
+			"noun"
+		]
+	},
+	"vathluvjaft": {
+		"definition": "bisexuality; pansexuality",
+		"speech": [
+			"noun"
+		]
+	},
+	"ved": {
+		"definition": "to wed, to marry",
+		"speech": [
+			"verb"
+		]
+	},
+	"vedbreken": {
+		"definition": "adultery; infidelity, affair",
+		"note": "*Literally \"wedding break\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"veddag": {
+		"definition": "wedding day/ceremony",
+		"speech": [
+			"noun"
+		]
+	},
+	"vedglokkr": {
+		"definition": "wedding bells",
+		"speech": [
+			"noun"
+		]
+	},
+	"vedkoukel": {
+		"definition": "wedding cake",
+		"speech": [
+			"noun"
+		]
+	},
+	"velatten": {
+		"definition": "to split, to separate, to divide",
+		"speech": [
+			"verb"
+		]
+	},
+	"vem": {
+		"definition": "who",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vemen": {
+		"definition": "to take",
+		"speech": [
+			"verb"
+		]
+	},
+	"vemth": {
+		"definition": "whose, of whom",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vemvaere": {
+		"definition": "whoever",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"veo": {
+		"definition": "bee",
+		"speech": [
+			"noun"
+		]
+	},
+	"vespangir": {
+		"definition": "hornet",
+		"note": "*Literally \"anger wasp\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vespyr": {
+		"definition": "wasp",
+		"speech": [
+			"noun"
+		]
+	},
+	"vestr": {
+		"definition": "west",
+		"speech": [
+			"noun"
+		]
+	},
+	"vet": {
+		"definition": "fat (tissue of body)",
+		"speech": [
+			"noun"
+		]
+	},
+	"vi": {
+		"definition": "how",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vieg": {
+		"definition": "road, way, path, street",
+		"speech": [
+			"noun"
+		]
+	},
+	"viegaeppal": {
+		"definition": "euphemism for feces",
+		"note": "*Literally \"road apple\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vier": {
+		"definition": "fire, flame",
+		"speech": [
+			"noun"
+		]
+	},
+	"Vier se Rijanaft": {
+		"definition": "Fire of Friendship",
+		"speech": [
+			"noun"
+		]
+	},
+	"vierfougyl": {
+		"definition": "phoenix",
+		"note": "*Literally \"fire bird\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Vierijanokta": {
+		"definition": "Hearth's Warming Eve",
+		"note": "*Literally \"Friendship-Fire Night\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"Viermond": {
+		"definition": "December (12th month)",
+		"note": "*Literally \"fire month\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vimegyl": {
+		"definition": "heptagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"vine": {
+		"definition": "why",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vinsa": {
+		"definition": "wine",
+		"speech": [
+			"noun"
+		]
+	},
+	"vinsarom": {
+		"definition": "winery; wine cellar",
+		"note": "*Literally \"wine place\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vintar": {
+		"definition": "winter",
+		"speech": [
+			"noun"
+		]
+	},
+	"vis": {
+		"definition": "wise, good judgment",
+		"speech": [
+			"adjective"
+		]
+	},
+	"visaft": {
+		"definition": "wisdom, advice",
+		"speech": [
+			"noun"
+		]
+	},
+	"vislorna": {
+		"definition": "earth pony word for philosophy",
+		"speech": [
+			"noun"
+		]
+	},
+	"vogresc": {
+		"definition": "to attack, to wound, to damage",
+		"speech": [
+			"verb"
+		]
+	},
+	"vokse": {
+		"definition": "voice, a creature's cry",
+		"note": "*From Pegasan vox, same meaning.",
+		"speech": [
+			"noun"
+		]
+	},
+	"vor": {
+		"definition": "to advance, to forward (machine, vehicle)",
+		"note": "*militaristic term especially",
+		"speech": [
+			"verb"
+		]
+	},
+	"vram": {
+		"definition": "from",
+		"speech": [
+			"preposition"
+		]
+	},
+	"vuktvulen": {
+		"definition": "to buck, kick, knock, strike by thrusting",
+		"speech": [
+			"verb"
+		]
+	},
+	"vulen": {
+		"definition": "to be full, not empty",
+		"speech": [
+			"verb"
+		]
+	},
+	"vunklar": {
+		"definition": "uncle",
+		"note": "*From Pegasan avunculus, meaning \"mother's brother\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"vurm": {
+		"definition": "worm, caterpillar; serpent, pest, unsavory person",
+		"speech": [
+			"noun"
+		]
+	},
+	"vut": {
+		"definition": "forest, woodland",
+		"speech": [
+			"noun"
+		]
+	},
+	"vyr": {
+		"definition": "for, because, since; on behalf of",
+		"note": "*also a conjunction",
+		"speech": [
+			"preposition"
+		]
+	},
+	"vys": {
+		"definition": "this",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"vysdag": {
+		"definition": "today, this day",
+		"speech": [
+			"noun"
+		]
+	},
+	"vysskrippung": {
+		"definition": "memoir",
+		"speech": [
+			"noun"
+		]
+	},
+	"vystyl": {
+		"definition": "to whistle",
+		"note": "*Also a noun, \"a whistle, the sound of whistling\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"vythe": {
+		"definition": "life, all experience, state of being alive",
+		"speech": [
+			"noun"
+		]
+	},
+	"vythelorna": {
+		"definition": "the study of life",
+		"speech": [
+			"noun"
+		]
+	},
+	"vythen": {
+		"definition": "to live, to get by, (of fire) to burn ",
+		"speech": [
+			"verb"
+		]
+	},
+	"waelen": {
+		"definition": "wall",
+		"speech": [
+			"noun"
+		]
+	},
+	"wak": {
+		"definition": "fragile, weak, lacking physical strength",
+		"speech": [
+			"adjective"
+		]
+	},
+	"waksen": {
+		"definition": "to grow bigger, greater, to wax, to raise (a foal)",
+		"note": "*Also to raise academically, to grow plants (in the wild)",
+		"speech": [
+			"verb"
+		]
+	},
+	"wal": {
+		"definition": "well; (loosely) okay",
+		"speech": [
+			"interjection"
+		]
+	},
+	"wandren": {
+		"definition": "to roam; to wander freely",
+		"speech": [
+			"verb"
+		]
+	},
+	"wanen": {
+		"definition": "to grow smaller, lesser, to wane",
+		"speech": [
+			"verb"
+		]
+	},
+	"wapen": {
+		"definition": "weapon, arm",
+		"speech": [
+			"noun"
+		]
+	},
+	"warna": {
+		"definition": "message of coming danger, 'a warning'",
+		"speech": [
+			"noun"
+		]
+	},
+	"warnan": {
+		"definition": "to advise, to warn, to make aware of",
+		"speech": [
+			"verb"
+		]
+	},
+	"wasta": {
+		"definition": "to wash, to bathe, to clean",
+		"speech": [
+			"verb"
+		]
+	},
+	"wastabjor": {
+		"definition": "raccoon",
+		"note": "*literally \"wash bear\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"wastafum": {
+		"definition": "bathhouse, spa",
+		"speech": [
+			"noun"
+		]
+	},
+	"wegnen": {
+		"definition": "to carry, to support",
+		"speech": [
+			"verb"
+		]
+	},
+	"wen": {
+		"definition": "to wean; (loosely) to break a habit",
+		"speech": [
+			"verb"
+		]
+	},
+	"wenna": {
+		"definition": "weanling, infant, baby; very young foal",
+		"speech": [
+			"noun"
+		]
+	},
+	"weorld": {
+		"definition": "world, earth (loosely)",
+		"speech": [
+			"noun"
+		]
+	},
+	"wergar": {
+		"definition": "warrior, soldier, armed guard",
+		"speech": [
+			"noun"
+		]
+	},
+	"werth": {
+		"definition": "value,worth (non-monetary)",
+		"speech": [
+			"noun"
+		]
+	},
+	"wesa": {
+		"definition": "material essence, inherent nature, significant feature",
+		"speech": [
+			"noun"
+		]
+	},
+	"wida": {
+		"definition": "wood (material), forest",
+		"speech": [
+			"noun"
+		]
+	},
+	"widhakkr": {
+		"definition": "axe, hatchet",
+		"speech": [
+			"noun"
+		]
+	},
+	"wiekalen": {
+		"definition": "to hold firmly, with passion or desperation; to clutch, cling to",
+		"speech": [
+			"verb"
+		]
+	},
+	"wieken": {
+		"definition": "to squeak, to squeeze, to crush, to constrict",
+		"speech": [
+			"verb"
+		]
+	},
+	"wier": {
+		"definition": "we",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"wiethen": {
+		"definition": "to hunt, to pursue",
+		"speech": [
+			"verb"
+		]
+	},
+	"wiht": {
+		"definition": "weight, how heavy on scale",
+		"speech": [
+			"noun"
+		]
+	},
+	"wihthe": {
+		"definition": "important, weighty",
+		"speech": [
+			"adjective"
+		]
+	},
+	"wik": {
+		"definition": "week",
+		"speech": [
+			"noun"
+		]
+	},
+	"wikdag": {
+		"definition": "weekday",
+		"speech": [
+			"noun"
+		]
+	},
+	"wikende": {
+		"definition": "weekend",
+		"speech": [
+			"noun"
+		]
+	},
+	"wit": {
+		"definition": "we two, us two",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"with": {
+		"definition": "our (referring to only two people)",
+		"speech": [
+			"pronoun"
+		]
+	},
+	"witt": {
+		"definition": "knowledge, information, fact; knowledge gained via practice, fact of knowing something",
+		"speech": [
+			"noun"
+		]
+	},
+	"wittaft": {
+		"definition": "science; collective discipline of learning acquired via the scientific method",
+		"speech": [
+			"noun"
+		]
+	},
+	"witten": {
+		"definition": "to know; to know information, to know fact(s), to know how to do something",
+		"note": "(in contrast to naven)",
+		"speech": [
+			"verb"
+		]
+	},
+	"witter": {
+		"definition": "someone well-informed, generalist",
+		"speech": [
+			"noun"
+		]
+	},
+	"wittlorna": {
+		"definition": "epistemology; branch of philosophy dealing with the study of knowledge",
+		"speech": [
+			"noun"
+		]
+	},
+	"wo": {
+		"definition": "woe, unease, discomfort",
+		"speech": [
+			"noun"
+		]
+	},
+	"woja": {
+		"definition": "water",
+		"speech": [
+			"noun"
+		]
+	},
+	"wojathe": {
+		"definition": "wet, covered in liquid",
+		"speech": [
+			"adjective"
+		]
+	},
+	"wojatol": {
+		"definition": "watering hole, well",
+		"speech": [
+			"noun"
+		]
+	},
+	"wona": {
+		"definition": "dwelling; place in which someone or something lives",
+		"speech": [
+			"noun"
+		]
+	},
+	"wonen": {
+		"definition": "to reside, to dwell, to live (at)",
+		"speech": [
+			"verb"
+		]
+	},
+	"worg": {
+		"definition": "wolf",
+		"speech": [
+			"noun"
+		]
+	},
+	"worthig": {
+		"definition": "worthy",
+		"speech": [
+			"adjective"
+		]
+	},
+	"wos": {
+		"definition": "juice, sap",
+		"speech": [
+			"noun"
+		]
+	},
+	"wundr": {
+		"definition": "wonder, miracle",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurd": {
+		"definition": "word",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurdbouk": {
+		"definition": "dictionary, wordbook",
+		"note": "*Literally \"word book\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurdgrom": {
+		"definition": "vocabulary, words you have",
+		"note": "*lit. \"word farm\"",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurdlag": {
+		"definition": "grammar, rules about words",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurdlorna": {
+		"definition": "etymology, study of word history",
+		"speech": [
+			"noun"
+		]
+	},
+	"wurdrawan": {
+		"definition": "to coin, to create a word",
+		"speech": [
+			"verb"
+		]
+	},
+	"wurdrawar": {
+		"definition": "wordcoiner, wordmaker",
+		"speech": [
+			"noun"
+		]
+	},
+	"wyls": {
+		"definition": "will be, future aspect of 'to be'",
+		"note": "*Future aspect of am/ar/es, not used with other verbs",
+		"speech": [
+			"verb"
+		]
+	},
+	"wysan": {
+		"definition": "to wish, to desire for to happen",
+		"speech": [
+			"verb"
+		]
+	},
+	"wyth-": {
+		"definition": "anti-, against, contrasting",
+		"speech": [
+			"prefix"
+		]
+	},
+	"wythnaeg": {
+		"definition": "to contradict, say opposite, counterspeech",
+		"note": "lit. \"against speech\"",
+		"speech": [
+			"verb"
+		]
+	},
+	"wythnaegung": {
+		"definition": "contradiction, counter statement",
+		"speech": [
+			"noun"
+		]
+	},
+	"wythr": {
+		"definition": "opposite, counterpart",
+		"speech": [
+			"noun"
+		]
+	},
+	"wythren": {
+		"definition": "to resist, oppose, struggle against",
+		"speech": [
+			"verb"
+		]
+	},
+	"wythri": {
+		"definition": "withers, shoulders",
+		"speech": [
+			"noun"
+		]
+	},
+	"wythrlan": {
+		"definition": "throughout, all through, in every part of",
+		"speech": [
+			"preposition"
+		]
+	},
+	"wythrponi": {
+		"definition": "opponent, challenger, opposing party",
+		"speech": [
+			"noun"
+		]
+	},
+	"wythwurd": {
+		"definition": "antonym, word meaning opposite or another",
+		"speech": [
+			"noun"
+		]
+	},
+	"ymb": {
+		"definition": "around, about, encircling, concerning, in regards to",
+		"speech": [
+			"preposition"
+		]
+	},
+	"zaed": {
+		"definition": "seed, nut, pit",
+		"speech": [
+			"noun"
+		]
+	},
+	"zefyros": {
+		"definition": "western wind",
+		"note": "*From Pegasan zephyrus, same meaning",
+		"speech": [
+			"noun"
+		]
+	},
+	"Zekora": {
+		"character": {},
+		"definition": "Zecora",
+		"speech": [
+			"character"
+		]
+	},
+	"zemegyl": {
+		"definition": "hexagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"zenna": {
+		"definition": "tin",
+		"speech": [
+			"noun"
+		]
+	},
+	"zie": {
+		"definition": "tea (drink), 'hot leaf juice'",
+		"note": "*from Kirinese chá",
+		"speech": [
+			"noun"
+		]
+	},
+	"zousse": {
+		"definition": "sweet; (loosely) adorable",
+		"speech": [
+			"adjective"
+		]
+	},
+	"Zousse Kweldira": {
+		"character": {
+			"justification": "Literally \"sweet little lady\""
+		},
+		"definition": "Sweetie Belle",
+		"speech": [
+			"character"
+		]
+	},
+	"zundemegyl": {
+		"definition": "dodecagon",
+		"speech": [
+			"noun"
+		]
+	},
+	"zunthe": {
+		"definition": "other, second, alternative",
+		"speech": [
+			"adjective"
+		]
+	}
+}
