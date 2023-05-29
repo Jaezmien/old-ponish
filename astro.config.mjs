@@ -1,11 +1,12 @@
 import { defineConfig } from 'astro/config';
 
-import vue from "@astrojs/vue";
-import prefetch from "@astrojs/prefetch";
-import sitemap from "@astrojs/sitemap";
-import tailwind from "@astrojs/tailwind";
+import prefetch from '@astrojs/prefetch';
+import sitemap from '@astrojs/sitemap';
+import tailwind from '@astrojs/tailwind';
+import vue from '@astrojs/vue';
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [vue(), prefetch(), sitemap(), tailwind()]
+	site: 'https://oldponish.netlify.app/',
+	integrations: [vue(), prefetch(), sitemap(), tailwind()],
 });
