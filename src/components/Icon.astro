@@ -1,0 +1,10 @@
+---
+export interface Props {
+	name: string;
+}
+
+const { name } = Astro.props;
+const { default: iconSVG } = await import(`../assets/icons/${name}.svg?raw`);
+---
+
+<Fragment set:html={iconSVG} />

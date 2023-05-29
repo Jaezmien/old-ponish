@@ -1,0 +1,89 @@
+---
+import '@fontsource/roboto-serif/700.css';
+import Logo from '../assets/logo.svg?raw';
+import Icon from './Icon.astro';
+import NavbarItems from './NavbarItems.astro';
+---
+
+<nav class="bg-gray-900 text-gray-100 w-full">
+	<div class="h-15 flex flex-row align-middle items-stretch">
+		<div>
+			<a class="p-4 font-roboto-serif font-2xl font-bold flex flex-row gap-2 h-full items-center" href="/">
+				<div class="w-8 h-8">
+					<Fragment set:html={Logo} />
+				</div>
+				<p class="w-fit">Old Ponish</p>
+			</a>
+		</div>
+		<div class="ml-auto">
+			<ul class="hidden md:flex flex-row gap-2">
+				<NavbarItems />
+			</ul>
+
+			<ul class="grid items-center md:hidden h-full">
+				<li>
+					<button data-type="nav-button" class="p-4 cursor-pointer hover:bg-white/20">
+						<Icon name="hamburger" />
+					</button>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<!-- Used for the mobile dropdown -->
+	<div id="mobile-dropdown" class="md:!hidden">
+		<div>
+			<ul class="flex flex-col">
+				<NavbarItems />
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<style lang="scss" is:global>
+	#mobile-dropdown {
+		@apply grid grid-rows-[0fr];
+		transition: grid-template-rows 250ms ease-in-out;
+
+		&.nav-active {
+			@apply grid-rows-[1fr];
+		}
+
+		> div {
+			@apply overflow-hidden;
+		}
+	}
+
+	// FIXME: wtf???
+	nav ul {
+		@apply h-full;
+		> li {
+			@apply h-full;
+			> * {
+				@apply h-full grid items-center;
+			}
+		}
+	}
+</style>
+
+<script>
+	const button = document.querySelector('button[data-type="nav-button"]');
+
+	if (button) {
+		let is_button_active = false;
+
+		function set_dropdown(state: boolean) {
+			const dropdown = document.querySelector('div#mobile-dropdown') as HTMLDivElement | undefined;
+			if (!dropdown) return;
+
+			if (state) dropdown.classList.add('nav-active');
+			else dropdown.classList.remove('nav-active');
+		}
+
+		button.addEventListener('click', () => {
+			is_button_active = !is_button_active;
+			set_dropdown(is_button_active);
+		});
+		set_dropdown(is_button_active);
+	}
+</script>

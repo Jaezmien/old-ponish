@@ -1,0 +1,56 @@
+---
+import '@fontsource/abhaya-libre/700.css';
+import '@fontsource/abhaya-libre/800.css';
+import '@fontsource/roboto-serif/900.css';
+import HelloText from '../components/HelloText.vue';
+import ParticleBackground from '../components/ParticleBackground.astro';
+import Layout from '../layouts/BaseLayout.astro';
+---
+
+<Layout title="Index">
+	<main class="divide-y divide-gray-400">
+		<section class="h-[65vh] relative overflow-hidden">
+			<ParticleBackground />
+			<div id="tsparticles" class="w-full h-full"></div>
+
+			<div class="absolute left-0 top-0 w-full h-full grid place-items-center text-center">
+				<div class="p-8 backdrop-filter backdrop-blur-sm">
+					<HelloText client:idle />
+					<p class="text-lg md:text-2xl">
+						Welcome to the <b class="font-bold text-ponish-900">Old Ponish Project</b>
+					</p>
+				</div>
+			</div>
+		</section>
+
+		<section class="py-12 px-12 bg-ponish-50">
+			<div class="prose mx-auto max-w-xl">
+				<h1>What is this project?</h1>
+				<p class="indent-4">
+					The <b class="text-ponish-900">Old Ponish Project</b> is a project dedicated to creating a constructed
+					language from the show My Little Pony: Friendship is Magic.
+				</p>
+			</div>
+		</section>
+		<section class="prose py-12 px-12 mx-auto max-w-xl">
+			<h1>What is <b class="text-ponish-900">Old Ponish</b>?</h1>
+			<p class="indent-4">
+				Old Ponish first appeared in My Little Pony: Friendship is Magic, Season 7 Episode 24. It is an ancient
+				language used by ponies used for writing official documents and journals alike. Sunburst states that he
+				owns a copy of History of Equestria written in its "Original Old Ponish", Twilight also translates some
+				Old Ponish sentences found in Starswirl's journal. Using the sentences that Twilight and Sunburst
+				already translated, it has been discovered that the language shares a resemblance to Old English and has
+				Germanic roots.
+			</p>
+			<p class="text-right opacity-80">
+				— TimeLoad (2017, <a
+					href="https://www.fimfiction.net/blog/771938/how-to-speak-old-ponish"
+					class="underline"
+					target="_blank"
+				>
+					"How To Speak Old Ponish"
+				</a>)
+			</p>
+		</section>
+	</main>
+</Layout>

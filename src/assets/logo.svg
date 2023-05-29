@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 204" width="32px" height="32px"
+	style="fill:none">
+	<rect width="204" height="204" ry="31.8"
+		style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.51691;stroke-linejoin:round" />
+	<g style="fill:none">
+		<path
+			d="M210 150v0l-30-15-30 15V60l30 15 30-15M60 150v0l30-30 30-30-30-30-30 30 30 30 30 30"
+			style="fill:none;stroke:#0a0a0a;stroke-width:15px;stroke-linecap:round;stroke-linejoin:round"
+			transform="translate(-33 -5.1)" />
+	</g>
+</svg>

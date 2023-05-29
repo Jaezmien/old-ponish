@@ -1,0 +1,17 @@
+---
+import '@fontsource/roboto-serif/700.css';
+import StaffCard from '../components/StaffCard.astro';
+import StaffInfo from '../data/staff.json';
+import Layout from '../layouts/BaseLayout.astro';
+---
+
+<Layout title="Staff">
+	<main class="p-12">
+		<h1 class="font-bold text-4xl md:text-5xl text-center font-roboto-serif">Staff</h1>
+		<hr class="border-gray-400 my-8" />
+
+		<div class="flex flex-row flex-wrap justify-center gap-4 max-w-2xl mx-auto">
+			{StaffInfo.map((staff) => <StaffCard name={staff.name} discord={staff.discord} role={staff.role} />)}
+		</div>
+	</main>
+</Layout>

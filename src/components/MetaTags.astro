@@ -1,0 +1,39 @@
+---
+export interface Props {
+	title: string;
+	description: string;
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const image = '/og.png';
+
+const { title, description } = Astro.props;
+const fTitle = title === 'Index' ? 'Old Ponish' : `${title} - Old Ponish`;
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="generator" content={Astro.generator} />
+
+<link rel="icon" href="/favicon-light.png" media="(prefers-color-scheme: light)" />
+<link rel="icon" href="/favicon-dark.png" media="(prefers-color-scheme: dark)" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+<link rel="canonical" href={canonicalURL} />
+
+<title>{fTitle}</title>
+<meta name="title" content={fTitle} />
+<meta name="description" content={description} />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={fTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={new URL(image, Astro.url)} />
+
+<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:title" content={fTitle} />
+<meta property="twitter:description" content={description} />
+<meta property="og:image" content={new URL(image, Astro.url)} />
+
+<meta name="theme-color" content="#89774c" />

@@ -1,7 +1,8 @@
 [build]
 	publish = "dist"
-	command = "gridsome build"
+	command = "astro build"
 
 [[redirects]]
 	from = "/discord"
 	to = "https://discord.gg/NxerkEy"
+	force = true

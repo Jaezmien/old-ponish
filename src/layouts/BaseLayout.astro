@@ -1,0 +1,42 @@
+---
+import '@fontsource/abhaya-libre/400.css';
+import '@fontsource/roboto-serif/400.css';
+import '@fontsource/roboto-serif/700.css';
+import Footer from '../components/Footer.astro';
+import MetaTags from '../components/MetaTags.astro';
+import Navbar from '../components/Navbar.astro';
+
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta name="generator" content={Astro.generator} />
+		<MetaTags title={title} description="🖥🐎 The official website of the Old Ponish Project!" />
+	</head>
+	<body class="font-abhaya-libre bg-gray-900 text-white">
+		<Navbar />
+		<slot />
+		<Footer />
+		<style lang="scss" is:global>
+			:root {
+				--accent: 124, 58, 237;
+				--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
+			}
+			body > main {
+				@apply bg-ponish-50 text-black;
+			}
+			code {
+				font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+					Courier New, monospace;
+			}
+		</style>
+	</body>
+</html>
