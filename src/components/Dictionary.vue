@@ -60,16 +60,7 @@
 </script>
 
 <template>
-	<div>
-		<noscript class="prose max-w-none text-center">
-			<h1 class="text-4xl font-bold font-roboto-serif">Hey!</h1>
-			<p>
-				This page requires JavaScript to function. If you don't want to enable JavaScript - feel free to
-				<a href="/download" class="text-ponish-900 underline">download the dictionary</a>
-				instead!
-			</p>
-		</noscript>
-
+	<div id="dictionary" class="invisible">
 		<div v-if="loaded">
 			<nav class="flex flex-row flex-wrap place-content-center gap-2 mb-8">
 				<button
