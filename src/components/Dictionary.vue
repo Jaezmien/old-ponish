@@ -13,7 +13,9 @@
 	const word_refs = ref<{ [key: string]: InstanceType<typeof WordCard> | null }>({});
 
 	const FilteredWords = computed(() => {
-		return Object.keys(Dictionary.value).filter((w) => w.toLowerCase().startsWith(currentLetter.value));
+		return Object.keys(Dictionary.value)
+			.filter((w) => w.toLowerCase().startsWith(currentLetter.value))
+			.sort((x, y) => x.localeCompare(y));
 	});
 
 	async function loadJSON(path: string) {
