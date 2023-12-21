@@ -11,140 +11,101 @@
 		"etymology": "oþer (OE - (adj.) the second; (pron.) one of the two, other), antharaz (PG), athar (OS), other (OF), andar (OHG)",
 		"credit": "hackd",
 		"description": "turns number into adjective (onthe, zunthe, drithe, karthe...)",
-		"speech": [
-			"suffix"
-		]
+		"speech": ["suffix"]
 	},
 	"a": {
 		"etymology": "Definition 1.(Genitive from weak noun OE case system that is now obsolete or from proto-germanic \"ab\". ) Definition 2 ( from OE \"a\" meaning from, away, off, out, in this case it makes certain nouns verbs)",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"aedesan": {
 		"etymology": "From german \"aufrechterhalten\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aege": {
 		"etymology": "OE eage, ege, German augen",
 		"credit": "hydro",
 		"note": "Ultimately from PG augo",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aegepen": {
 		"etymology": "From \"aege\" and \"pen\"",
 		"credit": "hydro",
 		"note": "Lit \"eye feather\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aeglen": {
 		"etymology": "Aigle and ern,Middle English egle, from AN egle, from OU aigle, from Latin aquila. Displaced native ME ern, earn, arn, from OE earn (“eagle”).",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aeglenleon": {
 		"etymology": "anglen+leon original by Gregory :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ael": {
 		"etymology": "From OE \"ealu\", ME \"ale\", D \"All\", Latin \"allum\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"alu\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aeldr": {
 		"etymology": "OE ealdor",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aen": {
 		"etymology": "PWG *aigan OE āgan OS ēgan",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"aeppala": {
 		"etymology": "PG applu OE æppel OF appel Unsure why the -la was added",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"aplaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aeppalael": {
 		"etymology": "From OE \"æppel\", OF \"appel\", ME/D \"appel\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"aplaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aera": {
 		"etymology": "PG *aij OE ǣġ Afrikaans eier",
 		"credit": "hydro",
 		"note": "Ultimately from PE \"ajja\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"afeden": {
 		"etymology": "From german \"aufrechterhalten\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"aff": {
 		"etymology": "Old English: of; Afrikaans: af; Danish: af; Dutch: uit/af/eraf; Icelandic: af; Irish: as/de/ó; Norwegian: av; Swedish: av",
-		"speech": [
-			"preposition",
-			"adverb"
-		]
+		"speech": ["preposition", "adverb"]
 	},
 	"afhakk": {
 		"etymology": "Old Ponish  aff + hakka German Absatz Norwegian Bokmål avsnitt, Swedish avsnitt, Danish afsnit, Russian абзáц)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aftreffa": {
 		"etymology": "Old Ponish af- + tref + -a",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"aftreffen": {
 		"etymology": "Old Ponish af- + treffen)",
 		"note": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"agaes": {
 		"etymology": "agenes (OE), igen (Danish), gegin (OHG), gegen (German)",
 		"credit": "hackd",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"agaesfiren": {
 		"etymology": "agaes+firen from MG widerwillig lit against willing",
@@ -160,53 +121,39 @@
 		"etymology": "PWG Lang* OE lang OS long lang Unsure why L was dropped.",
 		"credit": "hydro",
 		"note": "Ultimately from PG langaz",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"agnafaelen": {
 		"etymology": "agna+faelen loosely from MG Langeweile",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"agnafaelung": {
 		"etymology": "OP agnafaelen+ung",
 		"note": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"agnakarmegyl": {
 		"etymology": "agna+karmegyl original by gregory :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"agnaring": {
 		"etymology": "agna+ring original by gregory :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"agswaer": {
 		"etymology": "andswaru (OE),",
 		"credit": "hackd",
 		"description": "to answer, reply",
 		"note": "derived from against + swear (agaes + swaeren)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ahmegyl": {
 		"etymology": "ahn+meygl calque octagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"al": {
 		"etymology": "from English -le"
@@ -214,360 +161,258 @@
 	"alf": {
 		"etymology": "Proto-Germanic **albiz,* Old Norse *álfr,* Old Saxon *alf,* Dutch *alf,* Danish *alf,* Norwegian *alv,* Old High German *alp,* English *elf,* Dutch *elf,* German *Elfe,* Old English *ielf*)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"alfen": {
 		"etymology": "OE helpan, OF helpa, OS helpan, MG helfen",
 		"credit": "hydro",
 		"note": "Ultimately from PG helpana",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"alikeran": {
 		"etymology": "From L unicornis, Italian alicorn",
 		"credit": "hydro",
 		"note": "Ultimately from OU lione + U unicorno= Lion-unicorn",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"allobaed": {
 		"etymology": "from allo+bae+dae, the first three letters of the Old Ponish alphabet",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"alnon": {
 		"credit": "hackd",
 		"note": "contraction of all-one (alna + on), as it was in OE",
-		"speech": [
-			"adjective",
-			"adverb"
-		]
+		"speech": ["adjective", "adverb"]
 	},
 	"als": {
 		"etymology": "from Old Ponish alsoa, German als, Dutch zo … als",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"alsoa": {
 		"etymology": "swa, swæ (OE), swa (PG), so (OS, OHG), sva (ON), sa (OF), swo- (PIE); eallswa (OE)",
 		"credit": "hackd",
 		"note": "alsoa is the contraction of alna + soa, as it was in OE",
-		"speech": [
-			"adverb",
-			"conjunction"
-		]
+		"speech": ["adverb", "conjunction"]
 	},
 	"alt": {
 		"etymology": "From OE \"eald\", \"ald\", \"eold\",  OS \"ald\", OD \"alt\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"aldaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"angire": {
 		"etymology": "From ON \"angr\", E \"anger\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"angazaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"anythra": {
 		"etymology": "From \"a\" and \"nythra\"",
 		"credit": "hydro",
 		"note": "Lit \"(verb maker) under\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ap": {
 		"etymology": "OE upp",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"ar": {
 		"etymology": "All obscured linking verbs from ME .",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"arme": {
 		"etymology": "L. armata Old French armee",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"arysa": {
 		"etymology": "From OE \"arisa\" OS \"arisan\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"uzrisana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"asc": {
 		"etymology": "OE æsċe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"asiet": {
 		"etymology": "French assiette",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"asken": {
 		"etymology": "From OE \"ascian\" OS \"eskon\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"aiskona\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"aslaep": {
 		"etymology": "From \"a\" and \"slaep\"",
 		"credit": "hydro",
 		"note": "Lit \"(verb maker) sleep\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"astandan": {
 		"etymology": "From OE astandan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"aven": {
 		"etymology": "PWG *ofn OE ofn ME oven MG Ofen",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"awk": {
 		"etymology": "OE awk",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"bael": {
 		"etymology": "ON bale",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"baeri": {
 		"etymology": "From OS \"beri\" , OE \"berie\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"bazja\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"baken": {
 		"etymology": "Middle English baken, Dutch bakken, German backen, Icelandic baka",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"baksen": {
 		"etymology": "From PG \"gaburjana\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bardag": {
 		"etymology": "From barl\" and \"dag\".",
 		"credit": "hydro",
 		"note": "Lit \"middle day\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"barden": {
 		"etymology": "From arabic \"(barda)\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"barl": {
 		"etymology": "From E 'barrel\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"barnokta": {
 		"etymology": "From \"barl and \"dag\"",
 		"credit": "hydro",
 		"note": "Lit \"middle night\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bed": {
 		"etymology": "From OS \"bet\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"bek": {
 		"etymology": "OE baec",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"beld": {
 		"etymology": "German bald OE beald",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"belg": {
 		"etymology": "From OE \"belg\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"belgrafen": {
 		"etymology": "From \"belg\" and \"grafen\"",
 		"credit": "hydro",
 		"note": "Lit \"belly rub\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"belgtol": {
 		"etymology": "From \"belg\" and \"tole",
 		"credit": "hydro",
 		"note": "Lit. \"belly hole\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"berzen": {
 		"etymology": "Possibly PG \"biginnana\" or Germanic \"begin\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bidde": {
 		"etymology": "From German \"bitte\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"bidden": {
 		"etymology": "From German \"bitte\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bigh": {
 		"etymology": "bi (OE, Os, OF - near, in, by, during, about), bhi (PIE)'",
 		"credit": "hackd",
 		"description": "by, near",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"bilth": {
 		"etymology": "OE biliþe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bithan": {
 		"etymology": "OE bīdan ON bíða",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bjor": {
 		"etymology": "From Danish \"bjorn\" MG \"Bear\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"blief": {
 		"etymology": "(from Old Ponish *blieven)",
 		"note": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"blieven": {
 		"etymology": "(Proto-Germanic **bilībaną,* Old English *belīfan,* Gothic *𐌱𐌹𐌻𐌴𐌹𐌱𐌰𐌽,* German *bleiban,* Dutch *blijven,* Yiddish *בלײַבן,* Norwegian *bli,* Danish *blive*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"blind": {
 		"etymology": "etymology OE blind",
-		"speech": [
-			"adjective",
-			"verb"
-		]
+		"speech": ["adjective", "verb"]
 	},
 	"bloth": {
 		"etymology": "PG blōþą MG Blut OE blod",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"blou": {
 		"etymology": "blaw (OE), blao (OS, OHG), blau (OF)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"bloum": {
 		"etymology": "PG *blōmô OE blōma MG Blume",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"blourath": {
 		"etymology": "OE blēorēad",
 		"credit": "hydro",
 		"note": "Lit.\"blue red\"",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"blum": {
 		"etymology": "Obscured \"bloom\"",
@@ -576,57 +421,41 @@
 	"blys": {
 		"etymology": "OE bliss",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bod": {
 		"etymology": "see boda",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"boda": {
 		"etymology": "OE/Norwegian/Dutch bod/bud/both Cognates ME 'to bode' to foretell",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bodar": {
 		"etymology": "bodar+agent suffx see boda",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"boga": {
 		"etymology": "From OE \"boga\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bol": {
 		"etymology": "Germanic",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bon": {
 		"etymology": "OE ban",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bonten": {
 		"etymology": "PG *bandiz OE bend Old Frisian bende",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bonter": {
 		"etymology": "From E \"bond\"",
@@ -640,16 +469,12 @@
 	"bord": {
 		"etymology": "OE bord",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bordlek": {
 		"etymology": "bord+lek original by Gregory :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"borth": {
 		"etymology": "PG gaburþiz OE ġebyrd OS giburd dropped ge- for aesthetic",
@@ -658,79 +483,57 @@
 	"borthen": {
 		"etymology": "Obscured form of \"birth\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"botra": {
 		"etymology": "From OE \"broþor\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bouen": {
 		"etymology": "(from Proto-Germanic *būaną, Old High German būan, German bauen, Dutch bouwen, Yiddish בויען,‎ Old Norse búa, Icelandic búa, Faroese búgva, Swedish bo, Danish bo)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bougen": {
 		"etymology": "OE būgan Low German bugen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bouk": {
 		"etymology": "cmb ME book with OE boc “u” is there to obscure it",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"boukstabla": {
 		"etymology": "bouk+establ because it's more cultural than a typical house (hous",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"brad": {
 		"etymology": "From OE \"brad\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"bradaft": {
 		"etymology": "From \"brad\" and \"aft\"",
 		"credit": "hydro",
 		"note": "Lit \"broadness\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"braed": {
 		"etymology": "From E \"bread\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"braedkrafter": {
 		"etymology": "From \"braed\" and \"krafter\"",
 		"credit": "hydro",
 		"note": "Lit \"bread crafter\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"branen": {
 		"etymology": "From Icelandic \"brenna\",  Danish\" brænde\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"brinnana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"breid": {
 		"etymology": "From E \"bride\"",
@@ -740,141 +543,101 @@
 		"etymology": "\"groum\" from groom",
 		"credit": "hydro",
 		"note": "Gulve= from G \"gelb\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"breken": {
 		"etymology": "OE brecan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"bried": {
 		"etymology": "OE bryd",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"brost": {
 		"etymology": "OE brēost",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"brun": {
 		"etymology": "brún (OE)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"butere": {
 		"etymology": "OE butere",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"byne": {
 		"etymology": "(from Proto-Germanic *bunī, Middle High German büne, German Bühne, Luxembourgish Bühn, Plautdietsch Bien, Yiddish בינע)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"byrden": {
 		"etymology": "OE byrden",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"bytr": {
 		"etymology": "OE bitter",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"bytta": {
 		"etymology": "Obscured \"bit\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dae": {
 		"etymology": "From OE \"thaet\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"daed": {
 		"etymology": "From OE dǣd. Thakka, Stilan!\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dael": {
 		"etymology": "OE dæl",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"daemon": {
 		"etymology": "L. daemōn",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"daene": {
 		"etymology": "þanne, þænne, þonne (OE), thanna (OS), thenne (OF), danne (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"daer": {
 		"etymology": "þær (OE), thær (PG), thar (OS), ther (OF), þar (ON)",
 		"credit": "hackd",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"dag": {
 		"etymology": "Ultimately from PG \"dagaz\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dagbouk": {
 		"etymology": "dag+bouk calque German Zeitschrift Danish tidsskrift Norwegian tidsskrift",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dazen": {
 		"etymology": "Obscured \"daze\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"del": {
 		"etymology": "From MLG \"de\", LG \"de\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"tho\"",
-		"speech": [
-			"article"
-		]
+		"speech": ["article"]
 	},
 	"deles": {
 		"etymology": "Del plural form",
@@ -883,163 +646,118 @@
 	"demegyl": {
 		"etymology": "den+megyl calque decagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"denalt": {
 		"etymology": "From \"den\" and \"alt\"",
 		"credit": "hydro",
 		"note": "Lit \"not old\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"der": {
 		"etymology": "Germanic",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"deremethen": {
 		"etymology": "etymology de+re+methen",
-		"speech": [
-			"phrase"
-		]
+		"speech": ["phrase"]
 	},
 	"desten": {
 		"etymology": "From L desire",
 		"credit": "hydro",
 		"note": "Desire> destire> destre> destr> dest> \"destan\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"dok": {
 		"etymology": "PG *dukkǭ English dock",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"don": {
 		"etymology": "dunn (OE), donnos (PIE - dark)",
 		"credit": "hackd",
 		"description": "dun, dingy brown, dark-colored",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"donrath": {
 		"etymology": "From \"don\" and \"rath\"",
 		"credit": "hydro",
 		"note": "Lit \"dark red\"",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"dork": {
 		"etymology": "OE beorg see OP firgendork",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dorpe": {
 		"etymology": "Obscured from of  E \"derp\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"dotta": {
 		"etymology": "From OS \"dath\" OE \"death\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"dauthuz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dout": {
 		"etymology": "PWG *duhtīg OE dyhtiġ dohtiġ dihtiġ",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"drae": {
 		"etymology": "English dry Middle English drye and Scots drey",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"dragen": {
 		"etymology": "dragan (OE - to drag, draw, protract), dragan (PG, OS - to draw, pull), draga (ON - to draw), draga (OF), tragen (OHG), dhragh- (PIE - drag)",
 		"credit": "hackd",
 		"description": "to draw, drag; to wear",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"drako": {
 		"etymology": "From L \"draco\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dramen": {
 		"etymology": "swefnian (OE - to appear in a dream), swefn (OE - sleep), dram (OF - dream), troum (OHG - dream), draumr (ON), dream (OE - joy, mirth, music), dremen (OE - to rejoice, play music). note: \"dream\" (OE) only has recorded context in reference to music, not dreaming (despite being spelled the same)",
 		"credit": "hackd",
 		"description": "to play music, celebrate",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"draome": {
 		"etymology": "Verb form of \"draumim\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"draomim": {
 		"etymology": "From PG \"draumaz\"",
 		"credit": "hydro",
 		"note": "From OE \"dream\", \"drim\", \"drem\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"drawan": {
 		"etymology": "From OE \"þrawan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"drawanhwiet": {
 		"etymology": "From \"drawan\" and \"hwiet\"",
 		"credit": "hydro",
 		"note": "Lit \"to throw light\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"dreori": {
 		"etymology": "Obscured E \"dreary\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"driepa": {
 		"etymology": "From E \"stripe\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Drieponi": {
 		"etymology": "From \"dreipa\" and \"poni\"",
@@ -1049,82 +767,56 @@
 	"drifan": {
 		"etymology": "OE drifan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"drimegyl": {
 		"etymology": "dri+megyl calque triangle",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"droama": {
 		"etymology": "þunor (OE - thunder, Thor); most all the etymology stems from Thor on this one. I also tried referencing boom, bomb, explode, and rumble but they don't have roots in OE. I'd rather avoid references to external mythology and focus on onomatopoeia. rommelen (Middle Dutch - rumble), rymja (Old Norse, roar).",
 		"credit": "hackd",
 		"description": "to swallow up, engulf",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"dundra": {
 		"etymology": "þunor (OE - thunder, Thor); most all the etymology stems from Thor on this one. I also tried referencing boom, bomb, explode, and rumble but they don't have roots in OE. I'd rather avoid references to external mythology and focus on onomatopoeia. rommelen (Middle Dutch - rumble), rymja (Old Norse, roar).",
 		"credit": "hackd",
 		"description": "(to) thunder, explode, yell, roar",
-		"speech": [
-			"verb",
-			"noun"
-		]
+		"speech": ["verb", "noun"]
 	},
 	"dundrastoarm": {
 		"etymology": "þunor (OE - thunder, Thor); most all the etymology stems from Thor on this one. I also tried referencing boom, bomb, explode, and rumble but they don't have roots in OE. I'd rather avoid references to external mythology and focus on onomatopoeia. rommelen (Middle Dutch - rumble), rymja (Old Norse, roar).",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dundravaht": {
 		"etymology": "þunor (OE - thunder, Thor); most all the etymology stems from Thor on this one. I also tried referencing boom, bomb, explode, and rumble but they don't have roots in OE. I'd rather avoid references to external mythology and focus on onomatopoeia. rommelen (Middle Dutch - rumble), rymja (Old Norse, roar).",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dune": {
 		"etymology": "OE dūne",
-		"speech": [
-			"adverb",
-			"preposition",
-			"adjective"
-		]
+		"speech": ["adverb", "preposition", "adjective"]
 	},
 	"dunen": {
 		"etymology": "PWG dōn OE don MG tun",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"dunetref": {
 		"etymology": "dune+tref",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"dyp": {
 		"etymology": "PWG deup English deep OE deop “y” is probably there to obscure it",
 		"credit": "hydro",
-		"speech": [
-			"adverb",
-			"adjective"
-		]
+		"speech": ["adverb", "adjective"]
 	},
 	"dypwitter": {
 		"etymology": "dyp+witter",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"eaeth": {
 		"etymology": "From MG \"erde\"",
@@ -1134,206 +826,148 @@
 		"etymology": "From \"ebben\" and \"ung\"",
 		"credit": "hydro",
 		"note": "Lit \"even -ing\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"eben": {
 		"etymology": "PWG *ebn ME even OE efen efn emn German eben",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"eftar": {
 		"etymology": "OE æfter",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"eftarbar": {
 		"etymology": "eftar+barbag",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ekke": {
 		"etymology": "PWG *airk OE āc ǣċ aac OS ēk",
 		"credit": "hydro",
 		"note": "From PG \"aiks\" Old Frisian \"ek\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ekkemous": {
 		"etymology": "PWG *aikwernō OE ācweorna German Eichhorn",
 		"credit": "hydro",
 		"note": "Lit \"oak mouse\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ekkezaed": {
 		"etymology": "From \"ekke\" and \"zaed\"",
 		"credit": "hydro",
 		"note": "Lit \"oak seed\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ektawurd": {
 		"etymology": "ekta+wurd loosely I. Sagnorð",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"elehem": {
 		"etymology": "From L \"elementum\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"elten": {
 		"etymology": "German Erhalten erhalten>herlten>helten>elten",
 		"credit": "hydro",
 		"note": "Or It may be a OPW.",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"em": {
 		"etymology": "From PG \"ana\"",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"emluzen": {
 		"etymology": "English onlooker OE onlēċ",
 		"credit": "hydr",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"emmetha": {
 		"etymology": "Old Ponish em- + metha + -a)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"emmethen": {
 		"etymology": "Old Ponish em- + metha, Dutch ontmoeten, Swedish anträffa)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ende": {
 		"etymology": "PWG *andī OE ende OF ende enda",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"enden": {
 		"etymology": "OE endian German enden",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"enkluden": {
 		"etymology": "L. includere",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"eptur": {
 		"etymology": "ON aptr I aftur",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"erta": {
 		"etymology": "altered OP ertha",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ertascakk": {
 		"etymology": "erta+scakk calque earthquake",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ertha": {
 		"etymology": "eorþe (OE - ground, soil, land, country), ertho (PG), er- (PIE - earth, ground), erda (OHG), Erde (German)",
 		"credit": "hackd",
 		"description": "earth, land",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"erthbilth": {
 		"etymology": "ertha+bilth based on I Landakort",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"erthmetung": {
 		"etymology": "etha+metung calque geometry",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"es": {
 		"etymology": "All obscured linking verbs from ME .",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"essens": {
 		"etymology": "(from Norwegian essens, Swedish essens, Danish essens, German Essenz, Dutch essentie)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"estr": {
 		"etymology": "PG austrą OE ēast I austur Faroese eystur",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"estra": {
 		"etymology": "ME sister sister>ister>ester>estre>estra",
 		"credit": "hydro",
 		"note": "Sister>ister>istra>istre",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ett": {
 		"etymology": "(from German echt, Dutch echt, Danish ægte, Yiddish עכט",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"ettan": {
 		"etymology": "from Old Ponish ett + -an",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"evag": {
 		"etymology": "Obscured \"away\"",
@@ -1342,136 +976,98 @@
 	"eveg": {
 		"etymology": "OE onweg aweġ",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"evegibten": {
 		"etymology": "From \"eveg\" and \"gibten\"",
 		"credit": "hydro",
 		"note": "Lit \"to give away",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"eveglaedan": {
 		"etymology": "English offlead German ableiten",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fae": {
 		"etymology": "German Fee, Dutch fee, Yiddish פֿעע, Norwegian fe, Swedish fe, Danish fe",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"faelen": {
 		"etymology": "felan (OE - to touch or have a sensory experience; perceive, sense), foljan (PG), gifolian (OS), fela (OF), vuolen (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"faer": {
 		"etymology": "From OE \"fæger\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"faerben": {
 		"etymology": "German färben",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"Faertak": {
 		"etymology": "From \"fear\" and \"tak\"",
 		"credit": "hydro",
 		"note": "Lit \"pretty mark\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fakne": {
 		"etymology": "OE fācn",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fal": {
 		"etymology": "PWG *fall OE feall OS *fal",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"faloa": {
 		"etymology": "fealu (OE), falwa- (PG), falu (OS), falo (OHG)",
 		"credit": "hackd",
 		"description": "fallow, pale or brownish yellow, color of fire or birds' feet",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fang": {
 		"etymology": "MG fang",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fara": {
 		"etymology": "Old French fers",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"farbannen": {
 		"etymology": "From OE \"forbannen\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fardrifan": {
 		"etymology": "far+drifan calque OE fordrīfan English Fordrive",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"faren": {
 		"etymology": "OE faran",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"farfaelen": {
 		"etymology": "far+faelen based on MG Langeweile",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fargibten": {
 		"etymology": "OE forġiefan forġyfan forġifan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"farn": {
 		"etymology": "Germanic",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"farvelen": {
 		"etymology": "far+valen based on German Entscheiden",
@@ -1480,170 +1076,122 @@
 	"fel": {
 		"etymology": "PG fellą OE fel fell German Fell",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"feo": {
 		"etymology": "OE feaw PWG fau English few",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fer": {
 		"etymology": "PG *ferrai OE feorr feor OS fer ferr ferro",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fest": {
 		"etymology": "I. fastur Faroese fastur Norwegian fast German fest",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fijand": {
 		"etymology": "PG *fijandz OE feond Frisian fiand Norse fjand English fiend",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"filli": {
 		"etymology": "ON fylja English filly",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"findan": {
 		"etymology": "OE findan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"findar": {
 		"etymology": "findan (OE, OS, OHG - to come upon, meet with; discover; obtain by search or study), finthan (PG), finda (OF), finna (ON)",
 		"credit": "hackd",
 		"description": "to find, discover(edited)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fira": {
 		"etymology": "OP firen",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"firaluvji": {
 		"etymology": "OP fire+luvji IL kynhneigð",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"firen": {
 		"etymology": "Simplifed form of desire",
 		"credit": "hydro",
 		"note": "Desire>desiren>fesiren?>fsiren?>firen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"firgendork": {
 		"etymology": "From OE \"fergenberig\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fjul": {
 		"etymology": "From \"fool\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flaesc": {
 		"etymology": "OE flæsc",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flaescgrazer": {
 		"etymology": "From \"flaesc\" and \"grazer\"",
 		"credit": "hydro",
 		"note": "Lit \"fish eater\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flaesctak": {
 		"etymology": "From \"flaesc\" and \"tak\"",
 		"credit": "hydro",
 		"note": "Lit \"meat mark\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flaga": {
 		"etymology": "German: Flagge; Dutch vlag; Danish flag; Swedish: flagga; Afrikaan vlag; Icelandic flagg & fáni; Esperanto flago; Czech vlajka; Slovak vlajka; Norwegian flagg; Igbo flaagi; Frisian flagge",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flen": {
 		"etymology": "OE flēon German fliechen English flee",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"flija": {
 		"etymology": "PWG fleugan OE flēogan German fliegen",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"flijamous": {
 		"etymology": "flija+mos German Fledermaus",
 		"credit": "hydro",
 		"note": "Lit \"flying mouse\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"floryk": {
 		"etymology": "From E \"frolic",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"floten": {
 		"etymology": "PWG *flotōn OE flotian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"flou": {
 		"etymology": "(from verb flouen)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"flouen": {
 		"etymology": "Proto-West Germanic: *flōan  Old English: flōwan Middle English: flowen Scots: flow, flou Old Frisian: *flōja Old Saxon: *flōian Old Dutch: *fluoien  Dutch: vloeien Old Norse: flóa",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"flougael": {
 		"etymology": "From \"flou\" and \"gael\"",
@@ -1653,74 +1201,53 @@
 	"flout": {
 		"etymology": "Danish flod, German Fluss,  Icelandic fljót. cognate 'flood'",
 		"credit": "hyreia",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"foala": {
 		"etymology": "OE fola  not sure why -a is there",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"folk": {
 		"etymology": "English folk",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"folkom": {
 		"etymology": "From OE \"fultum\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"folkriks": {
 		"etymology": "folk+riks calque democracy",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fomegyl": {
 		"etymology": "fov+megyl calque pentagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fonda": {
 		"etymology": "From E \"fun\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fonden": {
 		"etymology": "From E \"fun\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fore": {
 		"etymology": "Germanic fore",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"preposition"
-		]
+		"speech": ["adjective", "preposition"]
 	},
 	"forehouf": {
 		"etymology": "From \"fore\" and \"houf\"",
 		"credit": "hydro",
 		"note": "Lit. \"before hoof\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"forekta": {
 		"etymology": "From \"fore\" and \"ekta'",
@@ -1730,67 +1257,49 @@
 	"forektim": {
 		"etymology": "fore+ekta+im based on German Vergagenheit",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"forelimme": {
 		"etymology": "From \"fore\" and \"limme\"",
 		"credit": "hydro",
 		"note": "Lit. \"before limb/leg\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"foreluz": {
 		"etymology": "fore+luz OE andwlita",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"foresetten": {
 		"etymology": "fore+setten calque of prerequisite",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"formaene": {
 		"etymology": "From \"fore\"  and \"maene\"",
 		"credit": "hydro",
 		"note": "Lit. \"before mane\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fougyl": {
 		"etymology": "PWG fugl OE fugol fugel fugul OS fugal German Vogel",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fougylet": {
 		"etymology": "From MG \"vogel\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"foul": {
 		"etymology": "OE full",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"fraem": {
 		"etymology": "E frame",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fregenim": {
 		"etymology": "fregen, fregn (OE), Frage (German)",
@@ -1811,55 +1320,41 @@
 		"etymology": "frician (OE - to dance), threskan (PG - to tread, to stamp noisily), tere- (PIE - to rub, turn), dreskan (OHG)",
 		"credit": "hackd",
 		"description": "to dance wildly, stomp, thrash, jump",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"frig": {
 		"etymology": "PWG *frēgō German Frage",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"frighta": {
 		"etymology": "From PG \"fero\"",
 		"credit": "hydro",
 		"note": "OE \" faer\" , OS \"far\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"frightig": {
 		"etymology": "fær (OE - calamity, peril), færan (OE - terrify, frighten), afæran, (OE - on fear)",
 		"credit": "hackd",
 		"description": "to frighten, terrify",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"fro": {
 		"etymology": "From germanic:",
 		"credit": "hydro",
 		"note": "Old Frisian \"fro\" OS \"fro\" ultimately from PG \"frawaz\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"froaft": {
 		"etymology": "From germanic:",
 		"credit": "hydro",
 		"note": "Old Frisian \"fro\" OS \"fro\" ultimately from PG \"frawaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"froe": {
 		"etymology": "From G \"froh\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"frojam": {
 		"etymology": "From OE \"ofraecan\"",
@@ -1868,76 +1363,56 @@
 	"froulyk": {
 		"etymology": "From MG \"freuhling\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fum": {
 		"etymology": "Obscured \"room\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fyfalder": {
 		"etymology": "From OE \"fifealde\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fyfaldrenokta": {
 		"etymology": "From \"fyfalder\" and \"nokta\"",
 		"credit": "hydro",
 		"note": "Lit \"night butterfly\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fysc": {
 		"etymology": "PWG *fisk OE fisċ fix OS fisk “y” is probably there to obscure it",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fyscgrazer": {
 		"etymology": "From \"fysc\" and \"grazer\"",
 		"credit": "hydro",
 		"note": "Lit \"fish eater\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fysclet": {
 		"etymology": "From MG \"fisch\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"fyscvarger": {
 		"etymology": "From \"fysc\" and \"vargar\"",
 		"credit": "hydro",
 		"note": "Lit \"fish worker\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gael": {
 		"etymology": "From OE \"gale\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gaelen": {
 		"etymology": "singan (OE - to sing, celebrate, tell in song, birdsong), sengwh- (PIE - to sing, make an incantation), sengwan (PG), singan (OS). galan (OE - to sing), ghel- (PIE - to call)",
 		"credit": "hackd",
 		"description": "to sing, storytell, enchant",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gaelflougyl": {
 		"etymology": "From \"gael\" and \"flougyl\"",
@@ -1948,9 +1423,7 @@
 		"etymology": "From \"gael\"  and \"folkom\"",
 		"credit": "hydro",
 		"note": "Lit. \"song group\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gaerdin": {
 		"etymology": "OE gaderian",
@@ -1959,251 +1432,181 @@
 	"gaerdung": {
 		"etymology": "gaerden+ung see gaerden calque collection",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gaet": {
 		"etymology": "Uncertain of origin possibility OE gan",
 		"credit": "hydro",
 		"note": "Somewhere from PG \"gana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gamen": {
 		"etymology": "OE gamen",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gang": {
 		"etymology": "from Proto-Germanic *gangaz, German Gang, Dutch gang, Afrikaans gang, Plautdietsch Gank",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gat": {
 		"etymology": "PG kattuz “k” removed due to popular demand",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gaten": {
 		"etymology": "OE \"yeard\" OS \"gard\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"gardaz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gatr": {
 		"etymology": "From PG \"gata\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gatrmed": {
 		"etymology": "lit. house next",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gedra": {
 		"etymology": "OE griellan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gekynd": {
 		"etymology": "OE gecynd",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"genog": {
 		"etymology": "OE genog",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"genti": {
 		"etymology": "L. argentis",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"genus": {
 		"etymology": "L. genus",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"genykt": {
 		"etymology": "OE cniht cneoht cnyht cneh cnieht",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gepren": {
 		"etymology": "From E \"comprehend\"",
 		"credit": "hydro",
 		"note": "Comprehend>prehend>prend>gepren",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gescyft": {
 		"etymology": "From OE \"gesceaft\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gescyfum": {
 		"etymology": "From \"gescyft\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"creature room\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gestrin": {
 		"etymology": "OE giestran",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"gestrindag": {
 		"etymology": "OE giestrandæg",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gibten": {
 		"etymology": "giefan (OE - to give, commit, devote, entrust). ghabh- (PIE - to give or receive) root of geban (Proto-Germanic) source of jeva (Old Frisian), gheven (Middle Dutch), geban (OHG), geben (German), giban (Gothic)",
 		"credit": "hackd",
 		"description": "to give, provide",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gieste": {
 		"etymology": "From MG \"Geist\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gilek": {
 		"etymology": "gelic (OE), galika- (PG), gilik (OS)",
 		"credit": "hackd",
 		"description": "similar, like",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"gisten": {
 		"etymology": "Dutch gissen Norwegian gissa Icelandic geta Norwegian gjette I. giska",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"givythen": {
 		"etymology": "(from OP gibten+vythe, lit. to give life; Latin inspirare based off of \"to breathe life or to give life.\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glaem": {
 		"etymology": "From E \"glaem\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glakfrals": {
 		"etymology": "from \"glak\" and \"frals\" and MG \"gleichfalls\"",
 		"credit": "Razzaline",
 		"note": "lit \"same case\"",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"glaz": {
 		"etymology": "From ME \"glass\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"glazkrafter": {
 		"etymology": "From \"glaz\" and \"krater\"",
 		"credit": "hydro",
 		"note": "Lit. \"glass crafter\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"glemeren": {
 		"etymology": "From MG \"glimmer\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glok": {
 		"etymology": "from glokkr",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glokklange": {
 		"etymology": "From \"glokk\"  and \"lange\"",
 		"credit": "hydro",
 		"note": "Lit. \"bell long\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"glokkr": {
 		"etymology": "From MG \"Glocke\"",
 		"credit": "hydro",
 		"note": "Glocke>glokk>glokkr",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gloud": {
 		"etymology": "proto-Germanic **glōdiz,* Dutch *gloed,* Norwegian *glød,* German *Glühen",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"glouen": {
 		"etymology": "Proto-Germanic **glōaną,* Old English *glōwan,* Norwegian *gløde,* Swedish *glöda,* Westrobothnian *glööy,* Danish *gløde,* German *glühen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glouma": {
 		"etymology": "From E \"gloom\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gloumbloun": {
 		"etymology": "From \"gloum\"  and \"bloun \"",
@@ -2213,31 +1616,23 @@
 	"glynt": {
 		"etymology": "PWG glintan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glysen": {
 		"etymology": "From E \"glisten\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"glytra": {
 		"etymology": "From E\"glitter\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"goth": {
 		"etymology": "From MG \"gut\"",
 		"credit": "hydro",
 		"note": "Gut>guth>goth",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"gothkoumo": {
 		"etymology": "From \"goth\"  and \"koumo\"",
@@ -2247,94 +1642,68 @@
 	"gothsmak": {
 		"etymology": "goth+smak maybe I gómsætur",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"goumi": {
 		"etymology": "Icelandic *gúmmí,* Norwegian *gummi* Swedish *gummi,* Danish *gummi,* German *Gummi,* Yiddish *גומע*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grae": {
 		"etymology": "græg (OE), grewa- (PG), gre (OF), grao (OHG)",
 		"credit": "hackd",
 		"description": "grey",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"graefen": {
 		"etymology": "grætan (OE - weep, bewail), gher- (PIE - to call out). wepan (OE - shed tears, cry, mourn), wopjan (PG), op (ON), wuof (OHG - shout, crying), wopian (OS), wab- (PIE, to cry, scream)",
 		"credit": "hackd",
 		"description": "to weep, shed tears, mourn",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"graene": {
 		"etymology": "L. grānum",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grafe": {
 		"etymology": "OE graef",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grafen": {
 		"etymology": "OE grafan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"graftoul": {
 		"etymology": "etymology grafen+toul",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grap": {
 		"etymology": "E grape",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grapfum": {
 		"etymology": "From \"grap\"  and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"grape room\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gratto": {
 		"etymology": "From Italian \"grotto\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grazen": {
 		"etymology": "From OE \"grasian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"grazer": {
 		"etymology": "From OE \"grasian\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"greafen": {
 		"etymology": "From E \"gray\"",
@@ -2343,392 +1712,280 @@
 	"grenz": {
 		"etymology": "Proto-Slavic granica dutch grenz",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gretic": {
 		"etymology": "gretan (OE - to come in contact with both to welcome and to attack), grotjan (West Germanic - seek out, approach), grotian (OS), greta (OF), gruozen (OHG)",
 		"credit": "hackd",
 		"description": "to greet, approach, seek out",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"grett": {
 		"etymology": "OE grēat North Frisian grott",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"gretyk": {
 		"etymology": "OE grētan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"griena": {
 		"etymology": "Proto-Germanic **grainō,* Old Norse *grein,* Icelandic *grein,* Norwegian *grein,* Norwegian *gren,* Swedish *gren,* Danish *gren*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grienen": {
 		"etymology": "Old Ponish grien + -en, Proto-Germanic *grīnaną",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"grienung": {
 		"etymology": "(Old Ponish *grien + -ung)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"griffel": {
 		"etymology": "from German *Griffel,* Dutch *griffel,* Swedish *griffel,* Esperanto *grifelo,* Estonian *krihvel*",
 		"note": "* Estonian *krihvel*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"griffla": {
 		"etymology": "Old Ponish griffel + -a",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grifflen": {
 		"etymology": "Old Ponish griffel + -en",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"grim": {
 		"etymology": "OE grīma Old Frisian: grīme Old Saxon grīmo, grīma, grīm",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grima": {
 		"etymology": "grene (OE, OF), grani, (OS), gronja (PG),",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"groma": {
 		"etymology": "growan (OE - (of plants) to flourish, develop), gro- (PG), groa (ON - (of plants) to grow), groia (OF), gruoen (OHG), ghre- (PIE - to grow, become green)",
 		"credit": "hackd",
 		"description": "to grow plants, farm",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gromafum": {
 		"etymology": "From \"groma\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"growing room\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"groum": {
 		"etymology": "\"groum\" from groom",
 		"credit": "hydro",
 		"note": "Gulve= from G \"gelb\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"groupam": {
 		"etymology": "From G \"groot, grut\"",
 		"credit": "hydro",
 		"note": "Grootamazing>groamzing> groamzi> groamz>grouam>groupam",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"grous": {
 		"etymology": "From G \"graes, grass, gras\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grousbradaft": {
 		"etymology": "From \"grous\" \"brad\" and \"aft\"",
 		"credit": "hydro",
 		"note": "Lit. \"grass wideness\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"grymnek": {
 		"etymology": "From OE \"grimneck\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gulverath": {
 		"etymology": "OE ġeolurēad",
 		"credit": "hydro",
 		"note": "Lit \"yellow red\"",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"gweft": {
 		"etymology": "æðm (OE - air exhaled from lungs), gwhre- (PIE - to breathe), loft (OE - sky, sphere of air), lopt (Old Norse). wind (OE - air in motion), windaz (Proto-Germanic), vindr (Old Norse), we- (PIE - to blow), vejas (Lithuanian). weder (OE - air, breeze, storm, tempest), we-dhro- (PIE - weather), wedram (Proto-Germanic - wind, weather), wedar (Old Saxon), veðr (Old Norse), wetar (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gweftgatr": {
 		"etymology": "From \"gwend\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gweftglokkr": {
 		"etymology": "From \"gwend\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gweftim": {
 		"etymology": "æðm (OE - air exhaled from lungs), gwhre- (PIE - to breathe), loft (OE - sky, sphere of air), lopt (Old Norse). wind (OE - air in motion), windaz (Proto-Germanic), vindr (Old Norse), we- (PIE - to blow), vejas (Lithuanian). weder (OE - air, breeze, storm, tempest), we-dhro- (PIE - weather), wedram (Proto-Germanic - wind, weather), wedar (Old Saxon), veðr (Old Norse), wetar (OHG)",
 		"credit": "hackd",
 		"description": "air, breath",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gweftvystyl": {
 		"etymology": "gweft+vystyl German Wirbelsturm",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gwend": {
 		"etymology": "see gweft",
 		"credit": "hackd",
 		"description": "(to) gust, blow",
-		"speech": [
-			"verb",
-			"noun"
-		]
+		"speech": ["verb", "noun"]
 	},
 	"gwethar": {
 		"etymology": "OE weder",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gylek": {
 		"etymology": "From PG \"galika\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"gylekwurd": {
 		"etymology": "gylek+wurd sorta calque of synonym",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gylt": {
 		"etymology": "PG gulþą",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"gylten": {
 		"etymology": "OE gieldan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"gyt": {
 		"etymology": "OE gietan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"haefig": {
 		"etymology": "From OE \" hefig\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"haefta": {
 		"etymology": "English have to",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"haeg": {
 		"etymology": "heg (OE - grass mown), hieg (West Saxon - grass cut for fodder). kau- (PIE - to hew, strike); source of haujam (Proto-Germanic - that which can be mowed), hey (Old Norse)",
 		"credit": "hackd",
 		"description": "hay",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haegsprengar": {
 		"etymology": "haeg+sprengar German Heuschrecke",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haelen": {
 		"etymology": "OE heall",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haerd": {
 		"etymology": "heord (OE), herdo (Proto-Germanic).",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haerdtreo": {
 		"etymology": "From \"haerd\"  and \"treo\"",
 		"credit": "hydro",
 		"note": "Lit \"herd tree\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haervest": {
 		"etymology": "PWG harbist OE hærfest English Harvest",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haet": {
 		"etymology": "OE hæt hætt",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"haf": {
 		"etymology": "OE hēafod",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hafhud": {
 		"etymology": "OP haf+hud German Kopftuch",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hafor": {
 		"etymology": "OE hlāford",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hafward": {
 		"etymology": "based on latin vertial (vertex+ālis)",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hakka": {
 		"etymology": "OE haccian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"halen": {
 		"etymology": "OE hælan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"haler": {
 		"etymology": "German Heiler",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"halla": {
 		"etymology": "From E \"hello\"",
 		"credit": "hydro",
-		"speech": [
-			"interjection"
-		]
+		"speech": ["interjection"]
 	},
 	"hammen": {
 		"etymology": "From E \"hum\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hammenfougyl": {
 		"etymology": "From \"hammen\"  and \"fougyl\"",
 		"credit": "hydro",
 		"note": "Lit. \"humming bird\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hart": {
 		"etymology": "From OE \"heorot \"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"harth": {
 		"etymology": "etymology OE heard",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hatan": {
 		"etymology": "OE hatian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hathen": {
 		"etymology": "OE habban German Haben",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"heag": {
 		"etymology": "From E \"hay\"",
@@ -2749,23 +2006,17 @@
 	"Hefen": {
 		"etymology": "From OE \"heofon\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hek": {
 		"etymology": "German Hock",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hemth": {
 		"etymology": "OE hemeþe Dutch hemd German Hemd",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Hert": {
 		"etymology": "From OE \"hiere\"",
@@ -2774,17 +2025,12 @@
 	"herth": {
 		"etymology": "OE hearth",
 		"credit": "hydro",
-		"speech": [
-			"noun",
-			"pronoun"
-		]
+		"speech": ["noun", "pronoun"]
 	},
 	"het": {
 		"etymology": "PG haitį̄ OE hǣte",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Hetam": {
 		"etymology": "Probably from German heute, heute>hete>heta>hetam",
@@ -2794,9 +2040,7 @@
 		"etymology": "har (OE - hoary, grey, old), haira (PG), her (OS, OHG)",
 		"credit": "hackd",
 		"description": "hoar, color of frost, grey, venerable",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hidendenung": {
 		"etymology": "hienden+ung from I hindrun",
@@ -2805,81 +2049,58 @@
 	"hiel": {
 		"etymology": "From OE \"helan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hiend": {
 		"etymology": "PG hinder OE hinder German hinter",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hiendhouf": {
 		"etymology": "Obscured E \"hind\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hiendlimme": {
 		"etymology": "Obscured E \"hind\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hierk": {
 		"etymology": "PWG *hēr OE hēr Old Frisian hīr",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"highken": {
 		"etymology": "pencan (OE - imagine, consider, intend, wish) from pyncan (OE - to seem, to appear) ~ to think is for ideas to appear to the self. thankjan (Proto-Germanic) from tong- (PIE - to think, feel). Source of thinka (Old Frisian), thenkian (Old Saxon), denchen (OHG), denken (German), pekkja (Old Norse), pagkjan (Gothic) as well as the root of thought and thank.",
 		"credit": "hackd",
 		"description": "think, imagine, wish",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"highkenim": {
 		"etymology": "From OE \"thencan\" ultimately from  PWG \"thankihan\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hight": {
 		"etymology": "OE hǣte",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hin": {
 		"etymology": "From OE \"hine\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"hir": {
 		"etymology": "L vir",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hjar": {
 		"etymology": "Etymology: har (OE - hoary, grey, old), haira (PG), her (OS, OHG)",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"hjona": {
 		"etymology": "E honk",
@@ -2888,23 +2109,17 @@
 	"hjort": {
 		"etymology": "From PG \"herto\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hjortgibten": {
 		"etymology": "hjort+gibten OE hiertan E encourage",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hjou": {
 		"etymology": "OE hiw",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hjouvul": {
 		"etymology": "calque E colorful",
@@ -2913,79 +2128,57 @@
 	"hlahalen": {
 		"etymology": "From OE hliehhan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hlahalt": {
 		"etymology": "see hlahalen",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hlank": {
 		"etymology": "OE hlenca",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hlenka": {
 		"etymology": "OE hlenċa",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hlight": {
 		"etymology": "From OE \"pliht\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hlihahen": {
 		"etymology": "hlæhhan, hliehhan, hlihhan (OE - to laugh, rejoice), klakhjan (PG), hlæja (ON), klakkia (OF), hlahhian (OS), kleg- (PIE)",
 		"credit": "hackd",
 		"description": "to laugh",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hof": {
 		"etymology": "from german Hof. Sidenote the word evolved to mean \"hovel\" in english which is an open space, this somewhat relates to our word\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"horan": {
 		"etymology": "From G \"horn\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hot": {
 		"etymology": "Middle English ote",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"houf": {
 		"etymology": "From E",
 		"credit": "hydro",
 		"note": "\"hoof\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"houfroian": {
 		"etymology": "(from Old Ponish *houf + fro + -ian,* literally \"\"to be happy in terms of one's hoof\"\")",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"Houfroian": {
 		"etymology": "from Old Ponish *houf + fro + -ian* literally \"\"to be happy in terms of one's hoof\"\""
@@ -2993,109 +2186,77 @@
 	"houpa": {
 		"etymology": "OE hopian",
 		"credit": "hydro",
-		"speech": [
-			"noun",
-			"adjective",
-			"interjection"
-		]
+		"speech": ["noun", "adjective", "interjection"]
 	},
 	"hous": {
 		"etymology": "OE hūs",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"housten": {
 		"etymology": "Dutch hoesten Icelandic hósta Old English hwōsan Yiddish הוסטן",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hring": {
 		"etymology": "OE hring",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hros": {
 		"etymology": "OE hor OS hros North Frisian hors",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"huden": {
 		"etymology": "OE hydan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hudenaeg": {
 		"etymology": "huden+naeg original by sictoabu and hydro :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"huggal": {
 		"etymology": "From E \"hug\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"hugge": {
 		"etymology": "OE hyge",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"huggen": {
 		"etymology": "From E \"hug\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"huggsal": {
 		"etymology": "huggal+sal original by hydro and hyreia :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hund": {
 		"etymology": "OE hund",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hwael": {
 		"etymology": "OE hwæl",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hwaelvieg": {
 		"etymology": "hwael+vieg OE hranrad",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"hwiet": {
 		"etymology": "hwit (OE, OS, OF), hwitaz (PG)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"hwinan": {
 		"etymology": "OE hwīnan",
@@ -3103,17 +2264,13 @@
 	},
 	"hyll": {
 		"etymology": "from Old English hyll, Icelandic hóll, German Hügel, Luxembourgish Hiwwel, Dutch heuvel",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"i'southe": {
 		"etymology": "Indeed, “in truth”, certainly",
 		"credit": "hydro",
 		"note": "Etymology: soth (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OHG)",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"i'suthe": {
 		"etymology": "soð (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OHG)",
@@ -3123,45 +2280,33 @@
 	"idit": {
 		"etymology": "Obscured idiot",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ien": {
 		"etymology": "PWG *aiganą OE āgan OS ēgan",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"ies": {
 		"etymology": "From PG \"isa\" see descendants",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"iesflaesc": {
 		"etymology": "From PG \"isa\" see descendants",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ieskult": {
 		"etymology": "From PG \"isa\" see descendants",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"ight": {
 		"etymology": "From OE \"ic\"",
 		"credit": "hydro",
 		"note": "Ic>ig>igh>ight",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"infaej": {
 		"etymology": "inne+fraej E afeard?",
@@ -3171,93 +2316,67 @@
 	"inne": {
 		"etymology": "OE inne",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"inne barl a": {
 		"etymology": "inne+barl+a OE ongemang OE betweonan",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"ith": {
 		"etymology": "From OE eathe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"izern": {
 		"etymology": "From OE \"isern\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"izernkrafter": {
 		"etymology": "From OE \"isern\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"jae": {
 		"etymology": "From OE \"gea\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"jaezmin": {
 		"etymology": "Obscured \"yasamin\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"jak": {
 		"etymology": "Tibetan: g-yag, Albanian: jak, Catalan: iac, Croatian: jak, Esperanto: jako",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"jev": {
 		"etymology": "From OE \"gif\"",
 		"credit": "hydro",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"jieta": {
 		"etymology": "From OE \"giet\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"jietekta": {
 		"etymology": "From \"jieta\" and \"ekta\"",
 		"credit": "hydro",
 		"note": "Lit. \"before action\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"jifel": {
 		"etymology": "From OE \"yfel\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"jifte": {
 		"etymology": "From OE \"gift\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ju": {
 		"etymology": "From LG/D \"Ju\"",
@@ -3266,43 +2385,31 @@
 	"junga": {
 		"etymology": "OE ġeong",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"kallen": {
 		"etymology": "From PG \"kalmaz\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kalm": {
 		"etymology": "From PG \"kalmaz\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kamor": {
 		"etymology": "hebrew khamor",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"karmegyl": {
 		"etymology": "kar+megyl calque square",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"keosan": {
 		"etymology": "etymology OE ceosan",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kewk": {
 		"etymology": "hwilc, hwælc (OE)",
@@ -3312,42 +2419,30 @@
 	"kindryd": {
 		"etymology": "From OE \"cynde\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"klange": {
 		"etymology": "From E \"clang\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"klefen": {
 		"etymology": "OE kleofan,",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"klod": {
 		"etymology": "from Norwegian klode, Proto-Germanic *klautaz,",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"knab": {
 		"etymology": "etymology Proto-West-Germanic knapp, Proto-Germanic knutt",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kneo": {
 		"etymology": "OE cneow",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kobonter": {
 		"etymology": "From  \"komaenum\" and \"bonter\"",
@@ -3357,156 +2452,111 @@
 	"kogaerdin": {
 		"etymology": "togædere, geador (OE - together). ghedh- (PIE - to unite) source of gaduri- (Proto-Germanic - in a body).",
 		"credit": "hackd",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"kogibten": {
 		"credit": "hackd",
 		"description": "to share, make even",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kohighenung": {
 		"etymology": "kohighen+ung see kohighken",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kohighken": {
 		"etymology": "ko+highken original by hyreia :)",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"komaenum": {
 		"etymology": "gemænscipe (OE - community, union, common ownership), mæne (OE - common, public).",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"komaenumlefa": {
 		"etymology": "komaenum+lefa french communisme",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"komaenumlefar": {
 		"etymology": "E. Communist",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"komajen": {
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"komajenung": {
 		"etymology": "komajen+un",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kompetise": {
 		"etymology": "Dutch competitie Afrikaans competitie West Frisian kompetysje",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"konkurensen": {
 		"etymology": "German Konkurrenz Norwegian Bokmål konkurranse Dutch concurrentie",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kort": {
 		"etymology": "from Swedish kort, Danish kort, German kurz, English curt",
-		"speech": [
-			"adjective",
-			"adverb"
-		]
+		"speech": ["adjective", "adverb"]
 	},
 	"kost": {
 		"etymology": "OE cost",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kostet": {
 		"etymology": "From OE \"costian\", from MG \"kosten\"",
 		"credit": "hydro",
 		"note": "Ultimately from \"kustona\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kostluzen": {
 		"etymology": "kost+luzen based on English theory Greek θεωρία",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kostluzer": {
 		"etymology": " kost+luzen+agent suffix",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kostluzung": {
 		"etymology": "kost+luzung see them separately",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kostroum": {
 		"etymology": "from Old Ponish kost + roum, Icelandic tilraunastofa",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"koufen": {
 		"etymology": "(theory) from  OE \"ceosan\" meaning \"choose\"  and OE \"beliefan\" meaning \"believe\"",
 		"credit": "hydro",
 		"note": "Lit \"choose believe\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"koukel": {
 		"etymology": "From OE \"cycel\",  OS \"kaka, koka\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"kako\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kouken": {
 		"etymology": "From OE \"coc\", OS \"kokon\" MLG \"koken\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"kukona\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"koukr": {
 		"etymology": "From \"kouken\" and the suffix \"er\"",
 		"credit": "hydro",
 		"note": "Lit \"cooker\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"koumo": {
 		"etymology": "From OE \"cuman\", OS \"kuman\", OF \"koma\"",
@@ -3517,116 +2567,84 @@
 		"etymology": "From OE \"cyssan\",  OS \"kussian\",",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"kussijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kousse": {
 		"etymology": "From OE \"cyssan\",  OS \"kussian\",",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"kussijana\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"koussen": {
 		"etymology": "From OE \"cyssan\",  OS \"kussian\",",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"kussijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kowegnen": {
 		"credit": "hackd",
 		"description": "to cooperate, participate",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kraban": {
 		"etymology": "OE *crabblian Dutch kravle",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"krafen": {
 		"etymology": "Cmb OE hraefn ON hrafn OE crawe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kraft": {
 		"etymology": "PWG kraftu OE cræft German Kraft",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kraftenung": {
 		"etymology": "kraften + -ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"krafter": {
 		"etymology": "From OE \"craeft\" , OS \"kraft\", LG \"kraft\"",
 		"credit": "hydro",
 		"note": "See \"er\" seperately for more details.",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kraftfum": {
 		"etymology": "From \"kraft\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"craft place\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kramb": {
 		"etymology": "From E \"comb\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"krammen": {
 		"etymology": "From OE \"cruma\",  MLG \"krome\" LG \"krume\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"krumo\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kriesca": {
 		"etymology": "Old Ponish *kriescen + -a,* German *Kreischen,* Dutch *krijsen*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kriescen": {
 		"etymology": "German *kreischen,* Dutch *krijsen*",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"krig": {
 		"etymology": "German Krieg I krig",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kropa": {
 		"etymology": "OE hrycg",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ku": {
 		"etymology": "From OE \"cu\", OF \"ku\", OS \"ko\"",
@@ -3637,256 +2655,181 @@
 		"etymology": "cuman (OE, OS - come, approach, land; arrive), kwem - (PG), kuma (OF), koma (ON), queman (OHG), kommen (German), gwa- (PIE - to go, come)",
 		"credit": "hackd",
 		"description": "to arrive, come, land",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kunen": {
 		"etymology": "cunnan (OE - to know, to have power to, to be able), kunnan (PG - to be mentally able, to have learned), kanna (OF - to recognize, admit), gno- (PIE - to know)",
 		"credit": "hackd",
 		"description": "can, to be able",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kut": {
 		"etymology": "I. kuta",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kuthe": {
 		"etymology": "kut+the",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"kwa": {
 		"etymology": "From OE \"hwaet\", OS \"hwat\", PG \"hwat\"",
 		"credit": "hydro",
 		"note": "Ultimately from PIE \"kwod\"",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"kwaken": {
 		"etymology": "OE cwacian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kwakkr": {
 		"etymology": "OE cwacian + agent suffix",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kwane": {
 		"etymology": "Theory 1: from \"kwar\" and \"unknown verb ending \"ne\". Theory 2: from \"kwa\" and \"ne\". Theory 3: from French \"guide\" guide>kwade> kwane?",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"kwarvaere": {
 		"etymology": "kwar+vaere",
-		"speech": [
-			"adverb",
-			"conjunction"
-		]
+		"speech": ["adverb", "conjunction"]
 	},
 	"kwavaere": {
 		"etymology": "etymology kwa+vae",
-		"speech": [
-			"pronoun",
-			"determiner"
-		]
+		"speech": ["pronoun", "determiner"]
 	},
 	"kwek": {
 		"etymology": "hwilc, hwælc (OE)",
 		"credit": "hackd",
 		"note": "contraction of what-form (kwa + lek), as it was in OE",
-		"speech": [
-			"pron"
-		]
+		"speech": ["pron"]
 	},
 	"kweld": {
 		"etymology": "From OE \"cwen\" and E \"royalty\"",
 		"credit": "hydro",
 		"note": "Cwenroyalty>kwenroyalty>kwenroalt>kweroalt>kwerld>kweld",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldaft": {
 		"etymology": "From \"kweld\" see this word for more detail.",
 		"credit": "hydro",
 		"note": "Lit \"royalness\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldbotra": {
 		"etymology": "From \"kweld\" and \"botra\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"royal brother\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldekta": {
 		"etymology": "From \"kweld\" and \"ekta\", see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"royal action\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldestab": {
 		"etymology": "From \"kweld\" and \"establa\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"royal house\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldestra": {
 		"etymology": "From \"kweld\" and \"estra\" see them seperately for more detial",
 		"credit": "hydro",
 		"note": "Lit \"royal sister\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldmatra": {
 		"etymology": "From \"kweld\" and \"matra\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"royal mother\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kweldpetra": {
 		"etymology": "From \"kweld\" and \"petra\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"royal father\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kwen": {
 		"etymology": "From OE \"hwænne\", LG \"wannehr\",",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"hwanne\"",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"kwenvaere": {
 		"etymology": "kwen+vaere",
-		"speech": [
-			"conjunction",
-			"adverb"
-		]
+		"speech": ["conjunction", "adverb"]
 	},
 	"kwestar": {
 		"etymology": "probably from English quest",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kwide": {
 		"etymology": "OE cwide",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"kyan": {
 		"etymology": "L cyaneus",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"kynge": {
 		"etymology": "OE cyning",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"laedan": {
 		"etymology": "OE lǣdan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"laefig": {
 		"etymology": "From OE \" leoht\", OF \"liacht\" OS \" lioht\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"leuhta\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"laeken": {
 		"etymology": "Proto-West Germanic: *lākī Old english: lǣċe Old Frisian: lēka, lētza Old High German: lāhhi Old Norse Old East Norse: *lækir Old West Norse: læknir Icelandic: læknir Faroese:",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"laeker": {
 		"etymology": "doctor (formal)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"laeolaft": {
 		"etymology": "From \"loaeol\" and \"aft\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"loyal-ness\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"laet": {
 		"etymology": "From OE \" leoht\", OF \"liacht\" OS \" lioht\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"leuhta\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lagr": {
 		"etymology": "(from Proto-Germanic *legrą, Gothic 𐌻𐌹𐌲𐍂𐍃, German Lager, Norwegian lager, Swedish lager, Danish lager",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lagra": {
 		"etymology": "from Old Ponish lager + -a, Proto-Germanic *legrą",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lagrung": {
 		"etymology": "(from Old Ponish lager + -ung, German Lagerung, Swedish lagring",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lan": {
 		"etymology": "onward, or progressive motion etymology hlank",
-		"speech": [
-			"adverb",
-			"preposition"
-		]
+		"speech": ["adverb", "preposition"]
 	},
 	"lasan": {
 		"etymology": "From OE \"laes\", OS \"lesa\"",
@@ -3899,15 +2842,11 @@
 	},
 	"lathen": {
 		"etymology": "Old English *laðian, German einladen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lathoun": {
 		"etymology": "from Proto-Germanic *laþōną, Old Ponish lathen",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"leaf": {
 		"etymology": "OE leafa",
@@ -3916,9 +2855,7 @@
 	"lefan": {
 		"etymology": "see lefa",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"leg": {
 		"etymology": "OE lagu",
@@ -3927,299 +2864,216 @@
 	"legga": {
 		"etymology": "OE lecgan German legen",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lek": {
 		"etymology": "lic (OE - body, corpse), likow (PG), lik (OF, ON), lih (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lekdael": {
 		"etymology": "From \"lek\" and \"deal\"",
 		"credit": "hydro",
 		"note": "Lit \"body part\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"leon": {
 		"etymology": "ancient greek λέων (leon)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"les": {
 		"etymology": "OE lēas",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"libven": {
 		"etymology": "lifian, libban (OE - to be, be alive, have life; continue in life; to experience; to supply oneself with food), liben (PG), libba (OF), lifa (ON - to live, (of fire) to burn",
 		"credit": "hackd",
 		"description": "to live, to procure subsistence, (of fire) to burn",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"liema": {
 		"etymology": "proto-Germanic *līmijaną,* Old Norse *líma,* Icelandic *líma,* Faroese *líma,* Norwegian *lim,* Swedish *lim,* Danish *lim,* Old English *līm,* German *Leim,* Plautdietsch *Liem,* Dutch *lijm*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"liemen": {
 		"etymology": "(from Old Ponish *liem,* Proto-Germanic **​​līmijaną*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lieten": {
 		"etymology": "lihtan/liehtan (OE), liohtian (Old Saxon), liuhtan (OHG); lightnen (OE - verbal noun derived from \"to make bright\")",
 		"credit": "hackd",
 		"description": "to illuminate, ignite (physically/spiritually)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lietenim": {
 		"etymology": "lihtan/liehtan (OE), liohtian (Old Saxon), liuhtan (OHG); lightnen (OE - verbal noun derived from \"to make bright\")",
 		"credit": "hackd",
 		"description": "lightning, literally that which illuminates or ignites",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"liga": {
 		"etymology": "ON lóg lág",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"likhen": {
 		"etymology": "lician (OE - to please, be pleasing, be sufficient), likjan (PG), likon (OS), likia (OF), lika (ON), lihhen (OHG)",
 		"credit": "hackd",
 		"description": "to like, favor",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"likhung": {
 		"etymology": "likhen+ung based on English liking",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"limme": {
 		"etymology": "From OE \"lim\" , OS \"limu\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"limuz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lipken": {
 		"etymology": "liccian (OE - to lap, lick up), likkon (PG, OS), lecchon (OHG), leigh- (PIE - to lick)",
 		"credit": "hackd",
 		"description": "to drink, lick, lap up",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lit": {
 		"etymology": "Old French lit",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ljout": {
 		"etymology": "gothic 𐌷𐌻𐌹𐌿𐌸 ON hljóðI icelandic hljóð  Faroese ljóð Norwegian lyd, Swedish ljud  Danish lyd",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"loffel": {
 		"etymology": "German Löffe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lond": {
 		"etymology": "OE lond",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lorna": {
 		"etymology": "From OE \"leornian\", OS \"lernon\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"liznana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lornavarg": {
 		"etymology": "From \"lorna\" and \"varg\"",
 		"credit": "hydro",
 		"note": "Lit\"learn work\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"losan": {
 		"etymology": "Modern English lose",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lousan": {
 		"etymology": "Germanic lausaz",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"luvji": {
 		"etymology": "From OE \"lufian, lufu\", OS \"luva\"",
 		"credit": "hydro",
 		"note": "Ult from PG \"lubo\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"luzen": {
 		"etymology": "From OE \"locian\", OS \"lokon\"",
 		"credit": "hydro",
 		"note": "PG \"lokona\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"luzkoun": {
 		"etymology": "luzen+koun German Sichtbar",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"luzkounaft": {
 		"etymology": "luzen+koun+aft German Sichtbarkeit",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"luzung": {
 		"etymology": "luzen+ung",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"lyft": {
 		"etymology": "From E \"left\"",
 		"credit": "hydro",
 		"note": "Left>lyft",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"lypken": {
 		"etymology": "OE lippa",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"lysan": {
 		"etymology": "OE hlysnan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"mae": {
 		"etymology": "From OE \"miere\", OS \"meriha\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"marhijo\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maelto": {
 		"etymology": "From OE \"manigfaeld\"",
 		"credit": "hydro",
 		"note": "Mangifaeld>mangifelt>magelto>maeglto>maelto",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"maeltofald": {
 		"etymology": "etymology maelto+fald",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"maeluvj": {
 		"etymology": "mae+luvji calque homosexual",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maeluvjaft": {
 		"etymology": "maeluvj+aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maene": {
 		"etymology": "From E \"mane\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"mano\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maera": {
 		"etymology": "From OE \"mere\", OS \"meri\", LG \"meer\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"mari\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maesuma": {
 		"etymology": "OP mae+suma",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maesumaft": {
 		"etymology": "OP maesuma+aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mag": {
 		"etymology": "From E \"may\" (as in the verb from may I do this?) ultimately from PG \"magana\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"maga": {
 		"etymology": "OE maga",
@@ -4227,148 +3081,108 @@
 	},
 	"magie": {
 		"etymology": "(from Norwegian magi, Swedish magi, Danish magi, German Magie, Dutch magie)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maglig": {
 		"etymology": "magen+lig Dutch mogelijk German möglich I. mögulegur OE mihtlīċ",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"majen": {
 		"etymology": "macian (OE - to make, do, cause, prepare, construct, transform). mag- (PIE - to fashion) source of makon (West Germanic - to fashion), makon (Old Saxon), makia (Old Frisian - to build, make), maken (Dutch), mahhon (OHG - to construct, make), machen (German).",
 		"credit": "hackd",
 		"description": "to make",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"majenaven": {
 		"etymology": "majen+naven calque of German bekennt gaben",
 		"credit": "hydro",
 		"note": "Lit \"make know\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"majenavung": {
 		"etymology": "from Old Ponish majenaven + -ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"majenden": {
 		"etymology": "existing etymology majen+enden",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"mantyl": {
 		"etymology": "PIE  *menH  L. mantēllum OE mæntel mentel",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"marmel": {
 		"etymology": "From L\"marmor\" G \"marmaros\"",
 		"credit": "hydro",
 		"note": "Ultimately from  AG \"marmaros\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maro": {
 		"etymology": "OE morrow",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"maror": {
 		"etymology": "mara (OE, OF - greater, more, stronger, mightier), maizon- (PG), mera (OS), meiri (ON), mero (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"marung": {
 		"etymology": "maro+ung English morning German morgen I. Morgunn",
 		"credit": "hydro",
 		"note": "Lit. \"morning\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"masc": {
 		"etymology": "OE māsċ",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
-	"masecr": {
+	"minmasecr": {
 		"etymology": "cmb 'min' + 'maescr', lit. 'small sword'.\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mathum": {
 		"etymology": "OE maþm",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"matra": {
 		"etymology": "From OE \"moder\", OS \"moder\",",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"moder\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"med": {
 		"etymology": "From OE \"mid\", OS \"mid\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"midi\"",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"mednavaft": {
 		"etymology": "med+naven+aft lit with knowledge",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mefen": {
 		"etymology": "From OE \"maenan\",  OS \"menian\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"mainijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"megyl": {
 		"etymology": "From E \"angle\"",
 		"credit": "hydro",
 		"note": "Ultimately from L \"angulus\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"meltan": {
 		"etymology": "OE meltan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"messan": {
 		"etymology": "PWG missijaną OE missan",
@@ -4378,326 +3192,234 @@
 		"etymology": "From OE \"missan\", OS \"missian\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"missijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"mest": {
 		"etymology": "From OE \"mast\" OS \"mest\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"maistaz\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"meta": {
 		"etymology": "Germanic metan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"metha": {
 		"etymology": "From OE \"metan\" OS \"motian\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"motijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"metour": {
 		"etymology": "From E \"mature\"",
 		"credit": "hydro",
 		"note": "Ultimately from L \"maturus\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"mette": {
 		"etymology": "From OE \"gemetta\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"gamatjo\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"might": {
 		"etymology": "From OE \"miht\", OS \"maht\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"mahtiz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"min": {
 		"etymology": "From OE \"min\"",
 		"credit": "hydro",
 		"note": "From PG \"minniz\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"minbod": {
 		"etymology": "min+boda",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mingrazer": {
 		"etymology": "min+grazer lit little eater",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mini": {
 		"etymology": "From chinese \"mein\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"minmaescr": {
 		"etymology": "cmb 'min' + 'maescr', lit. 'small sword'.",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mint": {
 		"etymology": "From E \"mind\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"gamundiz\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mintbilth": {
 		"etymology": "mint+bilth based on I hugmynd",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"miscan": {
 		"etymology": "From Germanic OE miscian, PWG miskijian, etc",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"miscel": {
 		"etymology": "From OE \"micel\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"mikilaz\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"mistel": {
 		"etymology": "Proto-Germanic **mistilaz,* Old English *mistel,* German *Mistel,* Dutch *mistel,* Afrikaans *mistel,* West Frisian *mistel,",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"misteltien": {
 		"etymology": "Old Ponish *mistel + tien,* Old Norse *mistilteinn,* Old English *​​misteltān,* Faroese *mistilteinur,* Icelandic *mistilteinn,* Norwegian *misteltein,* Danish *mistelten,* Plautdietsch *Mistelplaunt*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mjolk": {
 		"etymology": "ON mjǫlk",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"meluks\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mod": {
 		"etymology": "English Mud",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"moj": {
 		"etymology": "Old Frisian/Saxon *moi Norwegian møy Scots moy",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"mond": {
 		"etymology": "PG *munþaz OE mūþ maybe cmb OP monda",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"monda": {
 		"etymology": "OE mōna maybe cmb OP mond",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"meno\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mondalek": {
 		"etymology": "monda+lek original by Gregory:)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"monumen": {
 		"etymology": "From L \"momentum\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"morthor": {
 		"etymology": "From OE \"morthor\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"murthra\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"morthormar": {
 		"etymology": "OP (morthor+-mar)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"moruhoran": {
 		"etymology": "From OE \"moru\" and OP \"horan\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"moruppa": {
 		"etymology": "From OE \"moru\" and E \"neep\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mosstol": {
 		"etymology": "From \"mos\" and \"tol\"",
 		"credit": "hydro",
 		"note": "Lit. \"moss hole\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mouar": {
 		"etymology": "etymology em+ofer",
-		"speech": [
-			"preposition",
-			"adverb"
-		]
+		"speech": ["preposition", "adverb"]
 	},
 	"moud": {
 		"etymology": "Old Frisian mothe OHG muodi",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"moufin": {
 		"etymology": "E muffin MLG muffe",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mous": {
 		"etymology": "PG *mūs",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mouth": {
 		"etymology": "PG *munþaz OE mūþ",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"mug": {
 		"etymology": "E mug",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"munden": {
 		"etymology": "From OE \"mundbyrdan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nae": {
 		"etymology": "From OE \"an\" and \"ne\"",
 		"credit": "hydro",
 		"note": "Lit \"not one\"",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"naed": {
 		"etymology": "E need OE neodian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"naeg": {
 		"etymology": "From E \"nay\"",
 		"credit": "hydro",
-		"speech": [
-			"verb",
-			"noun"
-		]
+		"speech": ["verb", "noun"]
 	},
 	"naegung": {
 		"etymology": "naeg+ung calque statement",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"naer": {
 		"etymology": "From \"nae\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"naeraft": {
 		"etymology": "naer+aft see them separately",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"naergylten": {
 		"etymology": "From \"naer\" and \"gylten\"",
 		"credit": "hydro",
 		"note": "Lit \"not guilt\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"naertrin": {
 		"etymology": "naer+trin original OP",
 		"credit": "hydro",
-		"speech": [
-			"determiner"
-		]
+		"speech": ["determiner"]
 	},
 	"naerung": {
 		"etymology": "naer+ung original OP",
@@ -4707,146 +3429,104 @@
 	"nagylek": {
 		"etymology": "naer+gylek maybe OP or I ólíkur",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"nakohighken": {
 		"etymology": "naer+kohighken",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"naluzkoun": {
 		"etymology": "naer+luzen+koun German Unsichtbar",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"naluzkounaft": {
 		"etymology": "naer+luzen+koun+aft German Unsichtbarkeit",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nam": {
 		"etymology": "Old Ponish naer + am",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nar": {
 		"etymology": "Old ponish naer+ as",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"narijan": {
 		"etymology": "naer+rijan ON óvinr or original OP",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nariskar": {
 		"etymology": "naer+riskar based on the greek ἀναρχία \"without leader\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nariskarlefa": {
 		"etymology": "naer+riskar+lefa see them separately",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nariskarlefar": {
 		"etymology": "naer+riskar+lefar lit no ruler believer",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nasse": {
 		"etymology": "from nassem",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nassen": {
 		"etymology": "From \"noma\"",
 		"credit": "hydro",
 		"note": "Noma>nossaen>nossen>nassen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"natil": {
 		"etymology": "From OE \"nitian\" and OE \"hitian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"natim": {
 		"etymology": "L annus L natus?",
 		"credit": "hydro",
 		"note": "Annus>nanus>anus>anu>an>na?>nat?>natim?",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"natimar": {
 		"etymology": "From \"natim\" and \"mar\"",
 		"credit": "hydro",
 		"note": "Lit \"year more\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"naven": {
 		"etymology": "From OE \"cnawan\" OS \"knaian\"",
 		"credit": "hydro",
 		"note": "Ultimately from PWG \"knaan\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nawi": {
 		"etymology": "neowe, niowe (OE - new fresh, recent, novel, unheard-of; different from the old; untried, inexperienced), newjaz (PG), niuwi (OS), nie (OF), niuwl (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"nawianborth": {
 		"etymology": "From \"nawi\" and \"borten\"",
 		"credit": "hydro",
 		"note": "Literatlly \"new birth\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"nawihthe": {
 		"etymology": "naer+wihthe german unbedeutend",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"nawimajen": {
 		"etymology": "nawi+majen",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nawimajer": {
 		"etymology": "nawimajen+er",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nead": {
 		"etymology": "From OE \"nead\"",
@@ -4856,207 +3536,145 @@
 	"nemegyl": {
 		"etymology": "nen+megyl calque nonagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nes": {
 		"etymology": "Old ponish naer+es",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nis": {
 		"etymology": "Danish nys",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nisen": {
 		"etymology": "German niesen Dutch niezen Norwegian Bokmål nyse",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nokta": {
 		"etymology": "From WPG \"naht\" and OE \"niht, naeht, neaht, nieht, neht, nyht\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"noktamae": {
 		"etymology": "From \"nokta\" and \"mae\"",
 		"credit": "hydro",
 		"note": "Lit \"night mare\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"noma": {
 		"etymology": "Directly from ME \"name\" and OE \"nama, noma\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nordr": {
 		"etymology": "From germanic \"north\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"nothe": {
 		"etymology": "OP naer + othe",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"nothe OP naer + othe": {},
 	"nuha": {
 		"etymology": "nu (OE, OF, ON - now, at present; now that)",
 		"credit": "hackd",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"nyks": {
 		"etymology": "Greek νύξ (nyks)",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"nyr": {
 		"etymology": "from Icelandic nær, Danish nærme, Swedish närma, disambiguated from Old Ponish naer",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"nyren": {
 		"etymology": "from German nähern, Dutch naderen, disambiguated from Old Ponish naer",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nythra": {
 		"etymology": "From PG \"nither\" OE \"niþer\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"preposition"
-		]
+		"speech": ["adjective", "preposition"]
 	},
 	"nythradrawan": {
 		"etymology": "From \"nythra\" and \"drawan\"",
 		"credit": "hydro",
 		"note": "Lit \"to throw down\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"nythramight": {
 		"etymology": "etymology cmb. nythra+might",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"nythravaengen": {
 		"etymology": "From \"nythra\" and \"vaengen\" see them seperately for more detail",
 		"credit": "hydro",
 		"note": "Lit \"under wing\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"oer": {
 		"etymology": "Variant of am/ar/es",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ofar": {
 		"etymology": "ofer (OE - beyond, above, upon, in, across, past; on high), uberi (PG), obar (OS), over (OF), yfir (ON), ubar (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"ofarmight": {
 		"etymology": "From \"ofar\" and \"might\"",
 		"credit": "hydro",
 		"note": "Lit. \"over-power\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ofarstoarma": {
 		"etymology": "Old Ponish *ofar + stoarm + -a,* German *Überraschung,* Plautdietsch *Äwarauschunk,* Norwegian Bokmål *overraskelse,* Swedish *överraskning,* Danish *overraskelse,* Dutch *verrassing",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ofarstoarmen": {
 		"etymology": "Old Ponish *ofar + stoarm + -en*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ogr": {
 		"etymology": "German Oger, Dutch oger",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ollen": {
 		"etymology": "Origin somewhat uncertain, from either L. \"alloco\" or OE \"alyfan\"",
 		"credit": "hydro",
 		"note": "Alloco>olloco>ollo>ollen?",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"onbut": {
 		"etymology": "etymology OE onbūtan, credit to stilan",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ondemegyl": {
 		"etymology": "onden+megyl calque hendecagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ondra": {
 		"etymology": "Proto-Germanic **wundrą,* Old Norse *undr,* Norwegian *under,* Swedish *under,* Danish *under,* German *Wunder,* Dutch *wonder,* Old English *wundor,* West Frisian *wûnder*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ondravarg": {
 		"etymology": "Old Ponish *ondra + varg*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ondravul": {
 		"etymology": "Old Ponish *ondra + -vul,* Proto-West Germanic **wundrafull,* Old English *wundorful,* German *wundervoll,* Dutch *wondervol*",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"ondren": {
 		"etymology": "Proto-Germanic **wundrōną,* Old English *wundrian,* Swedish *undra,* Danish *undre*",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"onfald": {
 		"etymology": "From \"on\" and \"fald\"",
@@ -5065,112 +3683,80 @@
 	},
 	"oni": {
 		"etymology": "Old Ponish poni, Esperanto oni, French on",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"onlek": {
 		"etymology": "ænlic, anlic (OE)",
 		"credit": "hackd",
 		"note": "contraction of one-form (on + lek), as it was in OE",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"opna": {
 		"etymology": "Ocean",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"orizon": {
 		"etymology": "Pegasan *orizon meaning the same (Greek ὁρίζων)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"orlae": {
 		"etymology": "OE orlæg E orlay",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"oro": {
 		"etymology": "From german \"ohr\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"othe": {
 		"etymology": "oþþe (OE), ieftha (OF), eða (ON), odar (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"oufan": {
 		"etymology": "etymology German üben, Dutch oefenen",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"oufanung": {
 		"etymology": "etymology oufan+ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"oul": {
 		"etymology": "From WPG \"wull\"",
 		"credit": "hydro",
 		"note": "Wull>ull>ul>oul",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"oum": {
 		"etymology": "Variant of am/ar/es",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ous": {
 		"etymology": "Variant of am/ar/es",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ouser": {
 		"etymology": "From OE \"user, ure\" ultimately from PWG \"unsar\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"ovet": {
 		"etymology": "OE ofett",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"papir": {
 		"etymology": "Anglo-French: paper, Old French: papier, Latin: papyrus, Greek: papyros German: Papier, Dutch: papier Danish: papir, Swedish: papper, Afrikaans: papier, Icelandic: pappír",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"pasu": {
 		"etymology": "basu (OE)",
 		"credit": "hackd",
 		"description": "purple",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"perzen": {
 		"etymology": "Possibly from PG \"biginnana\" or E \"begin\"",
@@ -5180,73 +3766,53 @@
 	"petra": {
 		"etymology": "From PL \"pater\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"pfalko": {
 		"etymology": "From ME \"falcon\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"plegen": {
 		"etymology": "From OE \"plegen\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"pleken": {
 		"etymology": "From OE \"plegen\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"plight": {
 		"etymology": "PG \"plihtiz\" from OE \"pliht\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"plotta": {
 		"etymology": "From E \"plot\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"plottira": {
 		"etymology": "From \"plotta\" and \"tira\"",
 		"credit": "hydro",
 		"note": "Lit \"butt small\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"po": {
 		"etymology": "from Old Norse upp á, Norwegian på, Swedish på, Danish på",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"poni": {
 		"etymology": "From E \"pony\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ponifraemed": {
 		"etymology": "From \"poni\" and \"freamed\"",
 		"credit": "hydro",
 		"note": "Lit. \"pony framed\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"ponifych": {
 		"etymology": "From \"poni\" and \"fish\"",
@@ -5255,64 +3821,46 @@
 	},
 	"ponim": {
 		"etymology": "etymology poni+m",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ponisoua": {
 		"etymology": "From \"poni\" and \"soua\" see them separately for more detail",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ponisouam": {
 		"etymology": "etymology ponisoua+om",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Ponnaeg": {
 		"etymology": "From \"poni\" and \"neag\"",
 		"credit": "hydro",
 		"note": "Lit. \"pony speak\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"poper": {
 		"etymology": "From L. pauper",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"posk": {
 		"etymology": "????",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"poskgrazer": {
 		"etymology": "From \"posk\" and \"grazer\"",
 		"credit": "hydro",
 		"note": "Lit. \"plant eater\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"poskhouf": {
 		"etymology": "posk+houf",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"pot": {
 		"etymology": "Germanic pot",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"praesumo": {
 		"etymology": "praesumo>presumo>presum",
@@ -5323,292 +3871,207 @@
 		"credit": "hackd",
 		"description": "to prance, strut, show off",
 		"note": "Etymology: oþer (OE - (adj.) the second; (pron.) one of the two, other), antharaz (PG), athar (OS), other (OF), andar (OHG)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"presum": {
 		"etymology": "Etymology quite uncertain, theory: from L. \"pre\" and L. \"sum\" meaning something like \"before me\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"prijen": {
 		"etymology": "freogan (OE - liberate, love), fria (Old Frisian - make free), friohan (Old Saxon - woo), befreien (German - to free), freien (German - woo), frija (Proto-Germanic adj. - liberated, beloved), vri (OHG), frei (German), vrij (Dutch)",
 		"credit": "hackd",
 		"description": "to free, liberate; to love (I really like the poetic duality sourced from the etymology, but I've done love as an isolated verb as well)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"prijenaft": {
 		"etymology": "From \"prijen\" and \"aft\"",
 		"credit": "hydro",
 		"note": "Lit. \"free ness\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"raeg": {
 		"etymology": "regn (OE), reg- (PIE - moist, wet), regna- (Proto-Germanic), regan (Old Saxon), regn (Old Norse)",
 		"credit": "hackd",
 		"description": "(to) rain, shower",
-		"speech": [
-			"verb",
-			"noun"
-		]
+		"speech": ["verb", "noun"]
 	},
 	"raegnefyl": {
 		"etymology": "From \"read\" and \"nefyl\"",
 		"credit": "hydro",
 		"note": "Lit. \"rain cloud\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"raegvall": {
 		"etymology": "regn (OE), reg- (PIE - moist, wet), regna- (Proto-Germanic), regan (Old Saxon), regn (Old Norse)",
 		"credit": "hackd",
 		"description": "rainfall",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"raeten": {
 		"etymology": "From OE \"raedan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rafen": {
 		"etymology": "From E \"rub\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rath": {
 		"etymology": "read (OE), rod (OS), rad (OF), raudaz (PG), reudh- (PIE)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"rathwiet": {
 		"etymology": "From \"rath\" and \"wiet\"",
 		"credit": "hydro",
 		"note": "Lit. \"red white\"",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"refindan": {
 		"etymology": "From \"re\" and \"findan\"",
 		"credit": "hydro",
 		"note": "Lit. \"refind\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"regaelen": {
 		"etymology": "From \"re\" and \"gaelen\"",
 		"credit": "hydro",
 		"note": "Lit. \"retell\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rekuma": {
 		"etymology": "Old Ponish *re- + kumo* + -a*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"rekumo": {
 		"etymology": "Old Ponish *re- + kumo",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"resta": {
 		"etymology": "OE restan Old Dutch High German Saxon resten Frisian resta",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rienen": {
 		"etymology": "rinnan (OE, OS, OHG - to run, flow)",
 		"credit": "hackd",
 		"description": "to run",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rijan": {
 		"etymology": "From PG \"frijondz\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"rijanmaj": {
 		"etymology": "literally \"friend-make\" from rijan + majen",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"riksan": {
 		"etymology": "OE ricsian I rikja",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"riksar": {
 		"etymology": "riksan+ar",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"riksung": {
 		"etymology": "riksan+ung calque government",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"rind": {
 		"etymology": "OE rind",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ris": {
 		"etymology": "Proto-Germanic **risiz,* Old Norse *risi,* German *Riese,* Plautdietsch *Ries,* Faroese *risi,* Dutch *reus,* Afrikaans *reus",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"riten": {
 		"etymology": "From OE \"ridan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rithr": {
 		"etymology": "From OE \"hrathor\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"rostan": {
 		"etymology": "PG raustijaną",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rostvier": {
 		"etymology": "roatan+vier",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"roum": {
 		"etymology": "from From Proto-Germanic *rūmą, Old English rūm, Icelandic rúm, Gothic 𐍂𐌿𐌼, Danish rum, Swedish rum",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"roun": {
 		"etymology": "From OE \"run\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"rounwurd": {
 		"etymology": "OP roun+wurd E acronym",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"roup": {
 		"etymology": "from Old Ponish roupen, Proto-Germanic *hrōpaną, Faroese róp, Norwegian rop, Danish råb",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"roupen": {
 		"etymology": "from Proto-Germanic *hrōpaną, Faroese rópa, Icelandic hrópa, Danish råbe, Norwegian rope",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"roura": {
 		"etymology": "from Old Norse hrœra, Proto-Germanic *hrōzijaną, Norwegian røre, Swedish röra, Danish rod",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"rouren": {
 		"etymology": "from Old Ponish roura + -en, Norwegian røre",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"rousa": {
 		"etymology": "From E \"rose\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"noun"
-		]
+		"speech": ["adjective", "noun"]
 	},
 	"ryg": {
 		"etymology": "German Rücken Duthch rug Saxon hruggi",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sae": {
 		"etymology": "sæ (OE - sheet of water, sea, lake, pool), sær (Old Norse)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saek": {
 		"etymology": "From OE \"seoc\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"sael": {
 		"etymology": "From OE \"sael\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"saeldrawan": {
 		"etymology": "From \"seal\" and \"drawan\"",
 		"credit": "hydro",
 		"note": "Lit. \"magic throw\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"saeldrawaner": {
 		"etymology": "From \"seal\" and \"drawaner\"",
@@ -5619,281 +4082,202 @@
 		"etymology": "From\"sael\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit. \"holy place\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saelgescyft": {
 		"etymology": "From \"seal\" and \"gescyft\"",
 		"credit": "hydro",
 		"note": "Lit. \"holy creature\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saelponi": {
 		"etymology": "From \"seal\" and \"poni\"",
 		"credit": "hydro",
 		"note": "Lit. \"holy pony\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saelsetha": {
 		"etymology": "From \"seal\" and \"setha\"",
 		"credit": "hydro",
 		"note": "Lit. \"holy country\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saeltran": {
 		"etymology": "From \"seal\" and \"tran\"",
 		"credit": "hydro",
 		"note": "Lit. \"magic -ity\" \"tran\" appears to be an attempt at \"aft\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saelwergar": {
 		"etymology": "From \"seal\" and \"wergar\"",
 		"credit": "hydro",
 		"note": "Lit. \"magic warrior\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saer": {
 		"etymology": "OE sār",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saescatha": {
 		"etymology": "etymology OP sae+scatha, sea criminal",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saesnokkr": {
 		"etymology": "From \"sae\" and \"snokkr\"",
 		"credit": "hydro",
 		"note": "Lit. \"sea snake\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saeswististoarm": {
 		"etymology": "windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)",
 		"credit": "hackd",
 		"description": "hurricane",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"saeswystistoarm": {
 		"etymology": "From \"sea\" and \"swystistoarm\"",
 		"credit": "hydro",
 		"note": "Lit. \"sea tornado\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sakkr": {
 		"etymology": "From PG \"sukana\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"salen": {
 		"etymology": "OE sellan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"samos": {
 		"etymology": "From PG \"samdaz'",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"samosfum": {
 		"etymology": "sand+place",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"samostoarm": {
 		"etymology": "From \"samos\" and \"stoarm\"",
 		"credit": "hydro",
 		"note": "Lit. \"sand storm\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"samostoun": {
 		"etymology": "From \"samos\" and \"stoun\"",
 		"credit": "hydro",
 		"note": "Lit. \"sand stone\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sapenta": {
 		"etymology": "L sapientia>sapentia>sapenta",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scakka": {
 		"etymology": "From ON \"skaka\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"scatha": {
 		"etymology": "OE sceaþa",
 		"credit": "hydro",
 		"note": "From irish \"scath\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scie": {
 		"etymology": "From OE \"sceoh\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"scield": {
 		"etymology": "From OE \"scield\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scien": {
 		"etymology": "From OE \"scinan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"scip": {
 		"etymology": "Germanic sheep, Schaf, schaap, skiep",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scire": {
 		"etymology": "from shire",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scirepon": {
 		"etymology": "from shire+pony",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sclakta": {
 		"etymology": "From German \"Geschlecht\"",
 		"credit": "hydro",
 		"note": "Geschlect>Schlect>sclact>sclakta",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scort": {
 		"etymology": "OE sċort",
 		"credit": "hydro",
-		"speech": [
-			"adjective",
-			"adverb"
-		]
+		"speech": ["adjective", "adverb"]
 	},
 	"scortnoma": {
 		"etymology": "scort+noma",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scouta": {
 		"etymology": "from Old Norse skúta",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scouten": {
 		"etymology": "from Middle English shouten",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"scrieg": {
 		"etymology": "from Danish skrig, Swedish skrik, German Schrei, Old English hrēam",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scrigen": {
 		"etymology": "from Old Ponish scrieg + -en, Middle High German schrien, Proto-Germanic *skrīhaną",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"scunian": {
 		"etymology": "From OE \"scunian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"scurn": {
 		"etymology": "From G \"spjót, spere\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scyfto": {
 		"etymology": "From OE \"gesceap\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"Scyftolek": {
 		"etymology": "From \"Scyfto\" and \"lek\"",
 		"credit": "hydro",
 		"note": "Lit. \"shape body\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"scymren": {
 		"etymology": "From OE scymrian, scimrian, scimerian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"se": {
 		"etymology": "OE se",
 		"credit": "timeload",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"seaken": {
 		"etymology": "OE sēċan English seek German Suchen",
@@ -5906,941 +4290,672 @@
 	"searme": {
 		"etymology": "sae+arme I. sjóher",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sedur": {
 		"etymology": "From E. \"seduce\"",
 		"credit": "hydro",
 		"note": "Ultimately from L. \"seduco\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"sedurvul": {
 		"etymology": "From \"sedur\" and \"vul\"",
 		"credit": "hydro",
 		"note": "Lit. \"seduce full\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"Seirana": {
 		"etymology": "From \"Siren\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"selfonda": {
 		"etymology": "etymology selv+fonda",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"seltien": {
 		"etymology": "saltian, sealtian (OE - to dance), sel- (PIE - to jump), frician (OE - to dance), threskan (PG - to tread, to stamp noisily), tere- (PIE - to rub, turn), dreskan (OHG)",
 		"credit": "hackd",
 		"description": "to dance, skip, swing",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"selv": {
 		"etymology": "PG selbaz",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"selvysskrippung": {
 		"etymology": "from Old Ponish selv + vythe + skrippen + -ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sem": {
 		"etymology": "OE same,sama",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sendan": {
 		"etymology": "OE sendan Old Saxon sendian etc",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"senen": {
 		"etymology": "ME seem",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ser": {
 		"etymology": "From german \"sehr\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"sairaz\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"set": {
 		"etymology": "German Satz English Set Icelandic setning",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"setha": {
 		"etymology": "From OE \"settan\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"setten": {
 		"etymology": "From OE \"setten\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"shakka": {
 		"etymology": "sceacan (OE - move something quickly to and fro; move the body rapidly back and forth), skakanan (PG), shaka (ON)",
 		"credit": "hackd",
 		"description": "to shake",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"siboleth": {
 		"etymology": "siboleth",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sita": {
 		"etymology": "ON sitja/sita OE sittan Frisian sitta",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"skawen": {
 		"etymology": "sceawian (OE - to see, behold, observe; inspect; look for), skauwojan (PG), skauwon (OS), skawia (OF), scouwon (OHG - to look at), skau- (PG - behold, look at), skou- (PIE)",
 		"credit": "hackd",
 		"description": "to show, display, exhibit",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"skie": {
 		"etymology": "snaw (OE), sniegwh- (PIE), snaiwaz (Proto-Germanic), sneo (OHG), snjor (Old Norse), Schnee (German)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skiebjor": {
 		"etymology": "From \"skie\" and \"bjor\"",
 		"credit": "hydro",
 		"note": "Lit. \"snow bear\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Skiegieste": {
 		"etymology": "From \"skie\" and \"gieste\"",
 		"credit": "hydro",
 		"note": "Lit. \"snow ghost\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skiehart": {
 		"etymology": "From \"skie\" and \"hart\"",
 		"credit": "hydro",
 		"note": "Lit. \"snow deer\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skienefyl": {
 		"etymology": "From \"skie\" and \"nefyl\"",
 		"credit": "hydro",
 		"note": "Lit. \"snow cloud\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skiestoarm": {
 		"etymology": "snaw (OE), sniegwh- (PIE), snaiwaz (Proto-Germanic), sneo (OHG), snjor (Old Norse), Schnee (German)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skievall": {
 		"etymology": "snaw (OE), sniegwh- (PIE), snaiwaz (Proto-Germanic), sneo (OHG), snjor (Old Norse), Schnee (German)",
 		"credit": "hackd",
 		"description": "snowfall",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skieworg": {
 		"etymology": "From \"skie\" and \"worg\"",
 		"credit": "hydro",
 		"note": "Lit. \"snow wolf\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skoh": {
 		"etymology": "OE scoh",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skoun": {
 		"etymology": "From german \"scheon\" ultimately from PG \"skauniz\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"skrenken": {
 		"etymology": "cmb springa skehan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"skrenkung": {
 		"etymology": "from Old Ponish skrenken + -ung, Dutch geschiedenis, German Geschichte",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skribouk": {
 		"etymology": "skrippen+bouk calque Plautdietsch Schriewbuak Norwegian skrivebok",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skrieka": {
 		"etymology": "Swedish *skrik,* Danish *skrig,* German *Schrei,* Old English *hrēam*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"skrieken": {
 		"etymology": "Proto-Germanic **skrīhaną,* Norwegian *skrike,* Swedish *skrika,* Icelandic *skrækja,* Danish *skrige,* Afrikaans *skreeu,* German *schreien,* Plautdietsch *schrieen,* Dutch *schreeuwen,* Old English *hrīeman*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"skrippen": {
 		"etymology": "From PWG \"skriban\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"sla": {
 		"etymology": "From OE \"slaw\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"slaef": {
 		"etymology": "From OE \"slief\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"slaeken": {
 		"etymology": "OE sleacian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"slaekung": {
 		"etymology": "OP saleken+ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"slaep": {
 		"etymology": "From OE \"slæpan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"slaepgael": {
 		"etymology": "From \"sleap\" and \"geal\"",
 		"credit": "hydro",
 		"note": "Lit. \"sleep song\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sloen": {
 		"etymology": "Proto-Germanic *slahaną, Icelandic *slá,* Norwegian *slå,* Swedish *slå,* Danish *slå,* Dutch *slaan,* German *schlagen*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"slog": {
 		"etymology": "Old Ponish *sloen,* Proto-Germanic **slahaną,* Swedish *slog,* Danish *slog,* Yiddish *שלאָגן,* German *schlagen",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"smighl": {
 		"etymology": "From E. \"smile\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"smokka": {
 		"etymology": "OE smoca + AG σμύχω (smúkhō)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"snikkr": {
 		"etymology": "From OE \"snican\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"snokkr": {
 		"etymology": "From OE \"snaca\"",
 		"credit": "hydro",
 		"note": "Snaca>snoca>snocar?>snokr>snokkr",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"snout": {
 		"etymology": "From E \"snout\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"snoutol": {
 		"etymology": "From \"snout\" and \"tol\"",
 		"credit": "hydro",
 		"note": "Lit. \"snout hole\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"soa": {
 		"etymology": "swa, swæ (OE), swa (PG), so (OS, OHG), sva (ON), sa (OF), swo- (PIE)",
 		"credit": "hackd",
-		"speech": [
-			"adverb",
-			"conjunction"
-		]
+		"speech": ["adverb", "conjunction"]
 	},
 	"sollast": {
 		"etymology": "From L. \"solaris\" and \"caelestis\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"somer": {
 		"etymology": "From OE \"sumor\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sorg": {
 		"etymology": "From OE \"sorg\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"soua": {
 		"etymology": "OE sceo",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"souhring": {
 		"etymology": "OP soua+hring icelandic sjónbaugur",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"soulag": {
 		"etymology": "from Old Ponish soua + lag, literally \"sky law\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"soulagriks": {
 		"etymology": "from Old Ponish soua + lag + riks, literally \"sky law rule\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"southe": {
 		"etymology": "soth (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OH)",
 		"credit": "hackd",
 		"description": "truth",
-		"speech": [
-			"noun",
-			"adjective"
-		]
+		"speech": ["noun", "adjective"]
 	},
 	"sperk": {
 		"etymology": "From E. \"spark\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"spighk": {
 		"etymology": "From E \"spike\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sprenga": {
 		"etymology": "From E. \"spring\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"sprengira": {
 		"etymology": "sprenga+ira lit spring little",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stad": {
 		"etymology": "German Stadt OE stead Nordic staðr",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stal": {
 		"etymology": "ME stall",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stallo": {
 		"etymology": "From E \"stallion\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stallomae": {
 		"etymology": "OP stallo+mae E. androgynous",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"stallomaft": {
 		"etymology": "OP stallomae+aft E. androgyny",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stallosuma": {
 		"etymology": "OP stallo+suma",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"stallosumaft": {
 		"etymology": "OP stallosuma+aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stalluvjaft": {
 		"etymology": "OP stalluvji+aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stalluvji": {
 		"etymology": "stallo+luvji calque homosexual",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stampen": {
 		"etymology": "stempan (OE - to pound), stamp- (PG), stampfon (OHG), stappa (ON)",
 		"credit": "hackd",
 		"description": "to stomp, pound, stamp with the hoof)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stampfen": {
 		"etymology": "From E \"stomp\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"starfen": {
 		"etymology": "OE steorfan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stera": {
 		"etymology": "Old Ponish *steren + -a",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"steren": {
 		"etymology": "Proto-Germanic **starjaną,* Dutch *staren,* Icelandic *stara;* Old Norse *stira,* Swedish *stirra,* Danish *stirre,* Norwegian Bokmål *stirre,* Norwegian Nynorsk *stire*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stiegen": {
 		"etymology": "from German steigen, Old English stīgan, Gothic 𐍃𐍄𐌴𐌹𐌲𐌰𐌽, Yiddish שטײַגן‎",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stika": {
 		"etymology": "OE sticca",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stoarm": {
 		"etymology": "storm (EO - tempest, onrush, attack, disturbance), twer- (PIE - to turn, whirl), sturmaz (Proto-Germanic), stormr (Old Norse), storm (Dutch), sturm (OHG, German).",
 		"credit": "hackd",
 		"description": "(to) storm, rush, rage",
-		"speech": [
-			"verb",
-			"noun"
-		]
+		"speech": ["verb", "noun"]
 	},
 	"stoarmnefyl": {
 		"etymology": "From \"stoarm\" and \"nefyl\"",
 		"credit": "hydro",
 		"note": "Lit. \"storm cloud\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stoda": {
 		"etymology": "From OE \"stod\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stol": {
 		"etymology": "From OE stol",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"storlaet": {
 		"etymology": "From \"stor\" and \"leat\"",
 		"credit": "hydro",
 		"note": "Lit. \"star light\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"storra": {
 		"etymology": "From OE \"steorra\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"storralet": {
 		"etymology": "Old Ponish *storra + -let,* German *Sternchen*, Esperanto *steleto*, Russian *звёздочка*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stoun": {
 		"etymology": "From E \"stone\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stounfum": {
 		"etymology": "From \"stoun\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit. \"stoneroom\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stoungaedr": {
 		"etymology": "etymology cmb stoun and gaerdan ,suffix -er",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stoungescyft": {
 		"etymology": "From \"stoun\" and \"gescyft\"",
 		"credit": "hydro",
 		"note": "Lit. \"stone creature\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"stounmint": {
 		"etymology": "stoun+mint based on E headstrong",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"stour": {
 		"etymology": "Norse stórr",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"stourian": {
 		"etymology": "etymology stour+ian",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"stourligvier": {
 		"etymology": "stour+liga+vier",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"strek": {
 		"etymology": "OE streccan",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"strekan": {
 		"etymology": "see strek",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"strekvieg": {
 		"etymology": "strek+vieg",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"strighten": {
 		"etymology": "Old Frisian), strugr (Old Norse - ill will)",
 		"credit": "hackd",
 		"description": "to strive, struggle, strike",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"strogar": {
 		"etymology": "From E \"strong\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"strull": {
 		"etymology": "From OE \"stræl\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sudr": {
 		"etymology": "From ON \"suðr\" and PWG \"suth\"",
 		"credit": "hydro",
-		"speech": [
-			"noun",
-			"adjective",
-			"adverb"
-		]
+		"speech": ["noun", "adjective", "adverb"]
 	},
 	"suma": {
 		"etymology": "sum (OE, OS, OF, OHG), sumaz (PG), sumr (ON)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"suthe": {
 		"etymology": "soð (OE - truth; reality, certainty), santhaz (PG), soth (OS), sannr (ON), sand (OH)",
 		"credit": "hackd",
 		"description": "truth",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swaem": {
 		"etymology": "swefnian (OE - to appear in a dream), swefn (OE - sleep)",
 		"credit": "hackd",
 		"description": "to dream",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swaeren": {
 		"etymology": "sweart (OE), swordos (PIE)",
 		"credit": "hackd",
 		"description": "to swear, take an oath",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swafen": {
 		"etymology": "swápan (OE - to sweep with a brush). bruskaz (PG - underbrush)",
 		"credit": "hackd",
 		"description": "to brush, sweep",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swerth": {
 		"etymology": "sweart (OE), swordos (PIE)",
 		"credit": "hackd",
 		"description": "black, dark",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"swerven": {
 		"etymology": "Proto-Germanic **swerbaną,* Dutch *zwerven,* Old Norse *sverfa,* Old English *sweorfan*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swiga": {
 		"etymology": "OE swigian Old Frisian swigia",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swigaft": {
 		"etymology": "swiga+aft see swiga",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swimil": {
 		"etymology": "swimman (OE - to move through water), swimjan (PG), swimman (OHG, OS), svimma (ON), swem- (PIE - to be in motion)",
 		"credit": "hackd",
 		"description": "to swim",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swin": {
 		"etymology": "OE swīn",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swisti": {
 		"etymology": "windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)",
 		"credit": "hackd",
 		"description": "to whirl, spin",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swistigwend": {
 		"etymology": "windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)",
 		"credit": "hackd",
 		"description": "whirlwind",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swististoarm": {
 		"etymology": "windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)",
 		"credit": "hackd",
 		"description": "tornado",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swymyl": {
 		"etymology": "swimman (OE - to move through water), swimjan (PG), swimman (OHG, OS), svimma (ON), swem- (PIE - to be in motion)",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swysti": {
 		"etymology": "windan (OE - to turn, twist, whirl, swing), spinnan (OE - twist fibers into thread), hweorfan (OE - to turn), hvirfla (Old Norse - to go round, spin), kwerp- (PIE - to turn round), wendh- (PIE - to turn, wind, weave)",
 		"credit": "hackd",
 		"description": "to whirl, spin",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"swystigwend": {
 		"etymology": "From \"swysti\" and \"gwend\"",
 		"credit": "hydro",
 		"note": "Lit. \"spin wind\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"swystistoarm": {
 		"etymology": "From \"swysti\" and \"stoarm\"",
 		"credit": "hydro",
 		"note": "Lit. \"spin storm\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"sythan": {
 		"etymology": "From OE \"siþþan\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"taefen": {
 		"etymology": "læran (OE - to teach, instruct, guide). tæcan (OE - to show, explain, teach), taikijan (PG - to show), , deik- (PIE - to show).",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"taeg": {
 		"etymology": "From OE \"talu\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tael": {
 		"etymology": "tæl (OE), Zahl (German)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"taelvarg": {
 		"etymology": "From \"teal\" and \"varg\"",
 		"credit": "hydro",
 		"note": "Lit. \"number work\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tak": {
 		"etymology": "From OE \"taikn\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"talla": {
 		"etymology": "treo (OE - tree)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"teken": {
 		"etymology": "from Proto-Germanic *taikną, Old Norse teikn, Swedish tecken, Norwegian tegn, Danish tegn, Icelandic tákn, German Zeichen, Yiddish צייכן,",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"teth": {
 		"etymology": "OE toþ",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thaft": {
 		"etymology": "OE þuf (“tuft”), from French \"touffe\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thak": {
 		"etymology": "From OE \"thaec\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thakka": {
 		"etymology": "From LI \"thakka\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thar": {
 		"etymology": "From OE \"theare\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"that": {
 		"etymology": "From \"thar\" and suffix \"-it\"",
 		"credit": "hydro",
 		"note": "See \"-it\" for more detail",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"theofen": {
 		"etymology": "From OE \"theof\"",
@@ -6849,238 +4964,168 @@
 	"theoh": {
 		"etymology": "OE þeoh",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thet": {
 		"etymology": "From OE \"thanne\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"thike": {
 		"etymology": "OE þicce",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"thita": {
 		"etymology": "From ON \"thya\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"thou": {
 		"etymology": "From OE \"thu\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"thral": {
 		"etymology": "From ON \"thraell\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"thrywen": {
 		"etymology": "Norse þrífa ME thryven",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"thur": {
 		"etymology": "OE þorh, þurh, þerh, þærh German durch Dutch door",
-		"speech": [
-			"preposition",
-			"adjective",
-			"adverb"
-		]
+		"speech": ["preposition", "adjective", "adverb"]
 	},
 	"thyrywaft": {
 		"etymology": "from Old Ponish thrywen + -aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tiegel": {
 		"etymology": "OE tiġele Swedish tegel Plautdietsch Tieejel Yiddish ציגל",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tien": {
 		"etymology": "Proto-Germanic **tainaz,* Old Norse *teinn,* Westrobothnian *tein,* Icelandic *teinn,* Norwegian Nynorsk *tein,* Norwegian Bokmål *ten,* Swedish *ten,* Danish *ten",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tieth": {
 		"etymology": "ON tíð",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tikka": {
 		"etymology": "OE ticcen",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tol": {
 		"etymology": "From OE \"hol\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tomasca": {
 		"etymology": "From S \"tomate\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tonog": {
 		"etymology": "German Tönung",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tora": {
 		"etymology": "From Greek \"tora\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"torabouk": {
 		"etymology": "tora+bouk, lit. mean “time book”",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"toul": {
 		"etymology": "From OE \"tol\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"toume": {
 		"etymology": "from OE tōm, ON tómr.",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tovar": {
 		"etymology": "(from Proto-Germanic *taubrą, Icelandic töfra, Dutch toverij, German Zauber, German Zauberei, Plautdietsch Zaubarie)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"toward": {
 		"etymology": "From OE \"toweard\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"traejam": {
 		"etymology": "From OE \"traeppe\" and \"majen\"",
 		"credit": "hydro",
 		"note": "Treappenmajen>treappemajen>treapemajen>treapmajen>treajam",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"trampen": {
 		"etymology": "Proto-Germanic **trampaną,* Proto-West Germanic *trampan,* Dutch *trampen,* Norwegian *trampe,* Danish *trampe,* German *trampeln*",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"trapa": {
 		"etymology": "E \"trappings\" E \"thread\"  G \"traba\"",
 		"credit": "hydro",
 		"note": "Ultimately from PIE drab",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"trapim": {
 		"etymology": "From \"trapa\" and \"im\"",
 		"credit": "hydro",
 		"note": "Lit. \"to dress (which is bound to)\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tref": {
 		"etymology": "Old Ponish *treffen + -a* Afrikaans *tref*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"treffen": {
 		"etymology": "Proto-Germanic **drepaną,* Old High German *treffan,* Dutch *treffen* Luxembourgish *treffen,* Norwegian *treffe,* Danish *træffe,* Swedish * träffa*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"trendij": {
 		"etymology": "trendan (OE - turn round, revolve, roll), trandijan (PG)",
 		"credit": "hackd",
 		"description": "to roll",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"treo": {
 		"etymology": "treo (OE - tree)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"treolek": {
 		"etymology": "treo+lek",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"treost": {
 		"etymology": "From \"treo\" and possibly E \"trust\"",
 		"credit": "hydro",
 		"note": "Lit.\"tree trust\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"treosten": {
 		"etymology": "treowian (OE - to believe, trust), treysta (ON - to trust, rely on, make strong and safe). treowe (OE - faithful, trusty), deru- (PIE - be firm, solid, steadfast), traust (ON - help confidence, protection, support), traustam (PG), trast (OF), trost (OHG - trust, fidelity)",
 		"credit": "hackd",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"treostenaft": {
 		"etymology": "From \"treo\" and possibly E \"trust\"",
 		"credit": "hydro",
 		"note": "Lit.\"tree trust\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"trgy": {
 		"etymology": "ON tryggr",
@@ -7089,69 +5134,49 @@
 	"tribout": {
 		"etymology": "Old French tribut",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"trog": {
 		"etymology": "from Old Norse þrǫng, Icelandic þröngur, Norwegian Nynorsk trong, Swedish trång",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"trogen": {
 		"etymology": "from Old Ponish trog",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"trol": {
 		"etymology": "Old Norse *troll,* Norwegian *troll,* Swedish *troll,* German *Troll,* Dutch *trol,* Danish *trold,* Icelandic *tröll,* Faroese *trøll*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tronos": {
 		"etymology": "Greek θρόνος (thrónos)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"trotten": {
 		"etymology": "From E \"trot\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"tryg": {
 		"etymology": "Nordic trygg",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"tryn": {
 		"etymology": "From OE \"thaet\"",
 		"credit": "hydro",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"tul": {
 		"etymology": "From OE \"to\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"turt": {
 		"etymology": "From E \"turd\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"turtfum": {
 		"etymology": "From \"turt\" and \"fum\"",
@@ -7161,485 +5186,351 @@
 	"twigh": {
 		"etymology": "From character name \"twilight sparkle\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"twighaft": {
 		"etymology": "From character name \"twilight sparkle\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"twighlaet": {
 		"etymology": "From character name \"twilight sparkle\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"twynklen": {
 		"etymology": "From OE \"twinclian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"tyl": {
 		"etymology": "OE til",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"tymber": {
 		"etymology": "From OE \"timber\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tymbervarger": {
 		"etymology": "From \"tymber\" and \"varger\"",
 		"credit": "hydro",
 		"note": "Lit \"wood worker\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"tymberworg": {
 		"etymology": "From \"tymber\" and \"varfer\"",
 		"credit": "hydro",
 		"note": "Lit \"wood wolf\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"uggare": {
 		"etymology": "From ON \"uggligr\" LI \"ugglegur\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"uld": {
 		"etymology": "From E. \"old\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"uldmatra": {
 		"etymology": "From \"uld\" and \"matra\"",
 		"credit": "hydro",
 		"note": "Lit. \"old mother\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"uldpetra": {
 		"etymology": "From \"uld\" and \"petra\"",
 		"credit": "hydro",
 		"note": "Lit. \"old father\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ulf": {
 		"etymology": "From E. \"of\" in the sense that something origins from another,",
 		"credit": "hydro",
 		"note": "An archaic expression. \"I am of this land\"",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"undefined": {},
 	"unikeram": {
 		"etymology": "unikeran+om",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"unikeran": {
 		"etymology": "From L. \"unicornis\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"unluvji": {
 		"etymology": "E monosexual",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"unt": {
 		"etymology": "From OE \"ond\" and MG \"unt\"",
 		"credit": "hydro",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"unthe": {
 		"etymology": "From \"un\" and \"the\"",
 		"credit": "hydro",
 		"note": "Lit. \"one as an adjective\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"unthethe": {
 		"etymology": "unthe+the see unthe",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"unzer": {
 		"etymology": "From MG \"unser\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"usatien": {
 		"etymology": "From OE \"nyttian\" and L \"usare\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"ussen": {
 		"etymology": "From E. \"use\"",
 		"credit": "hydro",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"ut": {
 		"etymology": "From OE \"ut\"",
 		"credit": "hydro",
-		"speech": [
-			"noun",
-			"preposition"
-		]
+		"speech": ["noun", "preposition"]
 	},
 	"utskrippwurd": {
 		"etymology": "utskripp+wurd based on I. Lýsingarorð",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"utstoda": {
 		"etymology": "ut+stoda calque dutch uitsteken",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vael": {
 		"etymology": "French vallée",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vaelk": {
 		"etymology": "ælc (OE - (n., pron., adj.) any, all, every, each (one)), ellik (OF)",
 		"credit": "hackd",
 		"note": "contraction of ever-like (vaere + gilek), as it was in OE",
-		"speech": [
-			"adjective",
-			"pron"
-		]
+		"speech": ["adjective", "pron"]
 	},
 	"vaelkes": {
 		"etymology": "OP vaelk + German - es German alles",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vaelkgrazer": {
 		"etymology": "From \"vaelk\" and \"grazer\"",
 		"credit": "hydro",
 		"note": "Lit \"every eater\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vaenghuggen": {
 		"etymology": "From \"veangr\" and \"huggen\"",
 		"credit": "hydro",
 		"note": "Lit \"wing hug\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vaengr": {
 		"etymology": "From ON \"vaengr\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vaere": {
 		"etymology": "a (OE - always, ever), aiwi- (PG), aiw- (PIE); æfre (always, ever, at any time)",
 		"credit": "hackd",
 		"description": "always, ever",
 		"note": "can compound with kwa, kwane, kwar... (whatever, whoever, wherever…)",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"vaergrima": {
 		"etymology": "From \"veare\" and \"grima\"",
 		"credit": "hydro",
 		"note": "Lit \"always/forever green\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"Vaerprij": {
 		"etymology": "From \"vaere\" and \"priij\"",
 		"credit": "hydro",
 		"note": "Lit \"always/forever free\"",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"vaht": {
 		"etymology": "From OE \"feoht\"",
 		"credit": "hydro",
 		"note": "Feoht>veoht>vaoht>vaht",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vahten": {
 		"etymology": "From OE \"feoht\"",
 		"credit": "hydro",
 		"note": "Feoht>veoht>vaoht>vaht",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vahtfum": {
 		"etymology": "From \"vaht\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"fight room\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vajnkkwscen": {
 		"etymology": "From Middle English",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"valan": {
 		"etymology": "MG wēlen ON velja",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vall": {
 		"etymology": "feallan (OE - drop, fail, die), pol- (PIE - to fall), fallan (Proto-Germanic), falla (Old Norse)",
 		"credit": "hackd",
 		"description": "to fall, drop, collapse",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"varg": {
 		"etymology": "From OE \"weorc\", from ON \"verk\"",
 		"credit": "hydro",
 		"note": "Ultimately from PIE \"werg\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"varger": {
 		"etymology": "From OE \"weorc\", from ON \"verk\"",
 		"credit": "hydro",
 		"note": "Ultimately from PIE \"werg\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vargfum": {
 		"etymology": "From \"varg\" and \"fum\"",
 		"credit": "hydro",
 		"note": "Lit \"work room\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"varven": {
 		"etymology": "Proto-Germanic **hwarbōną,* Gothic *𐍈𐌰𐍂𐌱𐍉𐌽,* Old English *hwearfian,* Swedish *varva*",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vath": {
 		"etymology": "From ON \"bathir\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vathluv": {
 		"etymology": "vath+luvji calque bisexual",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vathluvjaft": {
 		"etymology": "OP vathluvji+aft",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"ved": {
 		"etymology": "From E \"wed\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vedbreken": {
 		"etymology": "OE æwbryce",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"veddag": {
 		"etymology": "From \"ved\" and \"dag\"",
 		"credit": "hydro",
 		"note": "Lit \"wed dag\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vedglokkr": {
 		"etymology": "From \"ved\" and \"dag",
 		"credit": "hydro",
 		"note": "Lit \"wed bell\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vedkoukel": {
 		"etymology": "From \"ved\" and \"koukel\"",
 		"credit": "hydro",
 		"note": "Lit \"wed cake\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"velatten": {
 		"etymology": "From D \"verdelen\" , MG \"verteilen\"",
 		"credit": "hydro",
 		"note": "Ultimately from PG \"fradailijana\"",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vem": {
 		"etymology": "From PG \"hwaz\", OE \"haw\" Danish \"hvem\" Norwegian \"hvem\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vemen": {
 		"etymology": "From OE \"niman\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vemth": {
 		"etymology": "vem+th",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vemvaere": {
 		"etymology": "etymology vem+vaere",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"veo": {
 		"etymology": "From OE \"beo\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vespangir": {
 		"etymology": "From \"vespyr\" and \"angire\"",
 		"credit": "hydro",
 		"note": "Lit \"anger wasp\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vespyr": {
 		"etymology": "OE wæps wæsp",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vestr": {
 		"etymology": "From Norse \"vestr\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vet": {
 		"etymology": "OE faett Afrikaans vet",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vi": {
 		"etymology": "From MG \"wie\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vieg": {
 		"etymology": "From OE \"weg\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"viegaeppal": {
 		"etymology": "vieg+aeppal original by hyreia :)",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vier": {
 		"etymology": "From OE \"fyr\" and E \"fire\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vierfugyl": {
 		"etymology": "From \"vier\" and \"fugyl\"",
@@ -7649,23 +5540,17 @@
 	"vimegyl": {
 		"etymology": "vib+megyl calque heptagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vine": {
 		"etymology": "From OE \"hwy\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vinsa": {
 		"etymology": "From L. \"vinum\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vinsafum": {
 		"etymology": "From \"vinsa\" and \"fum",
@@ -7675,15 +5560,11 @@
 	"vintar": {
 		"etymology": "From Norwegen \"vinter\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vislorna": {
 		"etymology": "etymology vis+lorna",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vitalorn": {
 		"etymology": "vita+lorna calque biology",
@@ -7692,24 +5573,18 @@
 	"vogresc": {
 		"etymology": "From MG \"vergriffe\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vram": {
 		"etymology": "vram (OE, OS, OHG), fra (PG, ON)",
 		"credit": "hackd",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"vuhkt": {
 		"etymology": "butan (Proto-Germanic), bhau- (PIE - to strike), bauta (Old Norse), boten (Low German). cnocian (OE - to pound, beat, knock (on a door))",
 		"credit": "hackd",
 		"description": "to buck, kick, knock, strike by thrusting",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vukt": {
 		"etymology": "butan (Proto-Germanic), bhau- (PIE - to strike), bauta (Old Norse), boten (Low German). cnocian (OE - to pound, beat, knock (on a door)",
@@ -7717,87 +5592,63 @@
 	},
 	"vulen": {
 		"etymology": "from full",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vurm": {
 		"etymology": "OE wyrm Duth wurm English worm",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vut": {
 		"etymology": "From OE \"wudu\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vyr": {
 		"etymology": "From OE \"for\"",
 		"credit": "hydro",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"vys": {
 		"etymology": "From OE \"this\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"vysdag": {
 		"etymology": "From \"vys\" and \"dag\"",
 		"credit": "hydro",
 		"note": "Lit \"this day\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vysskrippung": {
 		"etymology": "from Old Ponish vythe + skrippen + -ung",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vystyl": {
 		"etymology": "From OE \"hwistlian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"vythe": {
 		"etymology": "lifian, libban (OE - to be, be alive, have life; continue in life; to experience; to supply oneself with food), liben (PG), libba (OF), lifa (ON - to live, (of fire) to burn",
 		"credit": "hackd",
 		"description": "to live, to procure subsistence, (of fire) to burn",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"vythen": {
 		"etymology": "OE lifian I.lifa",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"waelen": {
 		"etymology": "From OE \"weall\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wak": {
 		"etymology": "OE wāc",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"waken": {
 		"etymology": "weaxan (OE - to increase, grow), wahsan (PG, OS, OHG), vaxa (ON), waxa (OF), weg- (PIE)",
@@ -7807,299 +5658,213 @@
 	"waksen": {
 		"etymology": "OE weaxan  Old frisian waxa",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wal": {
 		"etymology": "From OE \"wel\"",
 		"credit": "hydro",
-		"speech": [
-			"interjection"
-		]
+		"speech": ["interjection"]
 	},
 	"wandren": {
 		"etymology": "Proto-Germanic **wandrōną,* German *wandern,* Dutch *wandelen,* Afrikaans *wadel*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wanen": {
 		"etymology": "From OE \"wana\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wapen": {
 		"etymology": "Old frisan wapin West Frisian wapen",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"warna": {
 		"etymology": "OE warnian",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"warnan": {
 		"etymology": "OE warnian",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wasta": {
 		"etymology": "baþian (OE - to wash, take a bath), badon (OHG - bathing), baden (German). wascan (OE - to wash, cleanse, bathe), watskan (PG), vaska (ON), wed- (PIE - water, wet)",
 		"credit": "hackd",
 		"description": "to wash, bathe",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wastabjor": {
 		"etymology": "wasta+bjor German Waschbär calque Ursus lotor",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wastafum": {
 		"etymology": "baþian (OE - to wash, take a bath), badon (OHG - bathing), baden (German). wascan (OE - to wash, cleanse, bathe), watskan (PG), vaska (ON), wed- (PIE - water, wet)",
 		"credit": "hackd",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"waxen": {
 		"etymology": "weaxan (OE - to increase, grow), wahsan (PG, OS, OHG), vaxa (ON), waxa (OF), weg- (PIE)",
 		"credit": "hackd",
 		"description": "to grow big or greater, to wax",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wegnen": {
 		"etymology": "áwegan (OE - to lift up), æfnan (OE - to carry out, labor), wegan (OE - to carry, support, sustain, bear, weigh, measure)",
 		"credit": "hackd",
 		"description": "to carry, support",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wen": {
 		"etymology": "From OE \"wenian\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wenna": {
 		"etymology": "From \"wen\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"weorld": {
 		"etymology": "OE weorold",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wergar": {
 		"etymology": "E warrior",
 		"credit": "hydro",
 		"note": "Lit \"war er\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"werth": {
 		"etymology": "OE weorth",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wesa": {
 		"etymology": "(from Proto-Germanic *wesaną, Old High German wesan, German Wesen, Dutch wezen)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wida": {
 		"etymology": "WG widu",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"widhakkr": {
 		"etymology": "wood+chopper",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wiekalen": {
 		"etymology": "From PG \"waljana\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wieken": {
 		"etymology": "From OE \"cwysan\"",
 		"credit": "hydro",
 		"note": "Cwysan>kwysen>kwycen>kwysen>wyken>wyeken>wieken",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wier": {
 		"etymology": "From OE \"we\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"wiethen": {
 		"etymology": "OE waethan ON veitha",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wiht": {
 		"etymology": "OE wiht",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wihthe": {
 		"etymology": "wiht+the calque E weighty",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"wik": {
 		"etymology": "from OE “wucu”, Old Frisian “wike”, Middle Dutch “weke”, Old High German “wecha”, and German “woche",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wikdag": {
 		"etymology": "wik+dag",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wikende": {
 		"etymology": "wik+ende",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wit": {
 		"etymology": "From OE \"wit\"",
 		"credit": "hydro",
-		"speech": [
-			"pronoun"
-		]
+		"speech": ["pronoun"]
 	},
 	"witt": {
 		"etymology": "Proto-Germanic **witaną,* Proto-West Germanic *\\*witan,* Low German *wetten,* German *wissen,* Dutch *weten,* Gothic *𐍅𐌹𐍄𐌰𐌽*)",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wittaft": {
 		"etymology": "Old Ponish *witten + -aft,* German *Wissenschaft,* Dutch *wetenschap,* Afrikaans *wetenskap,* Yiddish וויסנשאַפֿט Faroese *visindi,* Icelandic *ví­sindi,* Norwegian Bokmål *vitenskap,",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"witten": {
 		"etymology": "(from Proto-Germanic *\\*witaną,* Proto-West Germanic *\\*witan,* Low German *wetten,* German *wissen,* Dutch *weten,* Gothic *𐍅𐌹𐍄𐌰𐌽*)",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"witter": {
 		"etymology": "witten+agent suffix -r",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wittlorna": {
 		"etymology": "Old Ponish *witten + lorna,* English *kenlore*",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wo": {
 		"etymology": "From E \"wo\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"woaja": {
 		"etymology": "wæter (OE), wod-or (PIE - water, wet), watar (Proto-Germanic), wazzar (OHG), vatn (Old Norse)",
 		"credit": "hackd",
 		"description": "water",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wojatol": {
 		"etymology": "From \"woja\" and \"tol\"",
 		"credit": "hydro",
 		"note": "Lit \"water hole\"",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wona": {
 		"etymology": "Old Ponish wonen + -a",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"worg": {
 		"etymology": "From OE \"wearg\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"worthig": {
 		"etymology": "From OE \"weorthlic\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"wos": {
 		"etymology": "From OE \"wos\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wult": {
 		"etymology": "holt (OE - woods, forest, grove), wudu (OE - wood), widu (OE - tree, forest), treo (OE - tree), hultam (PG - forest), trewam (PG - tree), kldo- (PIE)",
 		"credit": "hackd",
 		"description": "forest, woodland",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wunan": {
 		"etymology": "OE wunian Germanic wohnen",
@@ -8108,65 +5873,47 @@
 	"wundr": {
 		"etymology": "From OE \"wundor\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurd": {
 		"etymology": "From PG \"wurda\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurdbouk": {
 		"etymology": "wurd+bouk Germanic wurdą* bōks*",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurdgrom": {
 		"etymology": "wurd+groma",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurdlag": {
 		"etymology": "wurd+lag OE stæfcræft",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurdlorna": {
 		"etymology": "wurd+lorna calque etymology",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wurdrawan": {
 		"etymology": "wurd+drawan based on saeldrawan original by hyreia :)",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wyls": {
 		"etymology": "From OE \"wyllan\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wysan": {
 		"etymology": "OE wȳsċan",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wythneag": {
 		"etymology": "wythnr+neag calque contradict",
@@ -8175,23 +5922,17 @@
 	"wythr": {
 		"etymology": "From OE \"wither\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wythren": {
 		"etymology": "From OE \"wither\"",
 		"credit": "hydro",
-		"speech": [
-			"verb"
-		]
+		"speech": ["verb"]
 	},
 	"wythri": {
 		"etymology": "From E \"withers\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"wythriponi": {
 		"etymology": "wythri+poni",
@@ -8199,26 +5940,20 @@
 	},
 	"wythrlan": {
 		"etymology": "wyþr+lan",
-		"speech": [
-			"preposition"
-		]
+		"speech": ["preposition"]
 	},
 	"yev": {
 		"etymology": "gif (OE), ef (OS, ON), gef (OF), ibu (OHG)",
 		"credit": "hackd",
 		"description": "if",
 		"note": "the g's cited in the etymology were pronounced more like \"y\"",
-		"speech": [
-			"conjunction"
-		]
+		"speech": ["conjunction"]
 	},
 	"yieta": {
 		"etymology": "get, gieta (OE), ieta (OF)",
 		"credit": "hackd",
 		"description": "yet, till now, thus far",
-		"speech": [
-			"adverb"
-		]
+		"speech": ["adverb"]
 	},
 	"ymd": {
 		"etymology": "OE ymb ymbe",
@@ -8227,50 +5962,36 @@
 	"zaed": {
 		"etymology": "OE sæd",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"zemegyl": {
 		"etymology": "zep+megyl calque haxagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"zenna": {
 		"etymology": "From MG \"zinn\"",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"zie": {
 		"etymology": "Chinese chá/zai",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"zousse": {
 		"etymology": "From MG \"sub\" , OE \"swete\"",
 		"credit": "hydro",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	},
 	"zundemegyl": {
 		"etymology": "zunden+megyl calque dodecagon",
 		"credit": "hydro",
-		"speech": [
-			"noun"
-		]
+		"speech": ["noun"]
 	},
 	"zunthe": {
 		"etymology": "oþer (OE - (adj.) the second; (pron.) one of the two, other), antharaz (PG), athar (OS), other (OF), andar (OHG)",
 		"credit": "hackd",
-		"speech": [
-			"adjective"
-		]
+		"speech": ["adjective"]
 	}
 }
