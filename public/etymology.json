@@ -3141,6 +3141,10 @@
 		"credit": "hydro",
 		"speech": ["noun"]
 	},
+	"masecr": {
+		"etymology": "OE 'mece', O 'maekir'.",
+		"speech": ["noun"]
+	},
 	"minmasecr": {
 		"etymology": "cmb 'min' + 'maescr', lit. 'small sword'.\"",
 		"speech": ["noun"]
