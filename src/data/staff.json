@@ -1,27 +1,27 @@
 [
 	{
 		"name": "Cloud Range",
-		"discord": "Hyreia#1223",
+		"discord": "hyreia.cloud",
 		"role": "Project Leader"
 	},
 	{
 		"name": "Maple",
-		"discord": "Maple#4910",
+		"discord": "curemaple",
 		"role": "Head of Public Relations"
 	},
 	{
 		"name": "Aeleoglyphic",
-		"discord": "aeleoglyphic#7989",
+		"discord": "aeleoglyphic",
 		"role": "Moderator, Lead Etymologist"
 	},
 	{
 		"name": "NavyBr0wnie",
-		"discord": "NavyBr0wnie#0231",
+		"discord": "navybr0wnie",
 		"role": "Moderator"
 	},
 	{
 		"name": "Jaezmien Naejara",
-		"discord": "Jaezmien#5384",
+		"discord": "jaezmien",
 		"role": "Moderator, Bot Handler, Webmaster"
 	}
 ]
