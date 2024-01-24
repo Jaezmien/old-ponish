@@ -12,5 +12,28 @@ const { name, discord, role } = Astro.props;
 <div class="w-full md:w-[20rem] p-5 border border-light-800 bg-white rounded shadow-md">
 	<h1 class="text-2xl font-roboto-serif font-bold">{name}</h1>
 	{discord && <h4 class="text-sm opacity-80 -mt-1">{discord}</h4>}
-	<p class="mt-2">{role}</p>
+	<div>
+		<p class="flex flex-row gap-1">
+			{
+				role.split(',').map((r: string, i: number, a: any[]) => {
+					return (
+						<span class="flex flex-row gap-1 place-content-center items-center">
+							{r.trim().startsWith('Pillar') && (
+								<span>
+									<img
+										src="pillar.png"
+										width="16px"
+										height="16px"
+										alt="Pillars of Old Ponish"
+										title="Pillars of Old Ponish"
+									/>
+								</span>
+							)}
+							<span>{r.trim() + (i !== a.length - 1 ? ', ' : '')}</span>
+						</span>
+					);
+				})
+			}
+		</p>
+	</div>
 </div>
