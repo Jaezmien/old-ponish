@@ -1,6 +1,6 @@
 [build]
 	publish = "dist"
-	command = "astro build"
+	command = "node ./prepare.js && astro build"
 
 [[redirects]]
 	from = "/discord"
