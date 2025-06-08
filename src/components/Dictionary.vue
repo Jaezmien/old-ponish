@@ -4,8 +4,8 @@
 	import type { DictionaryType, EtymologyType } from '../types';
 	import WordCard from './WordCard.vue';
 
-	const LETTERS = 'abdefghijklmnoprstuvwyz';
-	const currentLetter = ref('a');
+	const letters = ref('');
+	const currentLetter = ref('');
 	const loaded = ref(false);
 
 	const Dictionary = ref<DictionaryType>({});
@@ -32,9 +32,23 @@
 		return rem * parseFloat(getComputedStyle(document.documentElement).fontSize);
 	}
 
+	function upperLettter(letter: string) {
+		if (/^[a-z]$/.test(letter.toLowerCase())) {
+			return letter.toUpperCase()
+		}
+		return letter
+	}
+
 	onMounted(async () => {
-		Dictionary.value = await loadJSON('/dictionary.json?ver=1.15');
-		Etymology.value = await loadJSON('/etymology.json?ver=1.15');
+		Dictionary.value = await loadJSON('/dictionary.json?ver=1.18');
+		Etymology.value = await loadJSON('/etymology.json?ver=1.18');
+
+		const availableLetters = new Set<string>()
+		for(const word of Object.keys(Dictionary.value)) {
+			availableLetters.add(word[0].toLowerCase())
+		}
+		letters.value = Array.from(availableLetters.values()).join('')
+		currentLetter.value = letters.value[0]
 
 		loaded.value = true;
 
@@ -66,12 +80,12 @@
 		<div v-if="loaded">
 			<nav class="flex flex-row flex-wrap place-content-center gap-2 mb-8">
 				<button
-					v-for="letter in LETTERS.split('')"
+					v-for="letter in letters.split('')"
 					:key="letter"
 					:class="['text-xl p-1', { 'font-extrabold underline': currentLetter == letter }]"
 					@click="currentLetter = letter"
 				>
-					{{ letter.toUpperCase() }}
+					{{ upperLettter(letter) }}
 				</button>
 			</nav>
 
