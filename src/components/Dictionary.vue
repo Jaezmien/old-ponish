@@ -40,8 +40,8 @@
 	}
 
 	onMounted(async () => {
-		Dictionary.value = await loadJSON('/dictionary.json?ver=1.18');
-		Etymology.value = await loadJSON('/etymology.json?ver=1.18');
+		Dictionary.value = await loadJSON('/dictionary.json?ver=1.18.1');
+		Etymology.value = await loadJSON('/etymology.json?ver=1.18.1');
 
 		const availableLetters = new Set<string>()
 		for(const word of Object.keys(Dictionary.value)) {
