@@ -1,0 +1,27 @@
+---
+import Etymology from '../components/Etymology.vue';
+import Layout from '../layouts/BaseLayout.astro';
+---
+
+<Layout title="Dictionary">
+	<main class="p-12">
+		<h1 class="font-bold text-4xl md:text-5xl text-center font-roboto-serif">Etymology</h1>
+		<hr class="border-gray-400 my-8" />
+
+		<noscript class="prose max-w-none text-center">
+			<h1 class="text-4xl font-bold font-roboto-serif">Hey!</h1>
+			<p>
+				This page requires JavaScript to function. If you don't want to enable JavaScript - feel free to
+				<a href="/download" class="text-ponish-900 underline">download the dictionary</a>
+				instead!
+			</p>
+		</noscript>
+
+		<Etymology client:idle />
+	</main>
+</Layout>
+
+<script>
+	const search = document.querySelector('#search') as HTMLDivElement;
+	search.style.visibility = 'visible';
+</script>

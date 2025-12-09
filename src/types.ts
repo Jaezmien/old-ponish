@@ -18,6 +18,7 @@ export interface DictionaryCharacter {
 
 export interface EtymologyWord {
 	etymology: string;
+	speech?: string[];
 	credit?: string;
 	description?: string;
 	note?: string;
