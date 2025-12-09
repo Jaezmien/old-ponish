@@ -1,23 +1,18 @@
 <script setup lang="ts">
-	import { PropType, onUnmounted, ref, watch } from 'vue';
+	import { onUnmounted, ref, watch } from 'vue';
 	import Chain from '../assets/icons/chain.svg?raw';
 	import Chevron from '../assets/icons/chevron.svg?raw';
 	import Warning from '../assets/icons/warning.svg?raw';
-	import type { DictionaryWord, EtymologyWord } from '../types';
 
 	const props = defineProps({
 		word: {
 			type: String,
 			required: true,
 		},
-		content: {
-			type: Object as PropType<DictionaryWord>,
-			required: true,
-		},
-		etymology: {
-			type: Object as PropType<EtymologyWord>,
+		nsfw: {
+			type: Boolean,
 			required: false,
-			default: null,
+			default: false,
 		},
 	});
 
@@ -31,10 +26,6 @@
 
 	const copied = ref(false);
 	const copied_timeout = ref<NodeJS.Timeout | null>(null);
-
-	function case_word(word: string) {
-		return word.substring(0, 1).toUpperCase() + word.substring(1).toLowerCase();
-	}
 
 	function copy_link() {
 		if (copied.value) return;
@@ -88,7 +79,7 @@
 		>
 			<p>{{ word }}</p>
 
-			<div title="This word is marked as Not Safe For Work" v-if="content.nsfw" class="ml-2">
+			<div title="This word is marked as Not Safe For Work" v-if="nsfw" class="ml-2">
 				<div v-html="Warning" />
 			</div>
 
@@ -116,77 +107,9 @@
 					</Transition>
 				</button>
 
-				<h2 class="inline text-xl font-bold mr-2">Definition</h2>
-				<small class="inline">({{ content.speech?.map(case_word).join(' · ') }})</small>
-
-				<p class="text-sm">: {{ content.definition }}</p>
-
-				<div v-if="content.character">
-					<div v-if="content.character.english && content.character.english != content.definition">
-						<p>
-							<b>Character Name:</b>
-							{{ content.character.english }}
-						</p>
-					</div>
-					<div class="text-xs opacity-60" v-if="content.character.justification">
-						<p>
-							<b>Justification:</b>
-							{{ content.character.justification }}
-						</p>
-					</div>
-				</div>
-
-				<div class="flex mt-4 text-xs opacity-60 gap-2" v-if="content.note || content.similar">
-					<div class="text-left mt-auto">
-						<p v-if="content.note">{{ content.note }}</p>
-					</div>
-					<div class="ml-auto text-right mt-auto">
-						<p v-if="content.similar && typeof content.similar == 'object'">
-							This word is also similar to {{ content.similar.join(', ') }}
-						</p>
-					</div>
-				</div>
 			</section>
 
-			<section v-if="content.nsfw && Object.keys(content.nsfw).length">
-				<hr class="border-gray-300 my-4" />
-
-				<div v-if="content.nsfw.definition">
-					<h4 class="text-xl font-bold">NSFW Description</h4>
-					<p class="text-sm">{{ content.nsfw.definition }}</p>
-				</div>
-				<div v-if="content.nsfw.in_universe">
-					<h4 class="text-xl font-bold">In Universe Reason</h4>
-					<p class="text-sm">{{ content.nsfw.in_universe }}</p>
-				</div>
-				<div v-if="content.nsfw.out_universe">
-					<h4 class="text-xl font-bold">Out Of Universe Reason</h4>
-					<p class="text-sm">{{ content.nsfw.out_universe }}</p>
-				</div>
-			</section>
-
-			<section v-if="etymology" v-once>
-				<hr class="border-gray-300 my-4" />
-
-				<h2 class="text-xl font-bold mr-2">Etymology</h2>
-				<p class="text-sm">{{ etymology.etymology }}</p>
-
-				<div class="mt-4 text-xs opacity-60 flex flex-row" v-if="etymology.note || etymology.credit">
-					<div class="">
-						<div v-if="etymology.note">
-							<p>{{ etymology.note }}</p>
-						</div>
-					</div>
-					<div class="ml-auto pl-4">
-						<div v-if="etymology.credit">
-							<p>
-								Credits to
-								<b class="font-bold">{{ etymology.credit }}</b>
-							</p>
-						</div>
-					</div>
-				</div>
-			</section>
+			<slot></slot>
 		</div>
 	</div>
 </template>
