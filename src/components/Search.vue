@@ -74,7 +74,7 @@ onMounted(async () => {
     </button>
   </nav>
 
-  <section class="flex flex-col gap-2">
+  <section class="flex flex-col gap-2 mt-4">
     <slot :words="filtered" />
   </section>
 </template>
