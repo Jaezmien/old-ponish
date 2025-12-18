@@ -27,7 +27,7 @@ const filtered = computed(() => {
     <input
       type="text"
       v-model="filter"
-      class="p-2 w-full rounded"
+      class="p-2 w-full rounded border border-gray-800/20"
       placeholder="Type some keywords here..."
     />
   </nav>
