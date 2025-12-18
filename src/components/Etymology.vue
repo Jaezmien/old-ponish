@@ -4,6 +4,7 @@ import { onMounted, ref } from 'vue';
 import type { DictionaryType, EtymologyType } from '../types';
 import WordCard from './WordCard.vue';
 import Search from './Search.vue';
+import SearchFilter from './SearchFilter.vue';
 
 const Dictionary = ref<DictionaryType>({});
 const Etymology = ref<EtymologyType>({});
@@ -52,46 +53,54 @@ onMounted(async () => {
 <template>
 	<div id="search" class="invisible">
 		<div v-if="loaded">
-			<Search :data="Etymology" v-slot="props" @link="scrollToWord">
-				<WordCard
-					v-for="word of props.words"
-					:key="`search-${word}`"
-					:word="word"
+			<SearchFilter :data="Etymology" v-slot="_props" :filter="
+				(i, k, v) => {
+					return v.etymology?.toLocaleLowerCase().includes(i) ||
+						v.description?.toLocaleLowerCase().includes(i) ||
+						k.toLocaleLowerCase().includes(i)
+				}
+			">
+				<Search :data="_props.words" v-slot="props" @link="scrollToWord">
+					<WordCard
+						v-for="word of props.words"
+						:key="`search-${word}`"
+						:word="word"
 
-					:ref="
-						(el) => {
-							// what.
-							word_refs[word] = el as InstanceType<typeof WordCard>;
-						}
-					"
-				>
-					<!-- HACK: don't do this. -->
-					<section v-for="e in [Etymology[word]]">
-							<h2 class="text-xl font-bold mr-2">Etymology</h2>
-							<small class="inline" v-if="e.speech">({{ e.speech.map(case_word).join(' · ') }})</small>
+						:ref="
+							(el) => {
+								// what.
+								word_refs[word] = el as InstanceType<typeof WordCard>;
+							}
+						"
+					>
+						<!-- HACK: don't do this. -->
+						<section v-for="e in [Etymology[word]]">
+								<h2 class="text-xl font-bold mr-2">Etymology</h2>
+								<small class="inline" v-if="e.speech">({{ e.speech.map(case_word).join(' · ') }})</small>
 
-							<p class="text-sm">{{ e.etymology }}</p>
-							<p class="text-sm" v-if="e.description">:{{ e.description }}</p>
+								<p class="text-sm">{{ e.etymology }}</p>
+								<p class="text-sm" v-if="e.description">:{{ e.description }}</p>
 
-							<div class="mt-4 text-xs opacity-60 flex flex-row"
-								v-if="e.note || e.credit">
-								<div class="">
-									<div v-if="e.note">
-										<p>{{ e.note }}</p>
+								<div class="mt-4 text-xs opacity-60 flex flex-row"
+									v-if="e.note || e.credit">
+									<div class="">
+										<div v-if="e.note">
+											<p>{{ e.note }}</p>
+										</div>
+									</div>
+									<div class="ml-auto pl-4">
+										<div v-if="e.credit">
+											<p>
+												Credits to
+												<b class="font-bold">{{ e.credit }}</b>
+											</p>
+										</div>
 									</div>
 								</div>
-								<div class="ml-auto pl-4">
-									<div v-if="e.credit">
-										<p>
-											Credits to
-											<b class="font-bold">{{ e.credit }}</b>
-										</p>
-									</div>
-								</div>
-							</div>
-					</section>
-				</WordCard>
-			</Search>
+						</section>
+					</WordCard>
+				</Search>
+			</SearchFilter>
 		</div>
 		<div v-else>
 			<p class="italic text-center">Loading the etymology...</p>
